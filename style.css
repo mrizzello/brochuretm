@@ -1,0 +1,16 @@
+i.fa.fa-file-pdf-o{
+  color: red;
+}
+p{
+  text-align: justify;
+}
+
+.page-inner img {
+  height: 12em;
+}
+
+.signature p {
+  text-align: right;
+  width: 90%;
+  padding-top: 3rem;
+}

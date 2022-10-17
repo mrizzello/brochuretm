@@ -1,0 +1,11 @@
+book_filename: "brochures-TM-2023"
+output_dir: "_book"
+language:
+  ui:
+    chapter_name: ""
+delete_merged_file: true
+rmd_files:
+  - "index.Rmd"
+  - "themes/philosophie-de-lart-la-beaute-et-la-verite.Rmd"
+  - "themes/le-recit-de-voyage.Rmd"
+  - "themes/le-jeu-video-fiction-ou-realite.Rmd"

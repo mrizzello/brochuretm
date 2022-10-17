@@ -1,0 +1,17 @@
+---
+title: "Travaux de maturité 2023"
+date: "`r format(Sys.time(), '%d.%m.%Y')`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+classoption:
+  - openany
+github-repo: "mrizzello/borchuretm"
+description: "Brochure de présentation des thèmes proposés aux élèves 2M du GNLC"
+lang: fr
+papersize: a5
+fontsize: 11pt
+geometry: margin=20mm
+---
+
+# Préambule {-}

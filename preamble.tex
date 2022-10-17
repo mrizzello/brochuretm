@@ -1,0 +1,48 @@
+\usepackage[T1]{fontenc}
+\usepackage[]{plex-otf}
+\renewcommand*\familydefault{\sfdefault}
+
+\widowpenalty10000
+\clubpenalty10000
+
+\renewcommand{\arraystretch}{1.5}
+
+\usepackage{booktabs}
+\usepackage{tabto}
+
+\usepackage{fancyhdr}
+\setlength{\headheight}{14pt}
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{\leftmark}
+\lfoot{}
+\cfoot{\footnotesize\thepage}
+\rfoot{}
+\renewcommand{\headrulewidth}{0.2pt}
+\renewcommand{\footrulewidth}{0.2pt}
+\renewcommand{\chaptermark}[1]{\markboth{\footnotesize\space#1}{}}
+% \renewcommand{\chaptermark}[1]{\markboth{\footnotesize\thechapter.\space#1}{}}
+
+\fancypagestyle{plain}{
+  \setlength{\headheight}{14pt}
+  \pagestyle{fancy}
+  \lhead{}
+  \chead{}
+  \rhead{}
+  \lfoot{}
+  \cfoot{\footnotesize\thepage}
+  \rfoot{}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0.2pt}
+}
+
+\setcounter{tocdepth}{1}
+
+\usepackage{titlesec}
+\titlespacing{\chapter}{0em}{0em}{1em}
+\titleformat{\chapter}[display]{\normalfont\bfseries\centering}{}{0pt}{\Large}
+\titleformat{\section}[display]{\normalfont\bfseries}{}{0pt}{\large}
+\titleformat{\subsection}[display]{\normalfont\bfseries}{}{0pt}{\normalsize}
+
+\newenvironment{signature}{\vspace{2em}\hfill}{}
