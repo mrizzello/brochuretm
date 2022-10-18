@@ -3,7 +3,7 @@
 \PassOptionsToPackage{hyphens}{url}
 %
 \documentclass[
-  11pt,
+  10pt,
   french,
   a5paper,
   openany]{book}
@@ -80,25 +80,15 @@
 
 \renewcommand{\arraystretch}{1.5}
 
+\setcounter{tocdepth}{1}
+
 \usepackage{booktabs}
 \usepackage{tabto}
 
 \usepackage{fancyhdr}
-\setlength{\headheight}{14pt}
-\pagestyle{fancy}
-\lhead{}
-\chead{}
-\rhead{\leftmark}
-\lfoot{}
-\cfoot{\footnotesize\thepage}
-\rfoot{}
-\renewcommand{\headrulewidth}{0.2pt}
-\renewcommand{\footrulewidth}{0.2pt}
-\renewcommand{\chaptermark}[1]{\markboth{\footnotesize\space#1}{}}
-% \renewcommand{\chaptermark}[1]{\markboth{\footnotesize\thechapter.\space#1}{}}
+\setlength{\headheight}{15pt}
 
 \fancypagestyle{plain}{
-  \setlength{\headheight}{14pt}
   \pagestyle{fancy}
   \lhead{}
   \chead{}
@@ -110,7 +100,15 @@
   \renewcommand{\footrulewidth}{0.2pt}
 }
 
-\setcounter{tocdepth}{1}
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{\footnotesize Travaux de maturité 2023}
+\lfoot{}
+\cfoot{\footnotesize\thepage}
+\rfoot{}
+\renewcommand{\headrulewidth}{0.2pt}
+\renewcommand{\footrulewidth}{0.2pt}
 
 \usepackage{titlesec}
 \titlespacing{\chapter}{0em}{0em}{1em}
@@ -118,7 +116,8 @@
 \titleformat{\section}[display]{\normalfont\bfseries}{}{0pt}{\large}
 \titleformat{\subsection}[display]{\normalfont\bfseries}{}{0pt}{\normalsize}
 
-\newenvironment{signature}{\vspace{2em}\hfill}{}
+\newenvironment{signature}{\begin{flushright}}{\end{flushright}}
+\newenvironment{centerbold}{\begin{center}\bfseries}{\end{center}}
 \ifxetex
   % Load polyglossia as late as possible: uses bidi with RTL langages (e.g. Hebrew, Arabic)
   \usepackage{polyglossia}
@@ -129,7 +128,7 @@
 
 \title{Travaux de maturité 2023}
 \author{}
-\date{\vspace{-2.5em}17.10.2022}
+\date{\vspace{-2.5em}18.10.2022}
 
 \begin{document}
 \maketitle
@@ -138,9 +137,321 @@
 \setcounter{tocdepth}{0}
 \tableofcontents
 }
-\hypertarget{pruxe9ambule}{%
-\chapter*{Préambule}\label{pruxe9ambule}}
-\addcontentsline{toc}{chapter}{Préambule}
+\hypertarget{le-mot-du-doyen}{%
+\chapter*{Le mot du doyen}\label{le-mot-du-doyen}}
+\addcontentsline{toc}{chapter}{Le mot du doyen}
+
+\vspace{\stretch{1}}
+
+\begin{signature}
+\emph{À toutes et tous les élèves}\\
+\emph{des classes de 2\textsuperscript{e} année}\\
+\emph{de l'École de maturité}
+
+\end{signature}
+
+\vspace{\stretch{1}}
+
+Chères élèves, chers élèves,
+
+Vous recevez cette brochure qui concerne le travail de maturité pour la volée 2022-2023 et qui contient, en particulier, les thèmes des projets qui vous sont proposés.
+
+Je vous donne rendez-vous le
+
+\begin{centerbold}
+Mardi 22 novembre à 11h05 ;\\
+Espace Assemblée (en prolongement de la cafétéria)
+
+\end{centerbold}
+
+afin d'y recevoir une information générale sur l'organisation du travail de maturité.
+
+Vous aurez ensuite la possibilité de suivre la présentation de trois projets que vous aurez retenus parmi les pages qui suivent. Les présentations se dérouleront comme suit :
+
+\begin{itemize}
+\tightlist
+\item
+  la première de 11h45 à 12h10,
+\item
+  la seconde de 12h15 à 12h40 et
+\item
+  la troisième de 12h45 à 13h10.
+\end{itemize}
+
+Les cours s'interromperont donc ce jour de 10h50 à 13h20 pour les classes de 2M. Ils reprendront à 13h20 selon l'horaire habituel.
+
+\clearpage
+
+Après ces présentations, vous aurez à choisir trois thèmes. Vous devrez vous inscrire via le site du Gymnase de Nyon (\url{www.gymnasedenyon.ch}) en cliquant dans le menu ``Intranet \textgreater{} Elèves \textgreater{} Horaires et Inscriptions'' puis ``Inscriptions'' et en respectant le délai fixé au \textbf{mercredi 1er décembre à 16h00}. Vous devrez formuler 3 souhaits, dans l'ordre de préférence. Les inscriptions définitives vous seront confirmées ultérieurement.
+
+Avec mes meilleures salutations,
+
+\begin{signature}
+Le doyen\\
+M. Rizzello
+
+\end{signature}
+
+\vspace{\stretch{1}}
+
+Distribution à :
+
+\begin{itemize}
+\tightlist
+\item
+  toutes les classes de 2M
+\item
+  Conseil de direction
+\item
+  Mmes et MM. les maître·sse·s de classe de 2M
+\item
+  Mmes et MM. les responsables de projets, avec prière d'assister à cette séance d'information et de présenter les propositions de projets dans les salles qui seront attribuées
+\end{itemize}
+
+\hypertarget{attribution-des-salles}{%
+\chapter*{Attribution des salles}\label{attribution-des-salles}}
+\addcontentsline{toc}{chapter}{Attribution des salles}
+
+\begin{longtable}[]{@{}lc@{}}
+\toprule
+Thème & Salle n°\tabularnewline
+\midrule
+\endhead
+Philosophie de l'art : La beauté et la vérité & \textasciitilde{}\tabularnewline
+Le récit de voyage & \textasciitilde{}\tabularnewline
+Le jeu vidéo : fiction ou réalité ? & \textasciitilde{}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\hypertarget{rappel-des-dispositions-ruxe8glementaires}{%
+\chapter*{Rappel des dispositions règlementaires}\label{rappel-des-dispositions-ruxe8glementaires}}
+\addcontentsline{toc}{chapter}{Rappel des dispositions règlementaires}
+
+\hypertarget{ruxe8glement-du-16-janvier-1995-sur-la-reconnaissance-des-certificats-de-maturituxe9-gymnasiale-rrm}{%
+\subsection*{Règlement du 16 janvier 1995 sur la reconnaissance des certificats de maturité gymnasiale (RRM)}\label{ruxe8glement-du-16-janvier-1995-sur-la-reconnaissance-des-certificats-de-maturituxe9-gymnasiale-rrm}}
+\addcontentsline{toc}{subsection}{Règlement du 16 janvier 1995 sur la reconnaissance des certificats de maturité gymnasiale (RRM)}
+
+\emph{{[}édicté par la Conférence suisse des Directeurs cantonaux de l'instruction publique (CDIP) ; état au 1er août 2007{]}}
+
+\vspace{\stretch{1}}
+
+\emph{Art. 9 Disciplines de maturité}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Les disciplines fondamentales, l'option spécifique, l'option complémentaire et le travail de maturité constituent l'ensemble des disciplines de la maturité.
+\end{enumerate}
+
+(\ldots)
+
+\vspace{\stretch{1}}
+
+\emph{Art. 10 Travail de maturité}
+
+Chaque élève doit effectuer, seul ou en équipe, un travail autonome d'une certaine importance. Ce travail fera l'objet d'un texte ou d'un commentaire rédigé et d'une présentation orale.
+
+\vspace{\stretch{1}}
+
+\emph{Art.15 Notes de maturité et évaluation du travail de maturité}
+
+(\ldots)
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  Le travail de maturité est évalué sur la base des prestations écrites et orales.
+\end{enumerate}
+
+\vspace{\stretch{1}}
+
+\clearpage
+
+\hypertarget{ruxe8glement-des-gymnases-du-6-juillet-2016-rgy}{%
+\subsection*{Règlement des gymnases du 6 juillet 2016 (RGY)}\label{ruxe8glement-des-gymnases-du-6-juillet-2016-rgy}}
+\addcontentsline{toc}{subsection}{Règlement des gymnases du 6 juillet 2016 (RGY)}
+
+\emph{{[}édicté par le Conseil d'État du Canton de Vaud{]}}
+
+\emph{Art.82 Travail de maturité}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Les élèves effectuent un travail de maturité, seuls ou en équipe, entre la 2ème etla 3ème années, selon le calendrier fixé par le directeur et les modalités fixées par le département.
+\item
+  Le travail de maturité est évalué par un jury interne qui peut, le cas échéant, s'adjoindre un expert externe, sur la base de la mise en œuvre du projet, du document écrit déposé et de la présentation orale.
+\item
+  Le travail de maturité donne lieu à une note annuelle en 3ème année.
+\item
+  Le titre du travail de maturité est mentionné sur le certificat de maturité gymnasiale.
+\item
+  L'élève qui répète la 3ème année choisit, pour le début de l'année scolaire, soit de conserver sa note, soit d'effectuer un nouveau travail de maturité. Dans ce dernier cas, la note attribuée au premier travail n'est pas conservée.
+\end{enumerate}
+
+(\ldots)
+
+\hypertarget{objectifs-et-uxe9valuation}{%
+\chapter*{Objectifs et évaluation}\label{objectifs-et-uxe9valuation}}
+\addcontentsline{toc}{chapter}{Objectifs et évaluation}
+
+\hypertarget{principes-fondamentaux}{%
+\section*{Principes fondamentaux}\label{principes-fondamentaux}}
+\addcontentsline{toc}{section}{Principes fondamentaux}
+
+Le travail de maturité est l'occasion pour l'élève, à l'issue d'un processus de longue durée, de parvenir à une assise, une ``maturité'' intellectuelle suffisamment solide pour pouvoir produire un discours ou une œuvre qu'il peut assumer en tant qu'auteur et soumettre au regard d'autrui. En d'autres termes, il s'agit pour lui de se constituer comme sujet d'une énonciation.
+
+\hypertarget{objectifs-fondamentaux}{%
+\section*{Objectifs fondamentaux}\label{objectifs-fondamentaux}}
+\addcontentsline{toc}{section}{Objectifs fondamentaux}
+
+Fondamentalement, il doit, pour parvenir à cela, être capable de :
+
+\begin{itemize}
+\tightlist
+\item
+  mener une recherche documentaire de qualité ;
+\item
+  structurer sa pensée, afin de progresser vers un but, qui consiste à résoudre un problème ;
+\item
+  formuler sa pensée pour la rendre intelligible à autrui ;
+\item
+  évaluer sa propre démarche et distinguer clairement sa position personnelle d'autres points de vue, en justifiant ses choix.
+\end{itemize}
+
+\hypertarget{uxe9valuation}{%
+\section*{Évaluation}\label{uxe9valuation}}
+\addcontentsline{toc}{section}{Évaluation}
+
+\hypertarget{relation-puxe9dagogique}{%
+\subsection*{Relation pédagogique}\label{relation-puxe9dagogique}}
+\addcontentsline{toc}{subsection}{Relation pédagogique}
+
+Le travail de maturité s'élabore sous la conduite d'un maître répondant. Il s'agit d'un processus de longue durée, qui doit être considéré comme une situation d'enseignement, ce qui implique un suivi et des échanges réguliers entre le répondant et l'élève.
+
+En entreprenant son travail de maturité, l'élève s'engage dans une relation de collaboration avec son répondant : cela suppose que le contact soit cultivé de part et d'autre.
+
+\hypertarget{uxe9valuation-1}{%
+\subsection*{Évaluation}\label{uxe9valuation-1}}
+\addcontentsline{toc}{subsection}{Évaluation}
+
+L'évaluation du travail de maturité (travail d'analyse ou de création) porte sur les six domaines de compétence suivants :
+
+\begin{itemize}
+\tightlist
+\item
+  Recherche et méthodes de travail
+\item
+  Contenu et sens
+\item
+  Structure de l'opuscule
+\item
+  Sens critique, lucidité sur son travail
+\item
+  Expression
+\item
+  Présentation
+\end{itemize}
+
+\hypertarget{calendrier-pour-la-voluxe9e-2023}{%
+\chapter*{Calendrier pour la volée 2023}\label{calendrier-pour-la-voluxe9e-2023}}
+\addcontentsline{toc}{chapter}{Calendrier pour la volée 2023}
+
+\vspace{\stretch{1}}
+
+\textbf{1. Phase préparatoire \hfill septembre - décembre 2022}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\endhead
+Propositions de projets &\tabularnewline
+Constitution des équipes de projets &\tabularnewline
+Information générale aux élèves de 2M &\tabularnewline
+Présentation des projets par les équipes de maîtres &\tabularnewline
+Inscription &\tabularnewline
+\bottomrule
+\end{longtable}
+
+\vspace{\stretch{1}}
+
+\textbf{2. Élaboration des sujets \hfill février - mars 2023}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\endhead
+\begin{minipage}[t]{0.65\columnwidth}\raggedright
+Élaboration et choix des sujets par les élèves\strut
+\end{minipage} & \begin{minipage}[t]{0.29\columnwidth}\raggedright
+semaine spéciale : 3 et 6, 7, 8 février 2023\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.65\columnwidth}\raggedright
+Signature de l'engagement par les élèves et confirmation des répondants (à remettre au secrétariat)\strut
+\end{minipage} & \begin{minipage}[t]{0.29\columnwidth}\raggedright
+dernier délai : 4 mars 2022\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\vspace{\stretch{1}}
+
+\clearpage
+
+\vspace{\stretch{1}}
+
+\textbf{3. Réalisation des projets \hfill mars - novembre 2023}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\endhead
+\begin{minipage}[t]{0.35\columnwidth}\raggedright
+1ère évaluation intermédiaire\strut
+\end{minipage} & \begin{minipage}[t]{0.59\columnwidth}\raggedright
+Fiche remise aux élèves avant les vacances d'été juin 2022\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.35\columnwidth}\raggedright
+2ème évaluation intermédiaire\strut
+\end{minipage} & \begin{minipage}[t]{0.59\columnwidth}\raggedright
+Fiche remise aux élèves avant le 1er octobre 2ème quinzaine de septembre 2022\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.35\columnwidth}\raggedright
+Remise des travaux dans leur forme définitive\strut
+\end{minipage} & \begin{minipage}[t]{0.59\columnwidth}\raggedright
+lundi 14 novembre 2023\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\vspace{\stretch{1}}
+
+\textbf{4. Évaluation finale \hfill novembre - décembre 2022}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\endhead
+\begin{minipage}[t]{0.56\columnwidth}\raggedright
+Lecture des travaux de maturité par le jury\strut
+\end{minipage} & \begin{minipage}[t]{0.38\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.56\columnwidth}\raggedright
+Défense des travaux de maturité par les élèves\strut
+\end{minipage} & \begin{minipage}[t]{0.38\columnwidth}\raggedright
+1ère quinzaine de décembre 2023\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\vspace{\stretch{1}}
+
+\fancypagestyle{themes}{
+    \fancyhead[RO]{\footnotesize\leftmark}
+}
+\renewcommand{\chaptermark}[1]{\markboth{\footnotesize\space#1}{}}
+\pagestyle{themes}
 
 \hypertarget{philosophie-de-lart-la-beautuxe9-et-la-vuxe9rituxe9}{%
 \chapter{Philosophie de l'art : La beauté et la vérité}\label{philosophie-de-lart-la-beautuxe9-et-la-vuxe9rituxe9}}
@@ -150,8 +461,6 @@ Que la beauté soit une affaire de goût, qu'elle soit subjective, qu'elle soit 
 Nous pourrions en outre nous demander si l'expression artistique est une activité proprement humaine. Ne voyons-nous pas des araignées construire des édifices symétriques, dont la régularité surpassent parfois nos efforts architecturaux~? N'observons-nous pas dans la nature de nombreux actes de séduction animalière qui laissent entendre que les animaux possèdent aussi une sensibilité esthétique~? Peut-être que l'harmonie de la nature nous a conféré des normes artistiques dont il est difficile de nous défaire.
 
 Tel serait un échantillon des questions qui peuvent être soulevées dans ce Travail de Maturité. Avec l'aide de textes appartenant à la tradition philosophique, mais aussi à la littérature, à la poésie, et aux artistes eux-mêmes -- qui ont souvent écrit sur leur pratique --, nous nous interrogerons sur l'attrait qu'exerce sur nous le pouvoir des créations artistiques. Qu'il s'agisse du plaisir indescriptible qu'éveille la jouissance artistique, du moment de suspens que provoque en nous l'expérience esthétique elle-même, du basculement par lequel nous nous perdons dans un tableau, dans une sculpture, dans un morceau de musique, ou dans un film, du sérieux ou du jeu avec lesquels nous nous approchons d'une œuvre d'art, du milieu dans lequel l'œuvre d'art doit ou peut être appréhendée (théâtre, musée, chez soi, nature), de la modification que lui fait subir les impératifs de consommation, nous nous attacherons à montrer que la création artistique possède une place fondamentale dans notre rapport au monde.
-
-\clearpage
 
 Ce Travail de Maturité est ouvert à tous et n'exige aucun prérequis. Il demande simplement un intérêt pour la question artistique, une envie de penser, et une dose de curiosité.
 
@@ -197,7 +506,7 @@ Jasmine Menamkat
 
 \begin{figure}
 
-{\centering \includegraphics[height=12em]{images/le-jeu-video-fiction-ou-realite} 
+{\centering \includegraphics[height=10em]{images/le-jeu-video-fiction-ou-realite} 
 
 }
 

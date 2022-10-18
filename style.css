@@ -5,6 +5,11 @@ p{
   text-align: justify;
 }
 
+.centerbold p {
+  text-align: center;
+  font-weight: bold;
+}
+
 .page-inner img {
   height: 12em;
 }
