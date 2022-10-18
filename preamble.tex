@@ -7,25 +7,15 @@
 
 \renewcommand{\arraystretch}{1.5}
 
+\setcounter{tocdepth}{1}
+
 \usepackage{booktabs}
 \usepackage{tabto}
 
 \usepackage{fancyhdr}
-\setlength{\headheight}{14pt}
-\pagestyle{fancy}
-\lhead{}
-\chead{}
-\rhead{\leftmark}
-\lfoot{}
-\cfoot{\footnotesize\thepage}
-\rfoot{}
-\renewcommand{\headrulewidth}{0.2pt}
-\renewcommand{\footrulewidth}{0.2pt}
-\renewcommand{\chaptermark}[1]{\markboth{\footnotesize\space#1}{}}
-% \renewcommand{\chaptermark}[1]{\markboth{\footnotesize\thechapter.\space#1}{}}
+\setlength{\headheight}{15pt}
 
 \fancypagestyle{plain}{
-  \setlength{\headheight}{14pt}
   \pagestyle{fancy}
   \lhead{}
   \chead{}
@@ -37,7 +27,15 @@
   \renewcommand{\footrulewidth}{0.2pt}
 }
 
-\setcounter{tocdepth}{1}
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{\footnotesize Travaux de maturité 2023}
+\lfoot{}
+\cfoot{\footnotesize\thepage}
+\rfoot{}
+\renewcommand{\headrulewidth}{0.2pt}
+\renewcommand{\footrulewidth}{0.2pt}
 
 \usepackage{titlesec}
 \titlespacing{\chapter}{0em}{0em}{1em}
@@ -45,4 +43,5 @@
 \titleformat{\section}[display]{\normalfont\bfseries}{}{0pt}{\large}
 \titleformat{\subsection}[display]{\normalfont\bfseries}{}{0pt}{\normalsize}
 
-\newenvironment{signature}{\vspace{2em}\hfill}{}
+\newenvironment{signature}{\begin{flushright}}{\end{flushright}}
+\newenvironment{centerbold}{\begin{center}\bfseries}{\end{center}}

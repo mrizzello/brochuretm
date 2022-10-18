@@ -1,0 +1,7 @@
+# Attribution des salles {-}
+
+| Thème                                         | Salle n° |
+| :-------------------------------------------- | :------: |
+| Philosophie de l'art : La beauté et la vérité |    ~     |
+| Le récit de voyage                            |    ~     |
+| Le jeu vidéo : fiction ou réalité ?           |    ~     |

@@ -6,6 +6,10 @@ language:
 delete_merged_file: true
 rmd_files:
   - "index.Rmd"
+  - "cadre/salles.Rmd"
+  - "cadre/rappel.Rmd"
+  - "cadre/objectifs.Rmd"
+  - "cadre/calendrier.Rmd"
   - "themes/philosophie-de-lart-la-beaute-et-la-verite.Rmd"
   - "themes/le-recit-de-voyage.Rmd"
   - "themes/le-jeu-video-fiction-ou-realite.Rmd"

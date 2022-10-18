@@ -1,0 +1,5 @@
+\fancypagestyle{themes}{
+    \fancyhead[RO]{\footnotesize\leftmark}
+}
+\renewcommand{\chaptermark}[1]{\markboth{\footnotesize\space#1}{}}
+\pagestyle{themes}

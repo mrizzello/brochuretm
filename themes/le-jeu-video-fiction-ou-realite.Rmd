@@ -1,6 +1,6 @@
 # Le jeu vidéo : fiction ou réalité\ ?
 
-```{r le-jeu-video-fiction-ou-realite,echo=FALSE,out.height="12em",fig.show="hold",fig.align="center",fig.cap=""}
+```{r le-jeu-video-fiction-ou-realite,echo=FALSE,out.height="10em",fig.show="hold",fig.align="center",fig.cap=""}
 knitr::include_graphics(c("images/le-jeu-video-fiction-ou-realite.jpg"))
 ```
 

@@ -1,0 +1,50 @@
+# Calendrier pour la volée 2023 {-}
+
+\vspace{\stretch{1}}
+
+**1. Phase préparatoire \hfill septembre - décembre 2022**
+ 
+|                                                     |      |
+| :-------------------------------------------------- | :--- |
+| Propositions de projets                             |      |
+| Constitution des équipes de projets                 |      |
+| Information générale aux élèves de 2M               |      |
+| Présentation des projets par les équipes de maîtres |      |
+| Inscription                                         |      |
+
+\vspace{\stretch{1}}
+
+**2. Élaboration des sujets \hfill février - mars 2023**
+
+|                                                                                                     |                                              |
+| :-------------------------------------------------------------------------------------------------- | :------------------------------------------- |
+| Élaboration et choix des sujets par les élèves                                                      | semaine spéciale : 3 et 6, 7, 8 février 2023 |
+| Signature de l'engagement par les élèves et confirmation des répondants (à remettre au secrétariat) | dernier délai : 4 mars 2022                  |
+
+\vspace{\stretch{1}}
+
+\clearpage
+
+\vspace{\stretch{1}}
+
+**3. Réalisation des projets \hfill mars - novembre 2023**
+
+|                                               |                                                                               |
+| :-------------------------------------------- | :---------------------------------------------------------------------------- |
+| 1ère évaluation intermédiaire                 | Fiche remise aux élèves avant les vacances d'été juin 2022                    |
+| 2ème évaluation intermédiaire                 | Fiche remise aux élèves avant le 1er octobre 2ème quinzaine de septembre 2022 |
+| Remise des travaux dans leur forme définitive | lundi 14 novembre 2023                                                        |
+
+\vspace{\stretch{1}}
+
+**4. Évaluation finale \hfill novembre - décembre 2022**
+
+|                                                |                                 |
+| :--------------------------------------------- | :------------------------------ |
+| Lecture des travaux de maturité par le jury    |                                 |
+| Défense des travaux de maturité par les élèves | 1ère quinzaine de décembre 2023 |
+
+\vspace{\stretch{1}}
+
+```{r, child=c('fancy.Rmd')}
+```
