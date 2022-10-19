@@ -16,6 +16,10 @@ geometry: margin=20mm
 
 # Le mot du doyen {-}
 
+```{r logoGNLC,echo=FALSE,out.height="5em",fig.show="hold",fig.align="left",fig.cap=""}
+knitr::include_graphics(c("images/logoGNLC.jpg"))
+```
+
 \vspace{\stretch{1}}
 
 ::: {.signature data-latex=""}
@@ -45,11 +49,11 @@ Vous aurez ensuite la possibilité de suivre la présentation de trois projets q
 - la seconde de 12h15 à 12h40 et
 - la troisième de 12h45 à 13h10.
 
-Les cours s'interromperont donc ce jour de 10h50 à 13h20 pour les classes de 2M. Ils reprendront à 13h20 selon l'horaire habituel.
+Les cours seront donc interrompus ce jour de 10h50 à 13h20 pour les classes de 2M. Ils reprendront à 13h20 selon l'horaire habituel.
 
 \clearpage
 
-Après ces présentations, vous aurez à choisir trois thèmes. Vous devrez vous inscrire via le site du Gymnase de Nyon ([www.gymnasedenyon.ch](www.gymnasedenyon.ch)) en cliquant dans le menu "Intranet > Elèves > Horaires et Inscriptions" puis "Inscriptions" et en respectant le délai fixé au **mercredi 1er décembre à 16h00**. Vous devrez formuler 3 souhaits, dans l'ordre de préférence. Les inscriptions définitives vous seront confirmées ultérieurement.
+Après ces présentations, vous aurez à choisir trois thèmes. Vous devrez vous inscrire via le site du Gymnase de Nyon ([www.gymnasedenyon.ch](www.gymnasedenyon.ch)) en cliquant dans le menu "Intranet > Elèves > Horaires et Inscriptions" puis "Inscriptions" et en respectant le délai fixé au **mercredi 30 novembre à 16h00**. Vous devrez formuler 3 souhaits, dans l'ordre de préférence. Les inscriptions définitives vous seront confirmées ultérieurement.
 
 
 Avec mes meilleures salutations,

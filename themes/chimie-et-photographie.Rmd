@@ -6,7 +6,7 @@ knitr::include_graphics(c("images/chimie-et-photographie.jpg"))
 
 \vspace{\stretch{1}}
 
-## Un sujet pour les élèves photosensibles
+## Un sujet pour les élèves photosensibles {-}
 
 Les nouvelles technologies permettent d'avoir en permanence sur soi un appareil photo. Lorsque nous prenons une photo, nous sommes aujourd'hui habitués à une récompense instantanée : on regarde un écran numérique, on clique sur un bouton et on obtient une image parfaite. Mais il n'en a pas toujours été ainsi ...
 
