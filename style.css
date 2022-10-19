@@ -11,7 +11,8 @@ p{
 }
 
 .page-inner img {
-  height: 12em;
+  height: inherit;
+  max-height: 12em;
 }
 
 .signature p {
