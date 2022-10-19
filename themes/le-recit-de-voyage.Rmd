@@ -19,5 +19,5 @@ In this TM you will discover what travel literature is, through texts by Sylvain
 N.B. This TM can be written in French or English and needs to be done in groups of two.
 
 ::: {.signature data-latex=""}
-Jasmine Menamkat
+J. Menamkat
 :::
