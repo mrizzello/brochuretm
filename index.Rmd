@@ -36,24 +36,30 @@ Vous recevez cette brochure qui concerne le travail de maturité pour la volée 
 
 Je vous donne rendez-vous le
 
-::: {.centerbold data-latex=""}
-Mardi 22 novembre à 11h05 ;  
-Espace Assemblée (en prolongement de la cafétéria)
+::: {.center data-latex=""}
+**Mardi 22 novembre à 11h05 ;  
+Espace Assemblée (en prolongement de la cafétéria)**
 :::
 
 afin d'y recevoir une information générale sur l'organisation du travail de maturité.
 
 Vous aurez ensuite la possibilité de suivre la présentation de trois projets que vous aurez retenus parmi les pages qui suivent. Les présentations se dérouleront comme suit :
 
-- la première de 11h45 à 12h10,
-- la seconde de 12h15 à 12h40 et
-- la troisième de 12h45 à 13h10.
+- la première de 11h55 à 12h20,
+- la seconde de 12h25 à 12h50 et
+- la troisième de 12h55 à 13h30.
 
-Les cours seront donc interrompus ce jour de 10h50 à 13h20 pour les classes de 2M. Ils reprendront à 13h20 selon l'horaire habituel.
+Les cours seront donc interrompus ce jour de 10h50 à 13h30 pour les classes de 2M. Ils reprendront à 13h35 selon l'horaire habituel.
 
 \clearpage
 
-Après ces présentations, vous aurez à choisir trois thèmes. Vous devrez vous inscrire via le site du Gymnase de Nyon ([www.gymnasedenyon.ch](www.gymnasedenyon.ch)) en cliquant dans le menu "Intranet > Elèves > Horaires et Inscriptions" puis "Inscriptions" et en respectant le délai fixé au **mercredi 30 novembre à 16h00**. Vous devrez formuler 3 souhaits, dans l'ordre de préférence. Les inscriptions définitives vous seront confirmées ultérieurement.
+Après ces présentations, vous aurez à choisir trois thèmes. Vous devrez vous inscrire via le site du Gymnase de Nyon ([www.gymnasedenyon.ch](www.gymnasedenyon.ch)) en cliquant dans le menu 
+
+::: {.center data-latex=""}
+"Intranet > Elèves > Horaires et Inscriptions" puis "Inscriptions"
+:::
+
+et en respectant le délai fixé au **mercredi 30 novembre à 16h00**. Vous devrez formuler 3 souhaits, dans l'ordre de préférence. Les inscriptions définitives vous seront confirmées ultérieurement.
 
 
 Avec mes meilleures salutations,
