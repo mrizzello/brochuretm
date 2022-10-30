@@ -1,0 +1,25 @@
+# Le conte écrit transposé au cinéma
+
+```{r le-conte-ecrit-transpose-au-cinema,echo=FALSE,out.height="10em",fig.show="hold",fig.align="center",fig.cap=""}
+knitr::include_graphics(c("images/le-conte-ecrit-transpose-au-cinema.jpg"))
+```
+
+La réalisation d’un film implique nécessairement une adaptation. Parfois les modifications apportées (titre, durée d’une action, lieux, les dialogues, enchaînements, etc.) sont telles que le film devient une œuvre nouvelle.
+Il y a également une modification du point de vue du spectateur, dont la liberté interprétative est restreinte face à une mise en scène choisie.
+
+### Contes et leur adaptation cinématographique {-}
+
+| Conte                                                            | Adaptation                                              |
+| :--------------------------------------------------------------- | :------------------------------------------------------ |
+| La belle au bois dormant,\linebreak Charles Perrault             | Maléfique\linebreak (2014, Robert Stromberg)            |
+| Cendrillon,\linebreak Charles Perrault                           | Cendrillon\linebreak (2015, Kenneth Branagh)            |
+| Le Petit Chaperon rouge,\linebreak Charles Perrault              | Le Chaperon Rouge\linebreak (2011, Catherine Hardwicke) |
+| La Belle et la Bête,\linebreak Jeanne-Marie Leprince de Beaumont | La Belle et la Bête\linebreak (2017, Bill Condon)       |
+
+\clearpage
+
+Le sujet proposé vous permet d’explorer les différences entre un conte écrit et son adaptation cinématographique, à partir d’une thématique, d’un motif ou d’un autre point de comparaison. Pour ce faire, vous choisirez quelques extraits de texte au sein d’un conte afin de les mettre en parallèle avec les séquences du film correspondantes.
+
+::: {.signature data-latex=""}
+_S. Alves_
+:::

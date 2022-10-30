@@ -13,5 +13,5 @@ Mpemba n'a pas baissé les bras et a présenté ses observations à un professeu
 Le but de ce travail de maturité sera de concevoir et tester un dispositif technique permettant d'observer le phénomène et de tenter de fournir une explication à cet effet, connu aujourd'hui sous le nom d'effet Mpemba.
 
 ::: {.signature data-latex=""}
-M. Rizzello
+_M. Rizzello_
 :::
