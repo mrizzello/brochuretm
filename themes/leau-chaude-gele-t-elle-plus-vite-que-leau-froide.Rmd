@@ -1,8 +1,8 @@
-# L'eau chaude gèle-t-elle plus vite que l'eau froide\ ?
+# L'eau chaude gèle-t-elle \linebreak plus vite que l'eau froide\ ?
 
-```{r eau-chaude,echo=FALSE,out.height="12em",fig.show="hold",fig.align="center",fig.cap=""}
-knitr::include_graphics(c("images/eau-chaude.jpg"))
-```
+::: {.center data-latex=""}
+![](images/eau-chaude.jpg){width=100%}
+:::
 
 On pourrait dire que c'est une des expériences les plus simples qui soient. Prenez deux récipients, un rempli d'eau chaude et l'autre rempli d'eau froide. Placez-les dans un congélateur et notez laquelle gèle en premier. Le bon sens suggère que l'eau froide gèlera en premier. Cependant, depuis l'Antiquité, on observe que, sous certaines conditions, l'eau chaude peut refroidir plus vite.
 

@@ -1,8 +1,10 @@
 # Le jeu vidéo : fiction ou réalité\ ?
 
-```{r le-jeu-video-fiction-ou-realite,echo=FALSE,out.height="12em",fig.show="hold",fig.align="center",fig.cap=""}
-knitr::include_graphics(c("images/le-jeu-video-fiction-ou-realite.jpg"))
-```
+\vspace{\stretch{1}}
+
+::: {.center data-latex=""}
+![](images/le-jeu-video-fiction-ou-realite.jpg){height=12em}
+:::
 
 \vspace{\stretch{1}}
 
@@ -20,6 +22,6 @@ La finalité de ce travail de maturité est d'étudier la limite entre la réali
 _A. Morier et L. Moser_
 :::
 
-```{r le-jeu-video-fiction-ou-realite-2,echo=FALSE,out.height="7em",fig.show="hold",fig.align="right",fig.cap=""}
-knitr::include_graphics(c("images/le-jeu-video-fiction-ou-realite-2.jpg"))
-```
+::: {.flushright data-latex=""}
+![](images/le-jeu-video-fiction-ou-realite-2.jpg){height=5em}
+:::

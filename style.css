@@ -10,12 +10,15 @@ p{
   font-weight: bold;
 }
 
-.page-inner img {
-  height: inherit;
+.page-inner .center img {
+  width: 100%;
   max-height: 12em;
+  object-fit: contain;
+  margin: 0 auto;
 }
 
-.signature p {
+.signature p,
+.flushright p {
   text-align: right;
   width: 90%;
   padding-top: 3rem;

@@ -1,8 +1,8 @@
 # Le conte écrit transposé au cinéma
 
-```{r le-conte-ecrit-transpose-au-cinema,echo=FALSE,out.height="10em",fig.show="hold",fig.align="center",fig.cap=""}
-knitr::include_graphics(c("images/le-conte-ecrit-transpose-au-cinema.jpg"))
-```
+::: {.center data-latex=""}
+![](images/le-conte-ecrit-transpose-au-cinema.jpg){width=100%}
+:::
 
 La réalisation d’un film implique nécessairement une adaptation. Parfois les modifications apportées (titre, durée d’une action, lieux, les dialogues, enchaînements, etc.) sont telles que le film devient une œuvre nouvelle.
 Il y a également une modification du point de vue du spectateur, dont la liberté interprétative est restreinte face à une mise en scène choisie.

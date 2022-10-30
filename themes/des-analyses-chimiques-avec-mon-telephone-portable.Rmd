@@ -1,8 +1,8 @@
-# Des analyses chimiques avec mon téléphone portable
+# Des analyses chimiques \linebreak avec mon téléphone portable
 
-```{r analyses-chimiques-telephone-portable,echo=FALSE,out.height="12em",fig.show="hold",fig.align="center",fig.cap=""}
-knitr::include_graphics(c("images/analyses-chimiques-telephone-portable.jpg"))
-```
+::: {.center data-latex=""}
+![](images/analyses-chimiques-telephone-portable.jpg){height=12em}
+:::
 
 Les smartphones font partie intégrante de notre vie quotidienne, mais nous accordons peu d'attention à l'utilisation de leurs capteurs pour la collecte et l'analyse de données. En effet, ces appareils intègrent généralement un capteur d'image, un microphone, un accéléromètre, un gyroscope, un capteur de pression atmosphérique, une boussole numérique et bien d'autres instruments encore qui peuvent être extrêmement utiles dans un laboratoire de chimie. 
 

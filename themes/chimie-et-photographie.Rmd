@@ -1,8 +1,8 @@
 # Chimie et photographie
 
-```{r chimie-et-photographie,echo=FALSE,out.height="10em",fig.show="hold",fig.align="center",fig.cap=""}
-knitr::include_graphics(c("images/chimie-et-photographie.jpg"))
-```
+::: {.center data-latex=""}
+![](images/chimie-et-photographie.jpg){width=100%}
+:::
 
 \vspace{\stretch{1}}
 
