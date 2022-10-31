@@ -43,4 +43,15 @@
 \titleformat{\section}[display]{\normalfont\bfseries}{}{0pt}{\large}
 \titleformat{\subsection}[display]{\normalfont\bfseries}{}{0pt}{\normalsize}
 
+\usepackage{tocbasic}
+\DeclareTOCStyleEntry[
+  indent=0pt,
+  numwidth=0pt,
+  raggedentrytext
+]{tocline}{part}
+
+\DeclareTOCStyleEntries[
+  raggedentrytext
+]{tocline}{chapter,section,subsection,subsubsection,paragraph,subparagraph}
+
 \newenvironment{signature}{\begin{flushright}}{\end{flushright}}
