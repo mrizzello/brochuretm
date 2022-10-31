@@ -16,9 +16,7 @@ geometry: margin=20mm
 
 # Le mot du doyen {-}
 
-```{r logoGNLC,echo=FALSE,out.height="5em",fig.show="hold",fig.align="left",fig.cap=""}
-knitr::include_graphics(c("images/logoGNLC.jpg"))
-```
+![](images/logoGNLC.jpg){height=5em}
 
 \vspace{\stretch{1}}
 
