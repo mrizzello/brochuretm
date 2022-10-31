@@ -116,6 +116,17 @@
 \titleformat{\section}[display]{\normalfont\bfseries}{}{0pt}{\large}
 \titleformat{\subsection}[display]{\normalfont\bfseries}{}{0pt}{\normalsize}
 
+\usepackage{tocbasic}
+\DeclareTOCStyleEntry[
+  indent=0pt,
+  numwidth=0pt,
+  raggedentrytext
+]{tocline}{part}
+
+\DeclareTOCStyleEntries[
+  raggedentrytext
+]{tocline}{chapter,section,subsection,subsubsection,paragraph,subparagraph}
+
 \newenvironment{signature}{\begin{flushright}}{\end{flushright}}
 \ifxetex
   % Load polyglossia as late as possible: uses bidi with RTL langages (e.g. Hebrew, Arabic)
@@ -140,11 +151,7 @@
 \chapter*{Le mot du doyen}\label{le-mot-du-doyen}}
 \addcontentsline{toc}{chapter}{Le mot du doyen}
 
-\begin{figure}
-
-\includegraphics[height=5em]{images/logoGNLC} \hfill{}
-
-\end{figure}
+\includegraphics[width=\textwidth,height=5em]{images/logoGNLC.jpg}
 
 \vspace{\stretch{1}}
 
@@ -671,19 +678,20 @@ Le sujet proposé vous permet d'explorer les différences entre un conte écrit 
 \hypertarget{lintelligence-artificielle-est-elle-vraiment-intelligente}{%
 \chapter{\texorpdfstring{L'intelligence artificielle \linebreak est-elle vraiment intelligente~?}{L'intelligence artificielle est-elle vraiment intelligente~?}}\label{lintelligence-artificielle-est-elle-vraiment-intelligente}}
 
-\hypertarget{une-machine-peut-elle-reproduire-les-fonctions-cognitives-avancuxe9es-tel-que-la-pensuxe9e-humaine}{%
-\section{Une machine peut-elle reproduire les fonctions cognitives avancées tel que la pensée humaine~?}\label{une-machine-peut-elle-reproduire-les-fonctions-cognitives-avancuxe9es-tel-que-la-pensuxe9e-humaine}}
-
 \begin{center}
 \includegraphics[width=\textwidth,height=12em]{images/intelligence-artificelle.jpeg}
 
 \end{center}
 
+\hypertarget{une-machine-peut-elle-reproduire-les-fonctions-cognitives-avancuxe9es-tel-que-la-pensuxe9e-humaine}{%
+\subsection*{Une machine peut-elle reproduire les fonctions cognitives avancées tel que la pensée humaine~?}\label{une-machine-peut-elle-reproduire-les-fonctions-cognitives-avancuxe9es-tel-que-la-pensuxe9e-humaine}}
+\addcontentsline{toc}{subsection}{Une machine peut-elle reproduire les fonctions cognitives avancées tel que la pensée humaine~?}
+
 La question de savoir si l'humain par ces caractéristiques est unique dans le monde du vivant a été soulevée bien avant l'arrivée des machines. Aujourd'hui se pose également la question de savoir si l'humain est unique par ces capacités cognitives notamment face aux machines dotées d'intelligence artificielle.
 
-Au moins depuis 1950, lorsque M. Turing publie un premier article sur l'apprentissage machine et l"'intelligence artificielle \emph{(Turing, A. M. (1950). I.---COMPUTING MACHINERY AND INTELLIGENCE. Mind, LIX(236), 433-460.)}, s'est ouvert le débat de savoir si une machine pouvait reproduire les fonctions cognitives avancées tels que la pensée humaine.
+Au moins depuis 1950, lorsque M. Turing publie un premier article sur l'apprentissage machine et l``'intelligence artificielle'' \footnote{Turing, A. M. (1950). I.---COMPUTING MACHINERY AND INTELLIGENCE. Mind, LIX(236), 433-460.}, s'est ouvert le débat de savoir si une machine pouvait reproduire les fonctions cognitives avancées tels que la pensée humaine.
 
-De nos jours, des machines dites intelligentes rivalisent avec de plus en plus de succès avec les humains pour des tâches autrefois considérées comme hors de portée de l'intelligence artificielle. On peut notamment penser à la reconnaissance d'images ou de vidéos d'objets et de visages, à la capacité à répondre à des questions posées en langage ``naturel'' par un humain (robots répondeurs), voir même dans certains cas de prendre des décisions dites~stratégiques dans des conditions de risque et d'incertitude. On peut également citer les vidéos modifiées par intelligence artificielle pour lesquelles il peut être difficile de déceler le ``vrai'' du ``faux''.
+De nos jours, des machines dites intelligentes rivalisent avec de plus en plus de succès avec les humains pour des tâches autrefois considérées comme hors de portée de l'intelligence artificielle. On peut notamment penser à la reconnaissance d'images ou de vidéos d'objets et de visages, à la capacité à répondre à des questions posées en langage ``naturel'' par un humain (robots répondeurs), voir même dans certains cas de prendre des décisions dites stratégiques dans des conditions de risque et d'incertitude. On peut également citer les vidéos modifiées par intelligence artificielle pour lesquelles il peut être difficile de déceler le ``vrai'' du ``faux''.
 
 Les machines sont donc capables de nombreuses prouesses, mais sont-elles vraiment intelligentes~? Sont-elles capables de reproduire les fonctions cognitives avancées tel que la pensée humaine ? Votre travail de maturité pourrait aborder ces questions.
 
@@ -695,17 +703,18 @@ Les machines sont donc capables de nombreuses prouesses, mais sont-elles vraimen
 \hypertarget{santuxe9-et-sport}{%
 \chapter{Santé et sport}\label{santuxe9-et-sport}}
 
-\hypertarget{jusquuxe0-quelle-fruxe9quence-dentrauxeenement-le-sport-est-il-vraiment-buxe9nuxe9fique-pour-la-santuxe9}{%
-\section{Jusqu'à quelle fréquence d'entraînement le sport est-il vraiment bénéfique pour la santé~?}\label{jusquuxe0-quelle-fruxe9quence-dentrauxeenement-le-sport-est-il-vraiment-buxe9nuxe9fique-pour-la-santuxe9}}
-
 \begin{center}
 \includegraphics[width=\textwidth,height=12em]{images/sante-sport.jpg}
 
 \end{center}
 
+\hypertarget{jusquuxe0-quelle-fruxe9quence-dentrauxeenement-le-sport-est-il-vraiment-buxe9nuxe9fique-pour-la-santuxe9}{%
+\subsection*{Jusqu'à quelle fréquence d'entraînement le sport est-il vraiment bénéfique pour la santé~?}\label{jusquuxe0-quelle-fruxe9quence-dentrauxeenement-le-sport-est-il-vraiment-buxe9nuxe9fique-pour-la-santuxe9}}
+\addcontentsline{toc}{subsection}{Jusqu'à quelle fréquence d'entraînement le sport est-il vraiment bénéfique pour la santé~?}
+
 La pratique sportive est généralement présentée comme une activité hautement bénéfique pour la santé physique et psychique. D'ailleurs, selon l'organisation mondiale de la santé, il est établi que la pratique régulière de sport favorise la prévention de nombreuses maladies notamment des maladies cardiaques, des accidents vasculaires cérébraux, du diabète, des cancers du sein et du côlon et contribue également à améliorer la santé mentale et la qualité de vie.
 
-Cependant, l'excès de sport peut également avoir des effets néfastes et le surentrainement peut notamment favoriser les dépressions \emph{(Armstrong, L. E., \& VanHeest, J. L. (2002). The Unknown Mechanism of the Overtraining Syndrome. Sports Medicine, 32(3), 185-209)} et peut également influencer de façon négative les performances cognitives des sportifs \emph{(Blain, B., Schmit, C., Aubry, A., Hausswirth, C., Meur, Y. L., \& Pessiglione, M. (2019). Neuro-computational Impact of Physical Training Overload on Economic Decision-Making. Current Biology, 29(19), 3289-3297.e4)}.
+Cependant, l'excès de sport peut également avoir des effets néfastes et le surentrainement peut notamment favoriser les dépressions \footnote{Armstrong, L. E., \& VanHeest, J. L. (2002). The Unknown Mechanism of the Overtraining Syndrome. Sports Medicine, 32(3), 185-209} et peut également influencer de façon négative les performances cognitives des sportifs \footnote{Blain, B., Schmit, C., Aubry, A., Hausswirth, C., Meur, Y. L., \& Pessiglione, M. (2019).} \footnote{Neuro-computational Impact of Physical Training Overload on Economic Decision-Making. Current Biology, 29(19), 3289-3297.e4}.
 
 Sans parler des accidents qui peuvent induire des blessures de différents niveaux de gravité dans certains sports, l'on peut se poser la question de savoir à partir de quand telle fréquence, telle intensité ou telle durée d'entraînement pourraient, au contraire, être néfastes pour l'humain. Que font les sportifs pour éviter les effets négatifs du surentrainement~?
 
@@ -717,17 +726,18 @@ Sans parler des accidents qui peuvent induire des blessures de différents nivea
 \hypertarget{le-sommeil}{%
 \chapter{Le sommeil}\label{le-sommeil}}
 
-\hypertarget{importance-et-influence-sur-la-santuxe9-physique-et-psychique}{%
-\section{Importance et influence sur la santé physique et psychique}\label{importance-et-influence-sur-la-santuxe9-physique-et-psychique}}
-
 \begin{center}
 \includegraphics[width=\textwidth,height=12em]{images/sommeil.jpg}
 
 \end{center}
 
+\hypertarget{importance-et-influence-sur-la-santuxe9-physique-et-psychique}{%
+\subsection*{Importance et influence sur la santé physique et psychique}\label{importance-et-influence-sur-la-santuxe9-physique-et-psychique}}
+\addcontentsline{toc}{subsection}{Importance et influence sur la santé physique et psychique}
+
 Si la durée du sommeil peut être très variable d'un individu à un autre, les besoins en sommeil sont également très différents selon l'âge de la personne~: pour un nouveau-né, 14-17 heures de sommeil sont recommandées par jour, pour un enfant de 1 an, 11 à 14 heures, pour un adolescent, 8 à 10 heures, pour un adulte, 7 à 9 heures par jour et pour une personne âgée, 7 à 8 heures (indications de la Fondation nationale américaine du sommeil (National Sleep Foundation)). La réalité individuelle du sommeil pour une personne peut toutefois être très différente~; les nombreuses activités, les situations stressantes ou d'autres raisons poussent parfois les individus à réduire leurs temps de sommeil. On peut s'interroger quant aux potentielles conséquences négatives sur la santé physique et/ou psychique qui surviennent lors d'un manque de sommeil.
 
-Sans aller jusqu'au record d'absence de sommeil de Randy Gardner, étudiant américain, qui n'a pas dormis durant 11 jours et 25 minutes, des études indiquent que le manque de sommeil chronique est associé à des effets néfastes sur la santé, notamment la prise de poids et l'obésité, le diabète, l'hypertension, les maladies cardiaques et les accidents vasculaires cérébraux, la dépression et un risque accru de décès \emph{(Watson et al.~(2015). Recommended Amount of Sleep for a Healthy Adult: A Joint Consensus Statement of the American Academy of Sleep Medicine and Sleep Research Society. Journal of Clinical Sleep Medicine\,: JCSM\,: Official Publication of the American Academy of Sleep Medicine, 38)}.
+Sans aller jusqu'au record d'absence de sommeil de Randy Gardner, étudiant américain, qui n'a pas dormis durant 11 jours et 25 minutes, des études indiquent que le manque de sommeil chronique est associé à des effets néfastes sur la santé, notamment la prise de poids et l'obésité, le diabète, l'hypertension, les maladies cardiaques et les accidents vasculaires cérébraux, la dépression et un risque accru de décès \footnote{Watson et al.~(2015). Recommended Amount of Sleep for a Healthy Adult: A Joint Consensus Statement of the American Academy of Sleep Medicine and Sleep Research Society. Journal of Clinical Sleep Medicine\,: JCSM\,: Official Publication of the American Academy of Sleep Medicine, 38.}.
 
 Cette thématique pourrait être abordée de différentes manières lors d'un travail de maturité.
 
@@ -787,6 +797,34 @@ Les travaux de maturité en lien avec cette thématique se feront obligatoiremen
 
 \begin{signature}
 \emph{M. Guernier}
+
+\end{signature}
+
+\hypertarget{changement-climatique-et-sociuxe9tuxe9s}{%
+\chapter{Changement climatique et sociétés}\label{changement-climatique-et-sociuxe9tuxe9s}}
+
+\begin{center}
+\includegraphics[width=\textwidth,height=18em]{images/changement-climatique-et-societes.jpg}
+\footnote{© Chappatte dans The New York Times, 2018}
+
+\end{center}
+
+\vspace{\stretch{1}}
+
+\emph{``~Le climat change, peut-être que nous devrions faire de même\ldots~''.}
+
+\vspace{\stretch{1}}
+
+Un étroit lien existe entre le changement climatique et les sociétés humaines à travers le globe. D'un point de vue géographique, cette thématique doit vous permettre de vous intéresser à un phénomène propre aux changements climatiques tout en analysant les causes, les effets, les enjeux pour une ou plusieurs sociétés ainsi que les perspectives concrètes pour limiter les impacts du changement climatique. Que ce soit l'exploitation de ressources, le réchauffement climatique, l'augmentation des niveaux des océans, la désertification des territoires ou encore la destruction de la biodiversité, il s'agira pour vous de lier et de comprendre les influences réciproques qu'il peut y avoir entre un phénomène climatique et les impacts pour une société, pour un territoire ou pour une population.
+
+\clearpage
+
+Quel que soit le sujet de votre choix, il s'agira pour vous d'identifier une problématique et de l'étudier dans une perspective durabiliste. Il s'agira également de comprendre et d'interpréter les différentes interactions qui prennent place entre cet environnement naturel et les sociétés humaines qui exploitent, subissent ou modifient leur espace de vie.
+
+Ce TM est recommandé pour des groupes de 2 élèves.
+
+\begin{signature}
+\emph{C. Kull}
 
 \end{signature}
 
