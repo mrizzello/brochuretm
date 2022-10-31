@@ -1,10 +1,10 @@
 # L'intelligence artificielle \linebreak est-elle vraiment intelligente ? 
 
-## Une machine peut-elle reproduire les fonctions cognitives avancées tel que la pensée humaine ?
-
 ::: {.center data-latex=""}
 ![](images/intelligence-artificelle.jpeg){height=12em}
 :::
+
+### Une machine peut-elle reproduire les fonctions cognitives avancées tel que la pensée humaine ? {-}
 
 La question de savoir si l'humain par ces caractéristiques est unique dans le monde du vivant a été soulevée bien avant l'arrivée des machines. Aujourd'hui se pose également la question de savoir si l'humain est unique par ces capacités cognitives notamment face aux machines dotées d'intelligence artificielle.
 

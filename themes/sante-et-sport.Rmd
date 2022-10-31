@@ -1,10 +1,10 @@
 # Santé et sport
 
-## Jusqu'à quelle fréquence d'entraînement le sport est-il vraiment bénéfique pour la santé ?
-
 ::: {.center data-latex=""}
 ![](images/sante-sport.jpg){height=12em}
 :::
+
+### Jusqu'à quelle fréquence d'entraînement le sport est-il vraiment bénéfique pour la santé ? {-}
 
 La pratique sportive est généralement présentée comme une activité hautement bénéfique pour la santé physique et psychique. D'ailleurs, selon l'organisation mondiale de la santé, il est établi que la pratique régulière de sport favorise la prévention de nombreuses maladies notamment des maladies cardiaques, des accidents vasculaires cérébraux, du diabète, des cancers du sein et du côlon et contribue également à améliorer la santé mentale et la qualité de vie.
 
