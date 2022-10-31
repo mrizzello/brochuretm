@@ -1,0 +1,23 @@
+# Les défis de l'alimentation
+
+::: {.center data-latex=""}
+![](images/les-defis-de-lalimentation.png){height=12em}
+:::
+
+De quoi parle-t-on lorsqu'on aborde l'alimentation ? De gastronomie ? De santé et de diététique ? De tradition et de patrimoine ? De production et d'échanges de nourriture ? De règles alimentaires et de dogmes ?
+
+Il y a 50 ans, on concevait encore l'alimentation comme allant de soi. Récemment, différents facteurs ont contribué à modifier notre perception de cette dernière.
+
+A travers ce TM, je vous invite à découvrir le monde de l'alimentation à travers le regard d'un scientifique et d'en savoir plus sur ses défis d'hier, d'aujourd'hui et de demain.  
+
+Voici quelques exemples non exhaustifs de champs d'études possibles : 
+
+- L'anthropologie alimentaire s'intéresse à l'ensemble des activités de production, de transformation, de distribution et de consommation alimentaires et aux pratiques et aux représentations qui s'y rattachent. Cela peut comporter l'étude de différents modes de conservation et leurs impacts sur la qualité nutritionnelle des aliments, des recherches biomédicales qui font le lien entre les habitudes alimentaires et certaines maladies, ou de l'adaptation de l'humain face à des contraintes nutritionnelles.
+- L'épidémiologie nutritionnelle se focalise sur les maladies épidémiologiques en lien avec la nutrition.
+- La nutrition se concentre quant à elle aux rôles des nutriments dans l'organisme humain et à leurs interactions ainsi qu'aux besoins nutritionnels des individus et des populations.
+
+Les travaux de maturité dans cette thématique se feront obligatoirement par binôme.
+
+::: {.signature data-latex=""}
+_M. Guernier_
+:::

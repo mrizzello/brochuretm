@@ -1,0 +1,19 @@
+# L'intelligence artificielle \linebreak est-elle vraiment intelligente ? 
+
+## Une machine peut-elle reproduire les fonctions cognitives avancées tel que la pensée humaine ?
+
+::: {.center data-latex=""}
+![](images/intelligence-artificelle.jpeg){height=12em}
+:::
+
+La question de savoir si l'humain par ces caractéristiques est unique dans le monde du vivant a été soulevée bien avant l'arrivée des machines. Aujourd'hui se pose également la question de savoir si l'humain est unique par ces capacités cognitives notamment face aux machines dotées d'intelligence artificielle.
+
+Au moins depuis 1950, lorsque M. Turing publie un premier article sur l'apprentissage machine et l"'intelligence artificielle _(Turing, A. M. (1950). I.—COMPUTING MACHINERY AND INTELLIGENCE. Mind, LIX(236), 433-460.)_, s'est ouvert le débat de savoir si une machine pouvait reproduire les fonctions cognitives avancées tels que la pensée humaine.
+
+De nos jours, des machines dites intelligentes rivalisent avec de plus en plus de succès avec les humains pour des tâches autrefois considérées comme hors de portée de l'intelligence artificielle. On peut notamment penser à la reconnaissance d'images ou de vidéos d'objets et de visages, à la capacité à répondre à des questions posées en langage "naturel" par un humain (robots répondeurs), voir même dans certains cas de prendre des décisions dites stratégiques dans des conditions de risque et d'incertitude. On peut également citer les vidéos modifiées par intelligence artificielle pour lesquelles il peut être difficile de déceler le "vrai" du "faux".
+
+Les machines sont donc capables de nombreuses prouesses, mais sont-elles vraiment intelligentes ? Sont-elles capables de reproduire les fonctions cognitives avancées tel que la pensée humaine ? Votre travail de maturité pourrait aborder ces questions.
+
+::: {.signature data-latex=""}
+_M. Zenger_
+:::

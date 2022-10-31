@@ -1,0 +1,17 @@
+# Étude de la biodiversité
+
+::: {.center data-latex=""}
+![](images/etude-de-la-biodiversite.png){height=12em}
+:::
+
+L'un des plus grands défis auxquels l'humanité est actuellement confrontée est la perte de la biodiversité au niveau planétaire. Celle-ci est causée par différents processus, par exemple la déforestation massive qui amène à la perte d'habitat, le réchauffement climatique qui détruit des écosystèmes et en modifie d'autre.
+
+Afin de pouvoir inverser et atténuer la perte de biodiversité et ses conséquences, il est indispensable de mieux connaitre et mieux recenser la biodiversité de nos régions pour mesure ces impacts.
+
+A travers ce TM, je vous invite à réaliser une étude de la biodiversité afin de mieux appréhender cette méthodologie. A vous de décider de la suite de ce TM en fonction du site d'étude (forêt, lac, tronc d'arbre mort… ), de l'espèce ou des espèces à analyser (oiseaux migrateurs, fourmis, plantes invasives), de la façon de répertorier la biodiversité de façon directe ou indirecte.
+
+Les travaux de maturité en lien avec cette thématique se feront obligatoirement par binôme.
+
+::: {.signature data-latex=""}
+_M. Guernier_
+:::
