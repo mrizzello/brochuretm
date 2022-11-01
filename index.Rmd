@@ -16,7 +16,7 @@ geometry: margin=20mm
 
 # Le mot du doyen {-}
 
-![](images/logoGNLC.jpg){height=5em}
+![](images/logoGNLC.png){height=5em}
 
 \vspace{\stretch{1}}
 
