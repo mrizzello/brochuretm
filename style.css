@@ -5,6 +5,15 @@ p{
   text-align: justify;
 }
 
+li.booklogo a {
+  display: block;
+  text-align: center;
+}
+
+li.booklogo a img{
+  width: 67%;
+}
+
 .centerbold p {
   text-align: center;
   font-weight: bold;
