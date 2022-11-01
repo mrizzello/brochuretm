@@ -5,8 +5,8 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: yes
       before: |
-        <li class="booktitle"><a href="./">Travaux de maturité 2023</a></li>
         <li class="booklogo"><a href="./"><img src="images/logoGNLC.png" alt="GNLC" title="GNLC" /></a></li>
+        <li class="booktitle"><a href="./">Travaux de maturité 2023</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Publié à l'aide de bookdown</a></li>
     edit: null
