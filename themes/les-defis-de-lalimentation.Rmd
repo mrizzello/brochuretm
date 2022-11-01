@@ -19,5 +19,5 @@ Voici quelques exemples non exhaustifs de champs d'études possibles :
 Les travaux de maturité dans cette thématique se feront obligatoirement par binôme.
 
 ::: {.signature data-latex=""}
-_M. Guernier_
+_Sophie Guernier_
 :::

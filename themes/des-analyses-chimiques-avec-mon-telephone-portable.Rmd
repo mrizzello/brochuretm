@@ -13,5 +13,5 @@ La colorimétrie est une méthode d'analyse qui relie la variation de la couleur
 Ce thème de travail de maturité vous propose de concevoir et développer un dispositif d'analyse chimique permettant de transformer simplement n'importe quel téléphone portable en un colorimètre fiable.
 
 ::: {.signature data-latex=""}
-_M. Rizzello_
+_Michele Rizzello_
 :::

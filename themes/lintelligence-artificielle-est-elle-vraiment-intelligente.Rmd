@@ -15,5 +15,5 @@ De nos jours, des machines dites intelligentes rivalisent avec de plus en plus d
 Les machines sont donc capables de nombreuses prouesses, mais sont-elles vraiment intelligentes ? Sont-elles capables de reproduire les fonctions cognitives avancées tel que la pensée humaine ? Votre travail de maturité pourrait aborder ces questions.
 
 ::: {.signature data-latex=""}
-_M. Zenger_
+_Manuel Zenger_
 :::

@@ -15,5 +15,5 @@ Ce thème de travail de maturité est une exploration de la chimie de la photogr
 L'objectif du projet est de recréer un ou plusieurs procédés chimiques traditionnellement utilisés pour le développement avec des produits domestiques de substitution et être capable d'expliquer, grâce à leurs propriétés chimiques, pourquoi ces substitutions fonctionnent. Le produit fini sera un procédé que n'importe qui pourrait créer, sans accéder à des fournitures photographiques coûteuses.
 
 ::: {.signature data-latex=""}
-_M. Rizzello_
+_Michele Rizzello_
 :::

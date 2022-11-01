@@ -13,5 +13,5 @@ A travers ce TM, je vous invite à réaliser une étude de la biodiversité afin
 Les travaux de maturité en lien avec cette thématique se feront obligatoirement par binôme.
 
 ::: {.signature data-latex=""}
-_M. Guernier_
+_Sophie Guernier_
 :::
