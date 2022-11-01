@@ -5,9 +5,12 @@ p{
   text-align: justify;
 }
 
+li.booktitle a {
+  font-weight: bold;
+}
+
 li.booklogo a {
   display: block;
-  text-align: center;
 }
 
 li.booklogo a img{
