@@ -10,18 +10,36 @@ rmd_files:
   - "cadre/rappel.Rmd"
   - "cadre/objectifs.Rmd"
   - "cadre/calendrier.Rmd"
-  - "themes/philosophie-de-lart-la-beaute-et-la-verite.Rmd"
-  - "themes/le-recit-de-voyage.Rmd"
-  - "themes/le-jeu-video-fiction-ou-realite.Rmd"
-  - "themes/des-analyses-chimiques-avec-mon-telephone-portable.Rmd"
-  - "themes/chimie-et-photographie.Rmd"
-  - "themes/leau-chaude-gele-t-elle-plus-vite-que-leau-froide.Rmd"
+# Français
   - "themes/le-conte-ecrit-transpose-au-cinema.Rmd"
+# Allemand
+# Anglais
+  - "themes/le-recit-de-voyage.Rmd"
+# Italien
+# Mathématiques
+# Biologie
+  - "themes/les-defis-de-lalimentation.Rmd"
+  - "themes/etude-de-la-biodiversite.Rmd"
   - "themes/lintelligence-artificielle-est-elle-vraiment-intelligente.Rmd"
   - "themes/sante-et-sport.Rmd"
   - "themes/le-sommeil.Rmd"
-  - "themes/le-sommeil.Rmd"
-  - "themes/les-defis-de-lalimentation.Rmd"
-  - "themes/etude-de-la-biodiversite.Rmd"
-  - "themes/changement-climatique-et-societes.Rmd"
+# Chimie
+  - "themes/des-analyses-chimiques-avec-mon-telephone-portable.Rmd"
+  - "themes/chimie-et-photographie.Rmd"
+  - "themes/leau-chaude-gele-t-elle-plus-vite-que-leau-froide.Rmd"
   - "themes/fluorescence-et-phosphorescence.Rmd"
+# Physique
+# Géographie
+  - "themes/changement-climatique-et-societes.Rmd"
+# Histoire
+# Economie et droit
+  - "themes/equilibre-vie-professionnelle-prive-jeunes-adultes.Rmd"
+# Philosophie
+  - "themes/philosophie-de-lart-la-beaute-et-la-verite.Rmd"
+# Psychologie
+  - "themes/le-jeu-video-fiction-ou-realite.Rmd"
+# Histoire et sciences des religions
+# Arts visuels
+# Musique
+# Informatique
+# Education physique et sportive
