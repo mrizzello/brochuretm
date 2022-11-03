@@ -1,7 +1,7 @@
 # Étude de la biodiversité
 
 ::: {.center data-latex=""}
-![](images/etude-de-la-biodiversite.png){height=12em}
+![](images/etude-de-la-biodiversite.jpg){height=12em}
 :::
 
 L'un des plus grands défis auxquels l'humanité est actuellement confrontée est la perte de la biodiversité au niveau planétaire. Celle-ci est causée par différents processus, par exemple la déforestation massive qui amène à la perte d'habitat, le réchauffement climatique qui détruit des écosystèmes et en modifie d'autre.
