@@ -17,6 +17,7 @@ rmd_files:
   - "themes/le-recit-de-voyage.Rmd"
 # Italien
 # Mathématiques
+  - "themes/les-nombres-remarquables.Rmd"
 # Biologie
   - "themes/les-defis-de-lalimentation.Rmd"
   - "themes/etude-de-la-biodiversite.Rmd"

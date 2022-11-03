@@ -1,0 +1,24 @@
+# Les nombres remarquables
+
+En mathématiques, il y a des nombres qui se distinguent des autres par leurs propriétés étonnantes ou leur rôle clé dans une ou plusieurs branches des mathématiques. On les appelle les nombres remarquables.
+Peut-on imaginer de faire les mathématqiues sans le zéro ? Que serait la trigonométrie sans la constante d'Archimède π ? Qui ne pense pas quand on parle des nombres complexes à ce nombre imaginaire si particulier  dont le carré est égal à . Les nombres 0, π et sont des exemples de nombres remarquables. 
+
+::: {.center data-latex=""}
+![](images/les-nombres-remarquables-1.jpg){height=12em}
+:::
+
+Il existe d'autres nombres remarquables. Par exemple le nombre  appelé le nombre d'Euler ou la constante de Néper est central pour l'étude de l'exponentielle en base  et du logarithme naturel. Il existe également des familles de nombres remarquables comme les nombres premiers qui sont des nombres entiers naturels ayant exactement deux diviseurs positifs 1 et eux-mêmes. Parmi les nombres premiers, 2 a la particularité d'être le seul nombre pair qui est premier. Parmi les nombres remarquables certains portent des noms curieux comme les nombres déficients, les nombres abondants, les nombres amiables ou les nombres univers.
+
+::: {.center data-latex=""}
+![](images/les-nombres-remarquables-2.jpg){height=12em}
+:::
+
+Ce thème propose aux candidats intéressés de travailler sur un nombre remarquable ou une famille de nombres remarquables afin d'explorer leurs caractéristiques et leurs propriétés fondamentales et d'étudier leur importance en mathématiques ainsi que leurs applications dans différents domaines.  
+
+::: {.signature data-latex=""}
+_Carla Bastos Da Silva_  
+_Ahmed Bufardi_  
+_Yannick Donnet_  
+_Frédéric Makiadi_  
+_Alan Morier_
+:::
