@@ -1,8 +1,12 @@
-i.fa.fa-file-pdf-o{
+i.fa.fa-file-pdf-o {
   color: red;
 }
-p{
+p {
   text-align: justify;
+}
+
+.center p {
+  text-align: center;
 }
 
 li.booktitle a {
@@ -13,7 +17,7 @@ li.booklogo a {
   display: block;
 }
 
-li.booklogo a img{
+li.booklogo a img {
   width: 67%;
 }
 
