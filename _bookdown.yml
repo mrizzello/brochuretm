@@ -34,6 +34,7 @@ rmd_files:
   - "themes/leau-chaude-gele-t-elle-plus-vite-que-leau-froide.Rmd"
   - "themes/fluorescence-et-phosphorescence.Rmd"
 # Physique
+  - "themes/cest-pas-sorcier.Rmd"
 # Géographie
   - "themes/changement-climatique-et-societes.Rmd"
 # Histoire
