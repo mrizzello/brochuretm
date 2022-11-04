@@ -1,7 +1,7 @@
 # Représentations des figures héroïques \linebreak (ou non) dans les bandes dessinées \linebreak (DC, Marvel, mangas ...) 
 
 ::: {.center data-latex=""}
-![](images/representations-des-figures-heroiques.jpg){height=12em}
+![](images/representations-des-figures-heroiques.jpg){height=12em}  
 ^[Images : LEE, S., DITKO, S.: The Amazing Spider-Man; ODA, E.: One Piece ; ISAMAYA, H.: Attack on Titan; WEIN, L., COCKRUM, D.: X-Men.]
 :::
 

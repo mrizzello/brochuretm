@@ -1,7 +1,7 @@
 # Changement climatique et sociétés
 
 ::: {.center data-latex=""}
-![](images/changement-climatique-et-societes.jpg){height=18em}
+![](images/changement-climatique-et-societes.jpg){height=18em}  
 ^[© Chappatte dans The New York Times, 2018]
 :::
 

@@ -1,7 +1,7 @@
 # Multiculturalité et langage
 
 ::: {.center data-latex=""}
-![](images/multiculturalite-et-langage.jpg){height=12em}
+![](images/multiculturalite-et-langage.jpg){height=12em}  
 ^[Image : https://multiulb.com/finalite-multiculturalite/]
 :::
 

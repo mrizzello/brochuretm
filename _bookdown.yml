@@ -21,6 +21,7 @@ rmd_files:
   - "themes/multiculturalite-et-langage.Rmd"
 # Mathématiques
   - "themes/les-nombres-remarquables.Rmd"
+  - "themes/la-geometrie-non-euclidienne.Rmd"
 # Biologie
   - "themes/les-defis-de-lalimentation.Rmd"
   - "themes/etude-de-la-biodiversite.Rmd"
