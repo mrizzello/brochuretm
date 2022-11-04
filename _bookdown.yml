@@ -44,6 +44,7 @@ rmd_files:
   - "themes/le-jeu-video-fiction-ou-realite.Rmd"
 # Histoire et sciences des religions
 # Arts visuels
+  - "themes/ecritures-artistes-histoire-ecritures.Rmd"
 # Musique
 # Informatique
 # Education physique et sportive
