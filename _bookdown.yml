@@ -13,6 +13,7 @@ rmd_files:
 # Français
   - "themes/le-conte-ecrit-transpose-au-cinema.Rmd"
 # Allemand
+  - "themes/les-machines-et-la-communication.Rmd"
 # Anglais
   - "themes/le-recit-de-voyage.Rmd"
 # Italien

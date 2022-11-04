@@ -1,0 +1,35 @@
+# Les machines et la communication : \linebreak outils et sensibilités
+
+::: {.center data-latex=""}
+![](images/les-machines-et-la-communication.jpg){height=12em}
+:::
+
+::: {.center data-latex=""}
+**"Dis Siri : Veux-tu m'épouser\ ?"**  
+**"Dis Siri : Est-ce que tu m'aimes\ ?"**
+:::
+
+Il parait que ce sont là les questions le plus souvent posées à cette application vocale.
+
+L'être humain est un animal social pour qui communiquer est vital. Comme "on ne peut pas ne pas
+communiquer"^[WATZLAWICK, P., BEAVIN-BAVELAS, J., & JACKSON, D. (1972) : Une logique de la communication, Éd. du Seuil, Paris], tout est communication.
+
+Comment communique-t-on ? Par quels canaux ? La tentation de répondre “par le langage” en premier est grande alors que les études ont montré que lors d'un échange de type “face-à-face”, la communication verbale ne représenterait que 7% ...
+
+Que se passe-t-il quand on “communique” avec Siri ? Les êtres humains emploient le langage naturel qui est différent du langage formel comme les mathématiques ou différents langages informatiques. Le traitement automatique du langage naturel (TALN), discipline de l'intelligence artificielle (IA) se consacre aux interactions entre l'humain et les machines. Eh oui, même si Siri nous répond à des questions plus ou moins loufoques, lui et nous, nous ne parlons pas le même langage. Mais qui parle quoi, alors ?
+
+Le TALN a également permis de nouvelles percées dans le monde des communications multilingues. Les solutions de traduction automatique en ligne sont maintenant des outils accessibles à tous. Associé à la reconnaissance automatique de la parole, le TALN permet à des personnes de langues différentes de communiquer entre elles.
+
+Mais il y a traduire et ...traduire ou, selon l'expression consacrée, "traduire c'est trahir" qui renvoie à la différence irréductible entre un texte et ses traductions possibles. Quel rôle les technologies de traduction automatique jouent-elles non seulement dans notre vie quotidienne, à l'école et au travail, mais aussi dans la recherche scientifique et les études littéraires ? Est-il possible de confier à DeepL la traduction d'un texte de loi ou d'un poème de Goethe ?
+
+De quoi est-elle donc capable l'IA aujourd'hui ? Quel est l'état actuel des connaissances et quels progrès seraient envisageables ? Voici quelques-unes des questions qui pourraient être le point de départ de travaux de maturité axés sur la communication humaine naturelle, artificielle, mixte, mono ou multilingue.
+
+Les trois enseignantes responsables sont plurilingues et se prêtent à des expérimentations en plusieurs langues : français, roumain, portugais, anglais, allemand et italien.
+
+Les travaux peuvent être rédigés en français et en allemand.
+
+::: {.signature data-latex=""}
+_Eugenia Portioli_  
+_Carla Bastos_  
+_Anamaria Terrier_
+:::
