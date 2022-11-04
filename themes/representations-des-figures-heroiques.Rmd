@@ -2,6 +2,7 @@
 
 ::: {.center data-latex=""}
 ![](images/representations-des-figures-heroiques.jpg){height=12em}
+^[mages : LEE, S., DITKO, S.: The Amazing Spider-Man; ODA, E.: One Piece ; ISAMAYA, H.: Attack on Titan; WEIN, L., COCKRUM, D.: X-Men.]
 :::
 
 Avez-vous déjà rêvé d'être piqué par une araignée et de devenir le nouveau Peter Parker ? Imaginez-vous parfois que vous pouvez contrôler le vent telle Tornade ? Enviez-vous le chapeau de paille du personnage loufoque et pas toujours héroïque de Luffy ? Craignez-vous d'être un titan enfermé, comme Eren Jäger, dans un paradis fictif ? Ou que la réalité que nous connaissons ne soit qu'un mensonge ?
