@@ -18,6 +18,7 @@ rmd_files:
 # Anglais
   - "themes/le-recit-de-voyage.Rmd"
 # Italien
+  - "themes/multiculturalite-et-langage.Rmd"
 # Mathématiques
   - "themes/les-nombres-remarquables.Rmd"
 # Biologie
