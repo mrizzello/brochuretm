@@ -60,3 +60,4 @@ rmd_files:
   - "themes/organisation-dun-concert-public.Rmd"
 # Informatique
 # Education physique et sportive
+  - "cadre/prise-notes.Rmd"

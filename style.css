@@ -50,3 +50,16 @@ img#cover {
 #le-mot-du-doyen img {
   max-width: 20rem;
 }
+
+#prise-de-notes p {
+  border-bottom: 1px solid lightgrey;
+  margin-top: 3rem;
+}
+
+#toc-pour-prendre-des-notes{
+  display: none;
+}
+
+a[href='pour-prendre-des-notes.html'] {
+  visibility: hidden;
+}
