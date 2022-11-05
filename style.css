@@ -40,6 +40,26 @@ li.booklogo a img {
   padding-top: 3rem;
 }
 
+img#cover {
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+  max-width: 32rem;
+}
+
 #le-mot-du-doyen img {
   max-width: 20rem;
+}
+
+#prise-de-notes p {
+  border-bottom: 1px solid lightgrey;
+  margin-top: 3rem;
+}
+
+#toc-pour-prendre-des-notes{
+  display: none;
+}
+
+a[href='pour-prendre-des-notes.html'] {
+  visibility: hidden;
 }
