@@ -14,6 +14,7 @@ rmd_files:
   - "themes/le-conte-ecrit-transpose-au-cinema.Rmd"
   - "themes/reecriture-de-contes.Rmd"
   - "themes/un-conte-et-des-conteurs.Rmd"
+  - "themes/journaux.Rmd"
 # Allemand
   - "themes/les-machines-et-la-communication.Rmd"
   - "themes/representations-des-figures-heroiques.Rmd"
