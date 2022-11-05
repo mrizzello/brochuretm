@@ -1,0 +1,16 @@
+# Organisation d'un concert public
+
+Le but de ce TM est l'organisation d'un concert public d'environ 45 minutes. L'élève doit s'occuper des lumières, de la sonorisation, de la logistique et de la planification de l'évènement. Il peut s'entourer d'autres musiciens pour son audition. Le style de musique pourra être aussi bien classique que jazz, pop, rock...
+
+La partie écrite du TM comportera :
+
+- Une justification du choix du répertoire.
+- Les choix et les difficultés inhérents à l'organisation et à la logistique du concert.
+- Sa gestion des aspects techniques de la régie
+- Les difficultés d'Aufführungspraxis (interprétation) suscitées par les œuvres.
+- Un "livret" destiné aux spectateurs présentant succinctement chacune des pièces ainsi que les musiciens du concert.
+- Un feedback du concert.
+
+::: {.signature data-latex=""}
+_François Voeffray_
+:::

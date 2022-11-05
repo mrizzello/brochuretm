@@ -8,6 +8,8 @@ La fabrication d'un livre, même d'un petit livre, nécessite un contenu, donc d
 _Nathalie Fischli_
 :::
 
+***
+
 L'histoire commence avec l'écriture. Cunéiforme, Arial, onciale ou caroline, majuscule ou minuscule, l'écriture évolue et se transforme. Elle s'adapte, elle crée des révolutions. Avec l'apparition de l'imprimerie, les mœurs sont bouleversées. Et presque six cents ans plus tard, à l'heure du numérique, l'écriture manuscrite tend à disparaître. 
 
 Ici, vous écrirez sur l'histoire de l'écrit. Pourquoi écrire ? Pourquoi imprimer ? Qui écrit ? Quelles informations méritent-elles de passer à la postérité ? Voici des questions sur lesquelles votre plume (ou votre clavier) pourrait disserter. 
@@ -16,4 +18,4 @@ Ici, vous écrirez sur l'histoire de l'écrit. Pourquoi écrire ? Pourquoi impr
 _Pauline Meylan_
 :::
 
-Travail en binôme recommandé
+Travail en binôme recommandé.

@@ -55,5 +55,7 @@ rmd_files:
 # Arts visuels
   - "themes/ecritures-artistes-histoire-ecritures.Rmd"
 # Musique
+  - "themes/composition-et-realisation-dun-ep-clip-video-musical.Rmd"
+  - "themes/organisation-dun-concert-public.Rmd"
 # Informatique
 # Education physique et sportive
