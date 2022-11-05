@@ -17,6 +17,7 @@ rmd_files:
 # Allemand
   - "themes/les-machines-et-la-communication.Rmd"
   - "themes/representations-des-figures-heroiques.Rmd"
+  - "themes/elaboration-dun-guide-de-voyage.Rmd"
 # Anglais
   - "themes/le-recit-de-voyage.Rmd"
 # Italien

@@ -1,0 +1,19 @@
+# Élaboration d'un guide de voyage dans une ville germanophone
+
+::: {.center data-latex=""}
+![](images/elaboration-dun-guide-de-voyage.jpg){height=12em}
+:::
+
+Un guide touristique est déjà une invitation au voyage : les images nous transportent dans des endroits reculés, la mise en page emmène le lecteur sur les histoires des lieux à visiter, les polices de caractère révèlent la personnalité du texte. Tant de qualités avec lesquelles jouer ! 
+
+Qui aurait envie de visiter Vienne muni d'un guide sans images, qui aurait envie de lire l'histoire de St-Gall dans un bloc texte sans paragraphes, enfin qui aurait l'usage d'un guide de Berlin sans carte de métro ? 
+
+Graphiquement, le guide est un livre fait d'images, de texte et des cartes. Concrètement, il s'agit d'un objet petit et pratique. Une partie de ce TM consiste à fabriquer un exemplaire de votre guide touristique.
+
+Tout comme la forme, le contenu du guide est aussi essentiel. Il doit être précis et efficace. Tous les aspects d'un voyage devraient être abordés : culture, logement, restaurant, transport et bien d'autres thématiques encore selon vos envies. 
+
+Dans le cadre de ce TM, la culture germanophone est au centre. Aber keine Panik ! Ce projet s'adresse à vous qui adorez voyager et créer, même si la langue allemande n'est pas votre tasse de thé. L'idée est de découvrir et de faire découvrir une ville en Allemagne, en Autriche ou en Suisse Alémanique et d'en élaborer un petit guide touristique à l'attention d'autres étudiants. Il peut être rédigé en français ou en allemand : c'est vous qui voyez. 
+
+::: {.signature data-latex=""}
+_Stéphanie Macrina_
+:::
