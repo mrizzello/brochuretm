@@ -1,0 +1,19 @@
+# Réécriture de contes
+
+Depuis son émergence à la Renaissance, le genre du conte fascine. Usage du merveilleux, de héros et d'héroïnes charismatiques, motifs sociaux représentatifs d'une époque, distraction de l'auditoire à qui il est narré sont en vrac quelques éléments singuliers qui permettent de l'identifier. Il est d'ailleurs défini ainsi par Le dictionnaire du littéraire : 
+
+> "Le conte se caractérise par trois critères principaux : il raconte des événements imaginaires, voire merveilleux ; sa vocation est de distraire, tout en portant souvent une morale ; il exprime une tradition orale multiséculaire et quasi universelle. D'abord « populaire » et oral, il est passé tôt en littérature lettrée […], puis a donné toutes sortes de variantes".^[Aron, Paul, Saint-Jacques, Denis, Viala Alain (dir.), Le dictionnaire du littéraire, Paris, PUF, coll. « Quadrige », 2002, p.145 (les mises en gras sont de moi).]
+
+Ces variantes – ou réécritures – ont jalonné l'histoire du conte depuis son origine orale. Les collecteurs de contes, à l'image des frères Grimm (XVIII-XIXe), ont répertorié différentes versions des contes et ont contribué à ce passage de l'oral à l'écrit. 
+
+De nombreux contes ont été repris, modifiés, au fil du temps, pour correspondre davantage à la société dans laquelle ce récit évoluait. C'est le cas des versions Disney, expurgées des aspects choquants et violents des récits « originels » (par exemple la petite sirène d'Andersen se fait couper la langue par la sorcière des mers et a l'impression, durant son passage sur terre de marcher à chaque pas sur des couteaux aiguisés…).
+
+Ainsi, il existe d'innombrables versions des contes les plus célèbres, réécrites pour correspondre à l'époque dans laquelle il évolue. La dernière controverse en date est le baiser que donne le prince à la belle au bois dormant. Un baiser volé et non consenti, puisque le prince embrasse la belle sans son accord ; curieux pour ne pas dire dissonant dans une époque qui se veut égalitaire et où l'on proscrit l'abus de pouvoir du patriarcat.
+
+Dans une époque mouvante comme la nôtre, peut-être est-il utile, sinon nécessaire, de proposer de nouvelles variantes de ces contes, adaptées à notre temps où les motifs, fussent-ils ancrés dans notre histoire, doivent être dépoussiérés et revisités pour correspondre à notre temps.
+
+Ce travail de maturité entend répondre à cette question en mettant en évidence, d'une part, les motifs représentatifs d'un conte (aspect théorique) et en proposant une réécriture qui réinvestit ces mêmes motifs, mais à l'aune d'un éclairage actuel, une écriture 2.0 des Cendrillons, Belles au bois dormant et des Petites Sirènes…
+
+::: {.signature data-latex=""}
+_Pierre Bonjour et Samantha Steiner_
+:::

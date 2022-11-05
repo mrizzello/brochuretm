@@ -12,6 +12,7 @@ rmd_files:
   - "cadre/calendrier.Rmd"
 # Français
   - "themes/le-conte-ecrit-transpose-au-cinema.Rmd"
+  - "themes/reecriture-de-contes.Rmd"
 # Allemand
   - "themes/les-machines-et-la-communication.Rmd"
   - "themes/representations-des-figures-heroiques.Rmd"
