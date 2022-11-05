@@ -43,6 +43,7 @@ rmd_files:
   - "themes/equilibre-vie-professionnelle-prive-jeunes-adultes.Rmd"
 # Philosophie
   - "themes/philosophie-de-lart-la-beaute-et-la-verite.Rmd"
+  - "themes/au-dela-de-lhumain.Rmd"
 # Psychologie
   - "themes/le-jeu-video-fiction-ou-realite.Rmd"
 # Histoire et sciences des religions

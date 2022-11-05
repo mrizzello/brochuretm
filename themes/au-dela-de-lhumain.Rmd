@@ -1,0 +1,21 @@
+# Au-delà de l'humain : \linebreak transhumanisme et intelligence artificielle, quelles représentations et quels enjeux ?
+
+::: {.center data-latex=""}
+![](images/au-dela-de-lhumain.jpg){height=12em}  
+^[Images : La Créature, dans le film Frankenstein réalisé par James Whale (1931) ; Les robots dans I, Robot réalisé par Alex Proyas (2004).]
+:::
+
+\vspace{\stretch{1}}
+
+Le corps vieillit, la pensée demeure. Mais pourrait-elle nous survivre ? Pourrions-nous la déplacer sur un autre support ? Mais ce faisant, serions-nous alors toujours les mêmes ? Sur quoi repose la conscience ? Est-ce une entité totalement déconnectée du corps ou peut-on la recréer sur une base physique robotique ?
+Améliorer le corps humain, supprimer son vieillissement et ainsi nier la mort, voilà ce que cherche le courant philosophique du transhumanisme. Science-fiction ? Abomination ? Progrès médicaux nécessaires ? Cette quête fait débat. 
+
+Ce travail de maturité questionnera les bénéfices de cette théorie ainsi que ses dérives potentielles. Les angles de réflexion pourront être philosophiques et éthiques mais également faire écho aux représentations littéraires et cinématographiques en analysant des œuvres telles que Frankenstein, Her, Ex machina, Transcendance, Matrix ou encore I, Robot. 
+
+\clearpage
+
+Ce travail de maturité doit être réalisé en binôme et peut être rédigé en français ou en anglais.  
+
+::: {.signature data-latex=""}
+_Pauline Meylan et Swaha Somanadan_
+:::
