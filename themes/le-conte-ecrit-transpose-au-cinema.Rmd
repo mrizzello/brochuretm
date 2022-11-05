@@ -11,10 +11,10 @@ Il y a également une modification du point de vue du spectateur, dont la libert
 
 | Conte                                                            | Adaptation                                              |
 | :--------------------------------------------------------------- | :------------------------------------------------------ |
-| La belle au bois dormant,\linebreak Charles Perrault             | Maléfique\linebreak (2014, Robert Stromberg)            |
-| Cendrillon,\linebreak Charles Perrault                           | Cendrillon\linebreak (2015, Kenneth Branagh)            |
-| Le Petit Chaperon rouge,\linebreak Charles Perrault              | Le Chaperon Rouge\linebreak (2011, Catherine Hardwicke) |
-| La Belle et la Bête,\linebreak Jeanne-Marie Leprince de Beaumont | La Belle et la Bête\linebreak (2017, Bill Condon)       |
+| La belle au bois dormant,\linebreak\ Charles Perrault             | Maléfique\linebreak\ (2014, Robert Stromberg)            |
+| Cendrillon,\linebreak\ Charles Perrault                           | Cendrillon\linebreak\ (2015, Kenneth Branagh)            |
+| Le Petit Chaperon rouge,\linebreak\ Charles Perrault              | Le Chaperon Rouge\linebreak\ (2011, Catherine Hardwicke) |
+| La Belle et la Bête,\linebreak\ Jeanne-Marie Leprince de Beaumont | La Belle et la Bête\linebreak\ (2017, Bill Condon)       |
 
 \clearpage
 
