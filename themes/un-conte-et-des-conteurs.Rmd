@@ -1,0 +1,13 @@
+# Un conte et des conteurs
+
+Saviez-vous que l'histoire de Barbe bleue est racontée au moins de trois façons différentes par les frères Grimm ? Connaissez-vous la première version de La Belle et la Bête, celle que Madame de Villeneuve avait composée et qui vous transportait bien plus loin dans les domaines du merveilleux et du féérique ? Avez-vous déjà lu le récit des souffrances de la petite sirène sous la plume de Hans Christian Andersen ? Ces contes qu'on croit connaître recèlent encore bien des mystères…
+
+Dans ce travail de maturité, vous étudierez différentes réécritures d'un conte de votre choix. Vous vous intéresserez aux changements qu'on découvre d'une version à l'autre et vous interrogerez quant à leur signification. Pourquoi ces variations ? Que révèlent-elles ? L'analyse peut porter sur des textes en anglais et en français. Il est également possible de choisir de rédiger le TM en anglais.
+
+::: {.center data-latex=""}
+![](images/un-conte-et-des-conteurs.jpg){height=12em}
+:::
+
+::: {.signature data-latex=""}
+_Samantha Steiner_
+:::
