@@ -43,6 +43,7 @@ rmd_files:
 # Histoire
 # Economie et droit
   - "themes/equilibre-vie-professionnelle-prive-jeunes-adultes.Rmd"
+  - "themes/le-droit-dans-lunivers-dharry-potter.Rmd"
 # Philosophie
   - "themes/philosophie-de-lart-la-beaute-et-la-verite.Rmd"
   - "themes/au-dela-de-lhumain.Rmd"
