@@ -16,6 +16,7 @@ rmd_files:
   - "themes/reecriture-de-contes.Rmd"
   - "themes/un-conte-et-des-conteurs.Rmd"
   - "themes/journaux.Rmd"
+  - "themes/realite-et-fiction.Rmd"
 # Allemand
   - "themes/les-machines-et-la-communication.Rmd"
   - "themes/representations-des-figures-heroiques.Rmd"
