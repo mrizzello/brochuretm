@@ -17,6 +17,7 @@ rmd_files:
   - "themes/un-conte-et-des-conteurs.Rmd"
   - "themes/journaux.Rmd"
   - "themes/realite-et-fiction.Rmd"
+  - "themes/ecritures-artistes-histoire-ecritures.Rmd"
 # Allemand
   - "themes/les-machines-et-la-communication.Rmd"
   - "themes/representations-des-figures-heroiques.Rmd"
@@ -30,8 +31,8 @@ rmd_files:
   - "themes/les-nombres-remarquables.Rmd"
   - "themes/la-geometrie-non-euclidienne.Rmd"
 # Biologie
-  - "themes/les-defis-de-lalimentation.Rmd"
   - "themes/etude-de-la-biodiversite.Rmd"
+  - "themes/les-defis-de-lalimentation.Rmd"
   - "themes/lintelligence-artificielle-est-elle-vraiment-intelligente.Rmd"
   - "themes/sante-et-sport.Rmd"
   - "themes/le-sommeil.Rmd"
@@ -56,7 +57,6 @@ rmd_files:
   - "themes/le-jeu-video-fiction-ou-realite.Rmd"
 # Histoire et sciences des religions
 # Arts visuels
-  - "themes/ecritures-artistes-histoire-ecritures.Rmd"
 # Musique
   - "themes/composition-et-realisation-dun-ep-clip-video-musical.Rmd"
   - "themes/organisation-dun-concert-public.Rmd"
