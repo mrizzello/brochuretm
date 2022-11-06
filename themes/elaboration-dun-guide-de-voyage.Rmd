@@ -15,5 +15,5 @@ Tout comme la forme, le contenu du guide est aussi essentiel. Il doit être pré
 Dans le cadre de ce TM, la culture germanophone est au centre. Aber keine Panik ! Ce projet s'adresse à vous qui adorez voyager et créer, même si la langue allemande n'est pas votre tasse de thé. L'idée est de découvrir et de faire découvrir une ville en Allemagne, en Autriche ou en Suisse Alémanique et d'en élaborer un petit guide touristique à l'attention d'autres étudiants. Il peut être rédigé en français ou en allemand : c'est vous qui voyez. 
 
 ::: {.signature data-latex=""}
-_Stéphanie Macrina_
+*Stéphanie Macrina*
 :::

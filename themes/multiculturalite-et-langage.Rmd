@@ -23,10 +23,10 @@ Une introduction à la communication interculturelle sera proposée à travers u
 Le choix de langue de rédaction et de forme (étude scientifique, enquête journalistique, texte créatif, reportage, etc.) sera discuté avec le ou la répondant·e. 
 
 ::: {.signature data-latex=""}
-_Suzanne Alves_ (français, espagnol, portugais)  
-_Joel Atakora_ (français, allemand, suisse-allemand, média)  
-_Beata Jaquet_ (anglais, espagnol, français, polonais, Europe de l'Est)  
-_Esma Puric_ (italien, philosophie-psychologie,  
+*Suzanne Alves* (français, espagnol, portugais)  
+*Joel Atakora* (français, allemand, suisse-allemand, média)  
+*Beata Jaquet* (anglais, espagnol, français, polonais, Europe de l'Est)  
+*Esma Puric* (italien, philosophie-psychologie,  
 langue et culture bosniaque)  
-_Valentina Sacco_ (italien, français)
+*Valentina Sacco* (italien, français)
 :::

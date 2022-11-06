@@ -20,5 +20,5 @@ Le but de ce travail de maturité est de s'intéresser à la composition des cos
 - Il sera également possible de réaliser en laboratoire, dans la mesure du possible, le produit ou l'additif étudié.
 
 ::: {.signature data-latex=""}
-_Mélanie Tschirren_
+*Mélanie Tschirren*
 :::

@@ -7,5 +7,5 @@ Dans un premier temps, vous devrez composer la musique et les paroles de votre E
 Dans la travail écrit, vous présenterez vos compositions ainsi que les différentes techniques d'édition musicales et vidéo que vous aurez acquises durant tout le processus.
 
 ::: {.signature data-latex=""}
-_François Voeffray_
+*François Voeffray*
 :::

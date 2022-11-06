@@ -29,7 +29,7 @@ Les trois enseignantes responsables sont plurilingues et se prêtent à des exp�
 Les travaux peuvent être rédigés en français et en allemand.
 
 ::: {.signature data-latex=""}
-_Eugenia Portioli_  
-_Carla Bastos_  
-_Anamaria Terrier_
+*Eugenia Portioli*  
+*Carla Bastos*  
+*Anamaria Terrier*
 :::

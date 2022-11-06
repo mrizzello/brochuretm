@@ -13,7 +13,7 @@ Ce travail de maturité doit être rédigé en binôme. Il peut être rédigé e
 
 
 ::: {.signature data-latex=""}
-_Swaha Somanadan_  
-_Pauline Meylan_  
-_Eugenia Portioli_
+*Swaha Somanadan*  
+*Pauline Meylan*  
+*Eugenia Portioli*
 :::

@@ -5,7 +5,7 @@ En 1451, l'homo sapiens d'Europe commençait à imprimer. L'invention de la pres
 La fabrication d'un livre, même d'un petit livre, nécessite un contenu, donc des images et du texte. Et si c'était à vous de créer un livre ? À l'aide d'outils d'impression anciens et modernes, seriez-vous capables de créer un livre unique ? 
 
 ::: {.signature data-latex=""}
-_Nathalie Fischli_
+*Nathalie Fischli*
 :::
 
 ***
@@ -15,7 +15,7 @@ L'histoire commence avec l'écriture. Cunéiforme, Arial, onciale ou caroline, m
 Ici, vous écrirez sur l'histoire de l'écrit. Pourquoi écrire ? Pourquoi imprimer ? Qui écrit ? Quelles informations méritent-elles de passer à la postérité ? Voici des questions sur lesquelles votre plume (ou votre clavier) pourrait disserter. 
 
 ::: {.signature data-latex=""}
-_Pauline Meylan_
+*Pauline Meylan*
 :::
 
 Travail en binôme recommandé.

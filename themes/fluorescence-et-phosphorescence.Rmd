@@ -17,5 +17,5 @@ Nous avons tous en tête les feutres fluorescents d'une marque bien connue qui n
 Le thème de ce travail de maturité est d'étudier comment le phénomène de fluorescence ou phosphorescence est utilisé et fonctionne dans une application industrielle donnée ; il s'agira également de traiter les éléments stratégiques, économiques et écologiques qui se cachent derrière la maîtrise de ces matériaux et de leur usage.
 
 ::: {.signature data-latex=""}
-_Claude-Alain Despland_
+*Claude-Alain Despland*
 :::

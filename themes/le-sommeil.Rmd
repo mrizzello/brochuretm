@@ -13,5 +13,5 @@ Sans aller jusqu'au record d'absence de sommeil de Randy Gardner, étudiant amé
 Cette thématique pourrait être abordée de différentes manières lors d'un travail de maturité.
 
 ::: {.signature data-latex=""}
-_Manuel Zenger_
+*Manuel Zenger*
 :::

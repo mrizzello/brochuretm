@@ -12,5 +12,5 @@ La partie écrite du TM comportera :
 - Un feedback du concert.
 
 ::: {.signature data-latex=""}
-_François Voeffray_
+*François Voeffray*
 :::

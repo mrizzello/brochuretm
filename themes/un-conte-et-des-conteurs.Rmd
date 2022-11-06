@@ -9,5 +9,5 @@ Dans ce travail de maturité, vous étudierez différentes réécritures d'un co
 :::
 
 ::: {.signature data-latex=""}
-_Samantha Steiner_
+*Samantha Steiner*
 :::

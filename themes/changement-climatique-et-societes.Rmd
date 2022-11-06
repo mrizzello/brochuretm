@@ -20,5 +20,5 @@ Quel que soit le sujet de votre choix, il s'agira pour vous d'identifier une pro
 Ce TM est recommandé pour des groupes de 2 élèves. 
 
 ::: {.signature data-latex=""}
-_Cyril Kull_
+*Cyril Kull*
 :::

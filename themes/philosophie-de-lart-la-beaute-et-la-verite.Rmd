@@ -9,5 +9,5 @@ Tel serait un échantillon des questions qui peuvent être soulevées dans ce Tr
 Ce Travail de Maturité est ouvert à tous et n'exige aucun prérequis. Il demande simplement un intérêt pour la question artistique, une envie de penser, et une dose de curiosité.
 
 ::: {.signature data-latex=""}
-_Jeremy Filthuth et Esma Puric_
+*Jeremy Filthuth et Esma Puric*
 :::

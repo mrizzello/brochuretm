@@ -20,5 +20,5 @@ Ce TM est recommandé pour des groupes de 2 élèves.
  
 
 ::: {.signature data-latex=""}
-_Mirko Maternini_
+*Mirko Maternini*
 :::

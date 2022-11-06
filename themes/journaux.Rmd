@@ -9,5 +9,5 @@ Dans un deuxième temps, il s'agira de sélectionner un personnage emblématique
 Ce travail se veut créatif, et, hormis la contrainte de l'écriture de soi (ici, l'écriture d'un autre soi, imaginaire et fantasmé), l'élève est libre de choisir un personnage réel ou fictif et de rédiger un ensemble de pensées originales qui auraient pu survenir sous la plume dudit personnage.
 
 ::: {.signature data-latex=""}
-_Pierre Bonjour_
+*Pierre Bonjour*
 :::

@@ -23,7 +23,7 @@ En devenant chef de votre projet, vous ferez appel à toutes les ressources poss
 Ce travail de maturité se fait obligatoirement par groupes de deux.
 
 ::: {.signature data-latex=""}
-_Jonathan Monteverde_  
-_Nicolas Cusnir_  
-_Gwenola Tabin_
+*Jonathan Monteverde*  
+*Nicolas Cusnir*  
+*Gwenola Tabin*
 :::

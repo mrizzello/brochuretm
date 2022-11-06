@@ -28,9 +28,9 @@ Dans la géométrie hyperbolique, nous étudions les objets géométriques dans 
 Dans ce TM, nous vous proposons d’étudier l’une des deux géométries et de l’appliquer à un cas concret, ou de comparer la géométrie euclidienne et une géométrie non euclidienne.
 
 ::: {.signature data-latex=""}
-_Carla Bastos Da Silva_  
-_Ahmed Bufardi_  
-_Yannick Donnet_  
-_Frédéric Makiadi_  
-_Alan Morier_
+*Carla Bastos Da Silva*  
+*Ahmed Bufardi*  
+*Yannick Donnet*  
+*Frédéric Makiadi*  
+*Alan Morier*
 :::

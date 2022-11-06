@@ -16,9 +16,9 @@ Il existe d'autres nombres remarquables. Par exemple le nombre  appelé le nombr
 Ce thème propose aux candidats intéressés de travailler sur un nombre remarquable ou une famille de nombres remarquables afin d'explorer leurs caractéristiques et leurs propriétés fondamentales et d'étudier leur importance en mathématiques ainsi que leurs applications dans différents domaines.  
 
 ::: {.signature data-latex=""}
-_Carla Bastos Da Silva_  
-_Ahmed Bufardi_  
-_Yannick Donnet_  
-_Frédéric Makiadi_  
-_Alan Morier_
+*Carla Bastos Da Silva*  
+*Ahmed Bufardi*  
+*Yannick Donnet*  
+*Frédéric Makiadi*  
+*Alan Morier*
 :::

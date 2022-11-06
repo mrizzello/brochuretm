@@ -9,6 +9,7 @@
 | Les machines et la communication : outils et sensibilités                                                    |    ~     |
 | Représentations des figures héroïques (ou non) dans les bandes dessinées (DC, Marvel, mangas ...)            |    ~     |
 | Élaboration d’un guide de voyage dans une ville germanophone                                                 |    ~     |
+| Analyse comparative et/ou création                                                                           |    ~     |
 | Le récit de voyage                                                                                           |    ~     |
 | Multiculturalité et langage                                                                                  |    ~     |
 | Les nombres remarquables                                                                                     |    ~     |
@@ -33,3 +34,4 @@
 | Ecritures d’artistes, histoire d’écritures : évolutions et appropriations de l’écriture                      |    ~     |
 | Composition et Réalisation d’un EP / clip vidéo musical                                                      |    ~     |
 | Organisation d’un concert public                                                                             |    ~     |
+| À la découverte des coulisses                                                                                |    ~     |
