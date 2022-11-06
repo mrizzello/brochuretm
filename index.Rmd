@@ -14,10 +14,64 @@ fontsize: 10pt
 geometry: margin=20mm
 ---
 
-# L'illustration 2023 {-}
+# Le mot du doyen {-}
 
-<img id="cover" src="cover.jpg" alt="Cover image" />
+![](images/logoGNLC.png){height=5em}
 
-L'illustration utilisée en couverture de l'édition de cette brochure est la photo gagnante d'un concours de macro-photographie organisé dans le cadre des laboraroires de chimie de la classe 2M21 pendant l'année scolaire 2021-2022.
+\vspace{\stretch{1}}
 
-Nos félicitations et nos remerciements vont aux auteurs de cette image : Élise Rollier et Yann Lopez (3M21).
+::: {.signature data-latex=""}
+_À toutes et tous les élèves_  
+_des classes de 2^e^ année_  
+_de l'École de maturité_
+:::
+
+\vspace{\stretch{1}}
+
+Chères élèves, chers élèves,
+
+Vous recevez cette brochure qui concerne le travail de maturité pour la volée 2022-2023 et qui contient, en particulier, les thèmes des projets qui vous sont proposés.
+
+Je vous donne rendez-vous le
+
+::: {.center data-latex=""}
+**Mardi 22 novembre à 11h05 ;  
+Espace Assemblée (en prolongement de la cafétéria)**
+:::
+
+afin d'y recevoir une information générale sur l'organisation du travail de maturité.
+
+Vous aurez ensuite la possibilité de suivre la présentation de trois projets que vous aurez retenus parmi les pages qui suivent. Les présentations se dérouleront comme suit :
+
+- la première de 11h55 à 12h20,
+- la seconde de 12h25 à 12h50 et
+- la troisième de 12h55 à 13h30.
+
+Les cours seront donc interrompus ce jour de 10h50 à 13h30 pour les classes de 2M. Ils reprendront à 13h35 selon l'horaire habituel.
+
+\clearpage
+
+Après ces présentations, vous aurez à choisir trois thèmes. Vous devrez vous inscrire via le site du Gymnase de Nyon ([www.gymnasedenyon.ch](www.gymnasedenyon.ch)) en cliquant dans le menu 
+
+::: {.center data-latex=""}
+"Intranet > Elèves > Horaires et Inscriptions" puis "Inscriptions"
+:::
+
+et en respectant le délai fixé au **mercredi 30 novembre à 16h00**. Vous devrez formuler 3 souhaits, dans l'ordre de préférence. Les inscriptions définitives vous seront confirmées ultérieurement.
+
+
+Avec mes meilleures salutations,
+
+::: {.signature data-latex=""}
+Le doyen  
+M. Rizzello
+:::
+
+\vspace{\stretch{1}}
+
+Distribution à :
+
+- toutes les classes de 2M
+- Conseil de direction
+- Mmes et MM. les maître·sse·s de classe de 2M
+- Mmes et MM. les responsables de projets, avec prière d'assister à cette séance d'information et de présenter les propositions de projets dans les salles qui seront attribuées

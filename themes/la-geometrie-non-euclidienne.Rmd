@@ -1,5 +1,7 @@
 # La géométrie non euclidienne
 
+\vspace{\stretch{1}}
+
 ::: {.center data-latex=""}
 ![](images/la-geometrie-non-euclidienne-1.jpg){height=9em}  
 ^[Par Phrontis — Travail personnel, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=7618684]

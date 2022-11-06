@@ -1,4 +1,4 @@
-# Calendrier pour la volée 2023 {-}
+# Calendrier des travaux 2023 {-}
 
 \vspace{\stretch{1}}
 
