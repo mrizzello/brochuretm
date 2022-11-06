@@ -20,6 +20,7 @@ rmd_files:
   - "themes/les-machines-et-la-communication.Rmd"
   - "themes/representations-des-figures-heroiques.Rmd"
   - "themes/elaboration-dun-guide-de-voyage.Rmd"
+  - "themes/analyse-comparative-et-ou-creation.Rmd"
 # Anglais
   - "themes/le-recit-de-voyage.Rmd"
 # Italien
@@ -58,6 +59,7 @@ rmd_files:
 # Musique
   - "themes/composition-et-realisation-dun-ep-clip-video-musical.Rmd"
   - "themes/organisation-dun-concert-public.Rmd"
+  - "themes/a-la-decouverte-des-coulisses.Rmd"
 # Informatique
 # Education physique et sportive
   - "cadre/prise-notes.Rmd"
