@@ -1,37 +1,38 @@
 # Attribution des salles {-}
 
-| Thème                                                                                                        | Salle n° |
-| :----------------------------------------------------------------------------------------------------------- | :------: |
-| Le conte écrit transposé au cinéma                                                                           |    ~     |
-| Réécriture de contes                                                                                         |    ~     |
-| Un conte et des conteurs                                                                                     |    ~     |
-| Journaux (littérature personnelle)                                                                           |    ~     |
-| Les machines et la communication : outils et sensibilités                                                    |    ~     |
-| Représentations des figures héroïques (ou non) dans les bandes dessinées (DC, Marvel, mangas ...)            |    ~     |
-| Élaboration d’un guide de voyage dans une ville germanophone                                                 |    ~     |
-| Analyse comparative et/ou création                                                                           |    ~     |
-| Le récit de voyage                                                                                           |    ~     |
-| Multiculturalité et langage                                                                                  |    ~     |
-| Les nombres remarquables                                                                                     |    ~     |
-| La géométrie non euclidienne                                                                                 |    ~     |
-| Les défis de l’alimentation                                                                                  |    ~     |
-| Étude de la biodiversité                                                                                     |    ~     |
-| L’intelligence artificielle est-elle vraiment intelligente ?                                                 |    ~     |
-| Santé et sport                                                                                               |    ~     |
-| Le sommeil                                                                                                   |    ~     |
-| Des analyses chimiques avec mon téléphone portable                                                           |    ~     |
-| Chimie et photographie                                                                                       |    ~     |
-| L’eau chaude gèle-t-elle plus vite que l’eau froide ?                                                        |    ~     |
-| Les additifs en cosmétiques                                                                                  |    ~     |
-| Fluorescence et phosphorescence                                                                              |    ~     |
-| C’est pas sorcier                                                                                            |    ~     |
-| Changement climatique et sociétés                                                                            |    ~     |
-| L’équilibre entre la vie professionnelle et la vie privé des jeunes adultes                                  |    ~     |
-| Le droit dans l’univers d’Harry Potter                                                                       |    ~     |
-| Philosophie de l’art : La beauté et la vérité                                                                |    ~     |
-| Au-delà de l’humain : transhumanisme et intelligence artificielle, quelles représentations et quels enjeux ? |    ~     |
-| Le jeu vidéo : fiction ou réalité ?                                                                          |    ~     |
-| Ecritures d’artistes, histoire d’écritures : évolutions et appropriations de l’écriture                      |    ~     |
-| Composition et Réalisation d’un EP / clip vidéo musical                                                      |    ~     |
-| Organisation d’un concert public                                                                             |    ~     |
-| À la découverte des coulisses                                                                                |    ~     |
+| Thème                                                                                                         | Salle n° |
+| :------------------------------------------------------------------------------------------------------------ | :------: |
+| Le conte écrit transposé au cinéma                                                                            |    ~     |
+| Réécriture de contes                                                                                          |    ~     |
+| Un conte et des conteurs                                                                                      |    ~     |
+| Journaux (littérature personnelle)                                                                            |    ~     |
+| Réalité et fiction : comment certains motifs historiques se retrouvent-ils dans la littérature fictionnelle ? |    ~     |
+| Les machines et la communication : outils et sensibilités                                                     |    ~     |
+| Représentations des figures héroïques (ou non) dans les bandes dessinées (DC, Marvel, mangas ...)             |    ~     |
+| Élaboration d’un guide de voyage dans une ville germanophone                                                  |    ~     |
+| Analyse comparative et/ou création                                                                            |    ~     |
+| Le récit de voyage                                                                                            |    ~     |
+| Multiculturalité et langage                                                                                   |    ~     |
+| Les nombres remarquables                                                                                      |    ~     |
+| La géométrie non euclidienne                                                                                  |    ~     |
+| Les défis de l’alimentation                                                                                   |    ~     |
+| Étude de la biodiversité                                                                                      |    ~     |
+| L’intelligence artificielle est-elle vraiment intelligente ?                                                  |    ~     |
+| Santé et sport                                                                                                |    ~     |
+| Le sommeil                                                                                                    |    ~     |
+| Des analyses chimiques avec mon téléphone portable                                                            |    ~     |
+| Chimie et photographie                                                                                        |    ~     |
+| L’eau chaude gèle-t-elle plus vite que l’eau froide ?                                                         |    ~     |
+| Les additifs en cosmétiques                                                                                   |    ~     |
+| Fluorescence et phosphorescence                                                                               |    ~     |
+| C’est pas sorcier                                                                                             |    ~     |
+| Changement climatique et sociétés                                                                             |    ~     |
+| L’équilibre entre la vie professionnelle et la vie privé des jeunes adultes                                   |    ~     |
+| Le droit dans l’univers d’Harry Potter                                                                        |    ~     |
+| Philosophie de l’art : La beauté et la vérité                                                                 |    ~     |
+| Au-delà de l’humain : transhumanisme et intelligence artificielle, quelles représentations et quels enjeux ?  |    ~     |
+| Le jeu vidéo : fiction ou réalité ?                                                                           |    ~     |
+| Ecritures d’artistes, histoire d’écritures : évolutions et appropriations de l’écriture                       |    ~     |
+| Composition et Réalisation d’un EP / clip vidéo musical                                                       |    ~     |
+| Organisation d’un concert public                                                                              |    ~     |
+| À la découverte des coulisses                                                                                 |    ~     |
