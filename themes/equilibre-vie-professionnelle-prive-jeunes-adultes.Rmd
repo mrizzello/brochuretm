@@ -1,4 +1,4 @@
-# L'équilibre entre la vie professionnelle \linebreak et la vie privé des jeunes adultes
+# L'équilibre entre la vie professionnelle \linebreak et la vie privée des jeunes adultes
 
 ::: {.center data-latex=""}
 ![](images/equilibre-vie-professionnelle-prive-jeunes-adultes.jpg){height=12em}
