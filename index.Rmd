@@ -13,22 +13,24 @@ papersize: a5
 fontsize: 10pt
 geometry: margin=20mm
 ---
+\clearpage
+\ 
+\vspace{\stretch{1}}
+
+::: {.center data-latex=""}
+Distribution à :
+
+- toutes les classes de 2M
+- Conseil de direction
+- Mmes et MM. les maître·sse·s de classe de 2M
+- Mmes et MM. les responsables de projets, avec prière d'assister à cette séance d'information et de présenter les propositions de projets dans les salles qui seront attribuées
+:::
+
+\clearpage
 
 # Le mot du doyen {-}
 
-![](images/logoGNLC.png){height=5em}
-
-\vspace{\stretch{1}}
-
-::: {.signature data-latex=""}
-_À toutes et tous les élèves_  
-_des classes de 2^e^ année_  
-_de l'École de maturité_
-:::
-
-\vspace{\stretch{1}}
-
-Chères élèves, chers élèves,
+Chères élèves et chers élèves de 2^e^ année de l'École de maturité,
 
 Vous recevez cette brochure qui concerne le travail de maturité pour la volée 2022-2023 et qui contient, en particulier, les thèmes des projets qui vous sont proposés.
 
@@ -49,8 +51,6 @@ Vous aurez ensuite la possibilité de suivre la présentation de trois projets q
 
 Les cours seront donc interrompus ce jour de 10h50 à 13h30 pour les classes de 2M. Ils reprendront à 13h35 selon l'horaire habituel.
 
-\clearpage
-
 Après ces présentations, vous aurez à choisir trois thèmes. Vous devrez vous inscrire via le site du Gymnase de Nyon ([www.gymnasedenyon.ch](www.gymnasedenyon.ch)) en cliquant dans le menu 
 
 ::: {.center data-latex=""}
@@ -59,19 +59,6 @@ Après ces présentations, vous aurez à choisir trois thèmes. Vous devrez vous
 
 et en respectant le délai fixé au **mercredi 30 novembre à 16h00**. Vous devrez formuler 3 souhaits, dans l'ordre de préférence. Les inscriptions définitives vous seront confirmées ultérieurement.
 
-
-Avec mes meilleures salutations,
-
 ::: {.signature data-latex=""}
-Le doyen  
-M. Rizzello
+_M. Rizzello, Doyen_
 :::
-
-\vspace{\stretch{1}}
-
-Distribution à :
-
-- toutes les classes de 2M
-- Conseil de direction
-- Mmes et MM. les maître·sse·s de classe de 2M
-- Mmes et MM. les responsables de projets, avec prière d'assister à cette séance d'information et de présenter les propositions de projets dans les salles qui seront attribuées
