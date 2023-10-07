@@ -1,5 +1,8 @@
 ---
-title: "Travaux de maturité 2023"
+title: |
+  ![](logo.png){width=50%}  
+  \vspace{6em}
+  Travaux de maturité 2024
 date: "`r format(Sys.time(), '%d.%m.%Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -7,11 +10,11 @@ documentclass: book
 classoption:
   - openany
 github-repo: "mrizzello/borchuretm"
-description: "Brochure de présentation des thèmes proposés aux élèves 2M du GNLC"
+description: "Brochure de présentation des thèmes proposés aux élèves 2M du Gymnase d'Étoy"
 lang: fr
-papersize: a5
-fontsize: 10pt
-geometry: margin=20mm
+papersize: a4
+fontsize: 12pt
+geometry: margin=1in
 ---
 \clearpage
 \ 
@@ -30,16 +33,22 @@ Distribution à :
 
 # Le mot du doyen {-}
 
+\vspace{\stretch{1}}
+
 Chères élèves et chers élèves de 2^e^ année de l'École de maturité,
 
-Vous recevez cette brochure qui concerne le travail de maturité pour la volée 2022-2023 et qui contient, en particulier, les thèmes des projets qui vous sont proposés.
+Vous recevez cette brochure qui concerne le travail de maturité pour la volée 2023-2024 et qui contient, en particulier, les thèmes des projets qui vous sont proposés.
 
 Je vous donne rendez-vous le
 
+\vspace{\stretch{1}}
+
 ::: {.center data-latex=""}
-**Mardi 22 novembre à 11h05 ;  
+**Mardi 21 novembre à 11h05 ;  
 Espace Galerie (prolongement du hall d'entrée)**
 :::
+
+\vspace{\stretch{1}}
 
 afin d'y recevoir une information générale sur l'organisation du travail de maturité.
 
@@ -51,14 +60,26 @@ Vous aurez ensuite la possibilité de suivre la présentation de trois projets q
 
 Les cours seront donc interrompus ce jour de 10h50 à 13h30 pour les classes de 2M. Ils reprendront à 13h35 selon l'horaire habituel.
 
-Après ces présentations, vous aurez à choisir trois thèmes. Vous devrez vous inscrire via le site du Gymnase de Nyon ([www.gymnasedenyon.ch](www.gymnasedenyon.ch)) en cliquant dans le menu 
+Suite à ces présentations, vous devrez nous communiquer trois souhaits de thèmes par ordre de préférence. Vous devrez vous inscrire via le site du gymnase en cliquant dans le menu : 
 
 ::: {.center data-latex=""}
-"Intranet > Elèves > Horaires et Inscriptions" puis "Inscriptions"
+www.gymnase-etoy.ch > Portail des applications > Hermes II > Inscriptions
 :::
 
-et en respectant le délai fixé au **mercredi 30 novembre à 16h00**. Vous devrez formuler 3 souhaits, dans l'ordre de préférence. Les inscriptions définitives vous seront confirmées ultérieurement.
+La date limite pour nous communiquer vos thèmes est fixée au 
+
+::: {.center data-latex=""}
+**mercredi 29 novembre à 16h00**.
+:::
+
+Je vous remercie d'avance de votre ponctualité à ces rendez-vous et de prendre note de ces dates dans votre agenda personnel.
+
+Les inscriptions définitives vous seront confirmées ultérieurement.
+
+\vspace{\stretch{1}}
 
 ::: {.signature data-latex=""}
 _M. Rizzello, Doyen_
 :::
+
+\vspace{\stretch{1}}

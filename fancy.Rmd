@@ -1,5 +1,8 @@
 \fancypagestyle{themes}{
     \fancyhead[RO]{\footnotesize\leftmark}
 }
+\titlespacing*{\chapter}{0em}{-7em}{1em}
+\titleformat{\chapter}[display]{\normalfont\bfseries\centering}{}{0pt}{\LARGE}
+\titleformat{\section}[display]{\normalfont\bfseries\centering}{}{0pt}{\large}
 \renewcommand{\chaptermark}[1]{\markboth{\footnotesize\space#1}{}}
 \pagestyle{themes}

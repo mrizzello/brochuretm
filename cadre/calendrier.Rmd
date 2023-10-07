@@ -1,50 +1,55 @@
-# Calendrier des travaux 2023 {-}
+# Calendrier {-}
+
+septembre - décembre : Phase préparatoire
+
+-   Propositions de projets
+-   Constitution des équipes de projets
+-   Information générale aux élèves 2M
+-   Présentation des projets par les équipes de maîtres
+-   Inscriptions
 
 \vspace{\stretch{1}}
 
-**1. Phase préparatoire \hfill septembre - décembre 2022**
- 
-|                                                     |      |
-| :-------------------------------------------------- | :--- |
-| Propositions de projets                             |      |
-| Constitution des équipes de projets                 |      |
-| Information générale aux élèves de 2M               |      |
-| Présentation des projets par les équipes de maîtres |      |
-| Inscription                                         |      |
+février - mars : Élaboration des sujets
+
+-   **Semaine spéciale**  
+    Élaboration et choix des sujets par les élèves
+-   **1^re^ semaine de mars**  
+    Signature de l'engagement par les élèves et confirmation des répondants  
+    _(à remettre au secrétariat)_
 
 \vspace{\stretch{1}}
 
-**2. Élaboration des sujets \hfill février - mars 2023**
+mars - novembre : Réalisation des projets
 
-|                                                                                                     |                                              |
-| :-------------------------------------------------------------------------------------------------- | :------------------------------------------- |
-| Élaboration et choix des sujets par les élèves                                                      | semaine spéciale : 6, 7, 8 février 2023 |
-| Signature de l'engagement par les élèves et confirmation des répondants (à remettre au secrétariat) | dernier délai : 6 mars 2023                  |
-
-\vspace{\stretch{1}}
-
-\clearpage
-
-\vspace{\stretch{1}}
-
-**3. Réalisation des projets \hfill mars - novembre 2023**
-
-|                                                                                 |                                  |
-| :------------------------------------------------------------------------------ | :------------------------------- |
-| 1ère évaluation intermédiaire, fiche remise aux élèves avant les vacances d'été | juin 2023                        |
-| 2ème évaluation intermédiaire, fiche remise aux élèves avant le 1er octobre     | 2ème quinzaine de septembre 2023 |
-| Remise des travaux dans leur forme définitive                                   | lundi 13 novembre 2023           |
+-   **juin**  
+    1^re^ évaluation intermédiaire  
+    _Fiche remise aux élèves avant les vacances d'été_
+-   **2^e^ quinzaine de septembre**  
+    2^e^ évaluation intermédiaire  
+    _Fiche remise aux élèves avant le 1er octobre_
+-   **1^re^ quinzaine de novembre**  
+    Remise des travaux dans leur forme définitive  
+    _(date fixée par le memento)_
 
 \vspace{\stretch{1}}
 
-**4. Évaluation finale \hfill novembre - décembre 2023**
+novembre - décembre : Évaluation finale
 
-|                                                |                                 |
-| :--------------------------------------------- | :------------------------------ |
-| Lecture des travaux de maturité par le jury    |                                 |
-| Défense des travaux de maturité par les élèves | 1ère quinzaine de décembre 2023 |
+-   Lecture des travaux de maturité par le jury
+-   **1^re^ quinzaine de décembre**  
+    Défense des travaux de maturité par les élèves  
+    _(date fixée par le memento)_
 
 \vspace{\stretch{1}}
+
+::: {.center data-latex=""}
+![](calendrier.png){width=100%}
+:::
+
+\vspace{\stretch{1}}
+
+~
 
 ```{r, child=c('fancy.Rmd')}
 ```
