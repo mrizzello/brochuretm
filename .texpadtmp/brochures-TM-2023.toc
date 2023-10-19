@@ -1,0 +1,22 @@
+\babel@toc {french}{}
+\contentsline {chapter}{Le mot du doyen}{4}{chapter*.2}%
+\contentsline {chapter}{Attribution des salles}{5}{chapter*.3}%
+\contentsline {chapter}{Rappel des dispositions règlementaires}{7}{chapter*.4}%
+\contentsline {subsection}{Règlement du 16 janvier 1995 sur la reconnaissance des certificats de maturité gymnasiale (RRM)}{7}{chapter*.4}%
+\contentsline {subsection}{Règlement des gymnases du 6 juillet 2016 (RGY)}{8}{Item.2}%
+\contentsline {chapter}{Objectifs et évaluation}{9}{chapter*.5}%
+\contentsline {section}{Principes fondamentaux}{9}{chapter*.5}%
+\contentsline {section}{Objectifs fondamentaux}{9}{chapter*.5}%
+\contentsline {section}{Évaluation}{9}{chapter*.5}%
+\contentsline {subsection}{Relation pédagogique}{9}{chapter*.5}%
+\contentsline {subsection}{Évaluation}{10}{chapter*.5}%
+\contentsline {chapter}{Calendrier des travaux 2023}{11}{chapter*.6}%
+\contentsline {chapter}{\numberline {1}L\textquotesingle eau}{13}{chapter.1}%
+\contentsline {chapter}{\numberline {2}La nutrition}{15}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Le sommeil}{16}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Urgences}{18}{chapter.4}%
+\contentsline {section}{Comment la géographie peut-elle aborder la thématique des "Urgences", et d\textquotesingle abord qu\textquotesingle est-ce que l\textquotesingle urgence?}{18}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Ecologie}{20}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Evolution et Biodiversité}{21}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Chimie Expérimentale}{22}{chapter.7}%
+\contentsline {section}{Découvrir le monde à l\textquotesingle échelle moléculaire}{22}{chapter.7}%

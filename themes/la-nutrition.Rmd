@@ -1,0 +1,31 @@
+# La nutrition
+
+::: {.center data-latex=""}
+![](images/la-nutrition.jpg){height=14em}
+:::
+
+La nutrition, cela concerne les actions et processus qui permettent à un
+être vivant de récupérer et transformer des substances (atomes, ions,
+molécules, ...) pour assurer son fonctionnement, mais c'est également
+une science pluridisciplinaire qui étudie tant la physiologie que la
+psychologie.
+
+Nous devons tous nous nourrir si nous voulons survivre, mais nous
+n'absorbons pas toutes et tous la même nourriture pour de multiple
+raisons. Nous n'accordons également pas toutes et tous la même
+importance à la nourriture.
+
+Ce thème peut être abordé par un grand nombre d'axes, notamment
+biologique, chimique, psychologique, politique ou historique. Une
+possibilité serait également d'étudier la nutrition dans un domaine
+particulier, par exemple, la nutrition dans le domaine du sport ou la
+nutrition dans les pays en voie de développement.
+
+*Ce TM peut se faire en français, anglais ou allemand. Travail réalisé
+en binôme.*
+
+::: {.signature data-latex=""}
+_M. Zenger_  
+:::
+
+Répartition des élèves : Binômes obligatoires

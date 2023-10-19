@@ -1,6 +1,6 @@
 # Calendrier {-}
 
-septembre - décembre : Phase préparatoire
+### 1. septembre - décembre : Phase préparatoire {-}
 
 -   Propositions de projets
 -   Constitution des équipes de projets
@@ -8,9 +8,7 @@ septembre - décembre : Phase préparatoire
 -   Présentation des projets par les équipes de maîtres
 -   Inscriptions
 
-\vspace{\stretch{1}}
-
-février - mars : Élaboration des sujets
+### 2. février - mars : Élaboration des sujets {-}
 
 -   **Semaine spéciale**  
     Élaboration et choix des sujets par les élèves
@@ -18,9 +16,7 @@ février - mars : Élaboration des sujets
     Signature de l'engagement par les élèves et confirmation des répondants  
     _(à remettre au secrétariat)_
 
-\vspace{\stretch{1}}
-
-mars - novembre : Réalisation des projets
+### 3. mars - novembre : Réalisation des projets {-}
 
 -   **juin**  
     1^re^ évaluation intermédiaire  
@@ -32,24 +28,9 @@ mars - novembre : Réalisation des projets
     Remise des travaux dans leur forme définitive  
     _(date fixée par le memento)_
 
-\vspace{\stretch{1}}
-
-novembre - décembre : Évaluation finale
+### 4. novembre - décembre : Évaluation finale {-}
 
 -   Lecture des travaux de maturité par le jury
 -   **1^re^ quinzaine de décembre**  
     Défense des travaux de maturité par les élèves  
     _(date fixée par le memento)_
-
-\vspace{\stretch{1}}
-
-::: {.center data-latex=""}
-![](calendrier.png){width=100%}
-:::
-
-\vspace{\stretch{1}}
-
-~
-
-```{r, child=c('fancy.Rmd')}
-```

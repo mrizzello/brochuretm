@@ -1,26 +1,43 @@
 # Les additifs en cosmétiques
 
 ::: {.center data-latex=""}
-![](images/les-additifs-en-cosmetiques.jpg){height=12em}
+![](images/les-additifs-en-cosmetiques.jpg){height=14em}
 :::
 
-\vspace{\stretch{1}}
+Tous les jours, dès notre réveil, nous utilisons de nombreux
+cosmétiques. On se dirige vers la salle de bain pour prendre une
+douche ; le shampoing est appliqué sur nos cheveux et notre corps est
+délicatement lavé avec un produit approprié. Une fois séché, un coup de
+rasoir puis un peu de déodorant, de crème hydratante et pourquoi pas
+de maquillage seront encore ajoutés. Après le petit déjeuner, nos dents
+sont brossées avec du dentifrice, nos mains sont lavées au savon. Et
+avant de s'en aller, encore un pschitt de parfum, la journée ne fait que
+commencer.
 
-Tous les jours, dès notre réveil, nous utilisons de nombreux cosmétiques. On se dirige vers la salle de bain pour prendre une douche ; le shampoing est appliqué sur nos cheveux et notre corps est délicatement lavé avec un produit approprié. Une fois séché, un coup de rasoir puis    un peu de déodorant, de crème hydratante et pourquoi pas de maquillage seront encore ajoutés. Après le petit déjeuner, nos dents sont brossées avec du dentifrice, nos mains sont lavées au savon. Et avant de s'en aller, encore un pschitt de parfum, la journée ne fait que commencer.
-
-Ces produits cosmétiques sont composés de différents ingrédients qui peuvent être d'origine animale, végétale, minérale ou, dans la plupart des cas, être créés artificiellement. Ils contiennent également un certain nombre d'additifs, naturels ou de synthèse, qui leur permettent, entre autres, d'être conservés plus longtemps, de les colorer, de les parfumer, de les humidifier ou d'améliorer leur texture.
+Ces produits cosmétiques sont composés de différents ingrédients qui
+peuvent être d'origine animale, végétale, minérale ou, dans la plupart
+des cas, être créés artificiellement. Ils contiennent également un
+certain nombre d'additifs, naturels ou de synthèse, qui leur permettent,
+entre autres, d'être conservés plus longtemps, de les colorer, de les
+parfumer, de les humidifier ou d'améliorer leur texture.
 
 \clearpage
 
-Le but de ce travail de maturité est de s'intéresser à la composition des cosmétiques ou à l'un d'entre eux en particulier. Cette recherche pourra être abordée de différentes manières en fonction de vos intérêts et vous pourrez, par exemple :
+Le but de ce travail de maturité est de s'intéresser à la composition
+des cosmétiques ou à l'un d'entre eux en particulier. Cette recherche
+pourra être abordée de différentes manières en fonction de vos intérêts
+et vous pourrez, par exemple :
 
-- Analyser les différents additifs présents dans les cosmétiques
-- Étudier les parfums, leur histoire ainsi que leur création
-- Analyser la dangerosité des additifs et trouver des alternatives
-- Étudier les colorants, leur synthèse ainsi que leur utilisation
-- Étudier la chimie du savon, son histoire, sa fabrication et ses propriétés
-- Il sera également possible de réaliser en laboratoire, dans la mesure du possible, le produit ou l'additif étudié.
+-   Analyser les différents additifs présents dans les cosmétiques
+-   Analyser la dangerosité des additifs et trouver des alternatives
+-   Étudier les colorants, leur synthèse ainsi que leur utilisation
+-   Étudier la chimie du savon, son histoire, sa fabrication et ses
+    propriétés
+-   Réaliser en laboratoire, dans la mesure du possible, le produit ou
+    l'additif étudié.
 
 ::: {.signature data-latex=""}
-*Mélanie Tschirren*
+_Mélanie Tschirren_  
 :::
+
+Répartition des élèves : Binômes obligatoires

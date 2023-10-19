@@ -1,8 +1,12 @@
 # Objectifs et évaluation {-}
 
+\vspace{\stretch{1}}
+
 ## Principes fondamentaux {-}
 
 Le travail de maturité est l'occasion pour l'élève, à l'issue d'un processus de longue durée, de parvenir à une assise, une "maturité" intellectuelle suffisamment solide pour pouvoir produire un discours ou une œuvre qu'il peut assumer en tant qu'auteur et soumettre au regard d'autrui. En d'autres termes, il s'agit pour lui de se constituer comme sujet d'une énonciation.
+
+\vspace{\stretch{1}}
 
 ## Objectifs fondamentaux {-}
 
@@ -12,6 +16,12 @@ Fondamentalement, il doit, pour parvenir à cela, être capable de :
 - structurer sa pensée, afin de progresser vers un but, qui consiste à résoudre un problème ;
 - formuler sa pensée pour la rendre intelligible à autrui ;
 - évaluer sa propre démarche et distinguer clairement sa position personnelle d'autres points de vue, en justifiant ses choix.
+
+\vspace{\stretch{1}}
+
+\clearpage
+
+\vspace*{\stretch{1}}
 
 ## Évaluation {-}
 
@@ -31,3 +41,5 @@ L'évaluation du travail de maturité (travail d'analyse ou de création) porte 
 - Sens critique, lucidité sur son travail
 - Expression
 - Présentation
+
+\vspace{\stretch{1}}

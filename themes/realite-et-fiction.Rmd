@@ -1,11 +1,57 @@
-# Réalité et fiction : \linebreak\ comment certains motifs historiques se retrouvent-ils dans la littérature fictionnelle (bâtardise, « figure christique », frontière, condition de la femme, …) ?
+# Réalité et fiction
 
-Les récits de fiction dont nous nous abreuvons quotidiennement ne sont-ils pas, en fait, une résurgence ou une extension de motifs historiques, avérés et sourcés ? Il est, en effet, curieux de constater que certains motifs historiques reviennent dans de nombreuses œuvres romanesques à succès, notamment dans la _fantasy_ et la science-fiction. Ces genres littéraires permettent d'accentuer des aspects historiques, le premier par la conjecture d'une époque passée, le second celle d'une époque à venir. En ce sens, ces deux genres littéraires peuvent réinvestir des _topoï_^["Situation ou thème récurrents faisant, d'une œuvre à l'autre, l'objet d'un traitement" (Larousse) ] historiques (bâtardise, "figure christique"^[Pour la figure christique, il s'agirait plutôt d'interroger non pas l'historicité de celle-ci mais plutôt l'imaginaire collectif auquel cette figure renvoie.], frontière, condition de la femme, chevalerie) sans les édulcorer. Ainsi Obi-Wan-Kenobi n'est-il pas avant tout un chevalier, mais propulsé dans une galaxie fort lointaine ? Jon Snow un épigone du Christ ? Daenerys une nouvelle Jeanne d'Arc ?
+> *When we read dystopia, we root for these people to break free because
+> we are these people; hoping and fighting against things that are bigger
+> than ourselves.*  
+> *--Ally Condie*
 
-Ce travail de maturité questionne ce louvoiement entre réalité et fiction. Il s'agira de rechercher dans quelle mesure la fiction s'inspire de la réalité et comment elle contribue à forger ces innombrables cycles romanesques à succès. Il est peut-être temps de restituer à l'histoire ce qui appartient à César.
+Utiliser la fiction pour raconter, dénoncer ou encore encenser une
+réalité est un processus littéraire commun, une manière de raconter
+l'Histoire. Orwell, Atwood et bien d'autres ont dénoncé des sociétés
+totalitaires sous le couvert de la dystopie.
 
-Rédaction en binôme recommandée. 
+Le réalisme merveilleux, quant à lui, introduit des aspects magiques
+dans le banal. Genre associé à la littérature latino-américaine, il a su
+transfigurer des réalités trop douloureuses à accepter ou encore a
+permis de réécrire l'Histoire en redonnant une voix aux marginaux qui
+d'habitude ne sont pas entendus.
+
+Autrices et auteurs issu.e.s de la migration ont transmis leurs
+expériences, leurs espoirs, illustrant ainsi, par leur témoignage, une
+nouvelle réalité: celle du déracinement et de l'entre-deux.
+
+Analyser le rapport entre la fiction et la réalité permet d'explorer les
+liens entre l'individu et le collectif : comment une histoire peut-elle
+raconter des histoires, comment celles-ci peuvent-elles éclairer
+l'Histoire ? Par exemple, l'expérience de la migration est souvent
+singulière et pourtant il y a un aspect universel à chacun de ces
+récits. Comment leurs histoires, leurs récits, biographiques ou non,
+permettent-ils d'éclairer les pendants de la Grande Histoire ?
+
+La fiction, dans son ensemble, s'inspire de topoï historiques. Comment
+ces liens sont-ils réalisés ? La fiction peut-elle avoir également un
+impact sur la réalité ? La fiction peut-elle soigner la réalité ? Au
+travers de ce travail de maturité, vous analyserez une œuvre littéraire
+dans le but de mettre en avant les liens qui se jouent entre la réalité
+et la fiction, ce que l'un raconte de l'autre.
+
+\clearpage
+
+Ce travail peut être rédigé en français ou en anglais.
+
+Possibles œuvres à explorer :
+
+-   Aldous Huxley, Brave New World (Le Meilleur des Mondes)
+-   Annie Ernaux, Mémoire de fille
+-   Arundathi Roy, The God of Small Things (Le Dieu des Petits Riens) 
+-   Pierre Michon, Vies Minuscules
+-   Suzanne Collins, The Hunger Games 
+-   Junot Diaz, The Brief Wondrous Life of Oscar Wao (La brève et
+    mystérieuse vie d'Oscar Wao)
 
 ::: {.signature data-latex=""}
-*Pierre Bonjour et Pauline Meylan*
+_Mme Somanadan_  
+_Mme Meylan_  
 :::
+
+Répartition des élèves : Binômes conseillés

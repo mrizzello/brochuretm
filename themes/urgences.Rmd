@@ -1,0 +1,35 @@
+# Urgences
+
+::: {.center data-latex=""}
+![](images/urgences.png){height=14em}
+:::
+
+## Comment la géographie peut-elle aborder la thématique des &quot;Urgences&quot;, et d&#039;abord qu&#039;est-ce que l&#039;urgence? {-}
+
+L'idée de cette thématique est d'analyser à travers un TM les manières
+par lesquelles l'urgence refait surface dans nos sociétés. On pense
+évidemment à la guerre en Ukraine qui, depuis le 24 février 2022, a
+violemment fait réapparaître le spectre de la guerre en Europe. On pense
+aussi, évidemment, à l'urgence écologique et climatique et cet été nous
+a largement rappelé cette urgence, du fait de la canicule, de la
+sécheresse ou des catastrophes naturelles qui se sont multipliées. Tous
+ces événements ont pour conséquence de rendre omniprésente une sorte
+d'état d'urgence permanent, soit qu'il faille se protéger contre un ou
+des agresseurs, soit qu'il faille se défaire de manières de vivre pour
+ne pas mettre en péril les générations futures. Florian Opillard,
+directeur scientifique du FIG, 2023
+
+D'un point de vue géographique, cette thématique doit vous permettre de
+vous intéresser à un phénomène propre aux urgences tout en analysant les
+causes, les effets, les enjeux pour une ou plusieurs sociétés ou
+territoires ainsi que les perspectives concrètes pour limiter les
+impacts de ces urgences. Il s'agira pour vous de lier et de comprendre
+les influences réciproques qu'il peut y avoir dans votre sujet autour
+des urgences tout en utilisant les concept clés de géographie pour
+comprendre, expliquer et analyser une problématique de votre choix.
+
+::: {.signature data-latex=""}
+_M. Kull_
+:::
+
+Répartition des élèves : Binômes obligatoires

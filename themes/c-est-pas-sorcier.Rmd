@@ -1,0 +1,35 @@
+# C’est pas sorcier 
+
+::: {.center data-latex=""}
+![](images/c-est-pas-sorcier.jpg){height=14em}
+:::
+
+##  Mettre en scène un sujet scientifique à la manière de la célèbre émission de France 3 avec les personnages iconiques de Fred et Jamy.
+
+La première étape consistera à trouver un sujet scientifique ou
+technologique qui vous intrigue et qui n'a pas été traité dans les
+épisodes de C'est pas sorcier.
+
+Vous aurez ensuite l'opportunité de rédiger un scénario, devenir acteur
+et animateur, monter des expériences et des démonstrations en
+laboratoire ou sur scène, interviewer des experts, réaliser un reportage
+et finalement un montage vidéo de 20 minutes environ, pour explorer et
+expliquer le sujet que vous avez choisi.
+
+Le but final de ce travail de maturité sera la réalisation d'un
+véritable documentaire audiovisuel qui traitera de manière scientifique
+le sujet abordé. Chaque projet sera basé sur une solide documentation
+qui permettra ensuite la réalisation d'un scénario, de décors, de
+maquettes.
+
+En devenant chef de votre projet, vous ferez appel à toutes les
+ressources possibles. Pour certaines compétences techniques (prise de
+vue, montage vidéo), il sera nécessaire de rechercher des personnes
+qualifiées dans votre entourage.
+Ce travail de maturité se fait obligatoirement par groupes de deux.
+
+::: {.signature data-latex=""}
+_Les enseignant·e·s de la file de Physique_
+:::
+
+Répartition des élèves : Binômes obligatoires

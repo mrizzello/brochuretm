@@ -13,42 +13,33 @@ github-repo: "mrizzello/borchuretm"
 description: "Brochure de présentation des thèmes proposés aux élèves 2M du Gymnase d'Étoy"
 lang: fr
 papersize: a4
-fontsize: 12pt
-geometry: margin=1in
+geometry: "left=4em,right=4em,top=4em,bottom=8em"
 ---
 \clearpage
-\ 
-\vspace{\stretch{1}}
+
+\vspace*{\stretch{1}}
 
 ::: {.center data-latex=""}
 Distribution à :
 
-- toutes les classes de 2M
-- Conseil de direction
-- Mmes et MM. les maître·sse·s de classe de 2M
-- Mmes et MM. les responsables de projets, avec prière d'assister à cette séance d'information et de présenter les propositions de projets dans les salles qui seront attribuées
+- Toutes les classes de 2M.
+- Conseil de direction.
+- Mmes et MM. les maître·sse·s de classe de 2M.
+- Mmes et MM. les responsables de projets, avec prière d'assister à cette séance d'information et de présenter les propositions de projets dans les salles qui seront attribuées.
 :::
 
 \clearpage
 
 # Le mot du doyen {-}
 
-\vspace{\stretch{1}}
-
 Chères élèves et chers élèves de 2^e^ année de l'École de maturité,
 
-Vous recevez cette brochure qui concerne le travail de maturité pour la volée 2023-2024 et qui contient, en particulier, les thèmes des projets qui vous sont proposés.
-
-Je vous donne rendez-vous le
-
-\vspace{\stretch{1}}
+Vous recevez cette brochure qui concerne le travail de maturité pour la volée 2023-2024 et qui contient, en particulier, les thèmes des projets qui vous sont proposés. Je vous donne rendez-vous le&nbsp;:
 
 ::: {.center data-latex=""}
 **Mardi 21 novembre à 11h05 ;  
 Espace Galerie (prolongement du hall d'entrée)**
 :::
-
-\vspace{\stretch{1}}
 
 afin d'y recevoir une information générale sur l'organisation du travail de maturité.
 
@@ -60,10 +51,10 @@ Vous aurez ensuite la possibilité de suivre la présentation de trois projets q
 
 Les cours seront donc interrompus ce jour de 10h50 à 13h30 pour les classes de 2M. Ils reprendront à 13h35 selon l'horaire habituel.
 
-Suite à ces présentations, vous devrez nous communiquer trois souhaits de thèmes par ordre de préférence. Vous devrez vous inscrire via le site du gymnase en cliquant dans le menu : 
+Suite à ces présentations, vous devrez nous communiquer trois souhaits de thèmes par ordre de préférence. Vous devrez vous inscrire via le site du gymnase en cliquant sur le menu : 
 
 ::: {.center data-latex=""}
-www.gymnase-etoy.ch > Portail des applications > Hermes II > Inscriptions
+Portail des applications > Hermes II > Inscriptions
 :::
 
 La date limite pour nous communiquer vos thèmes est fixée au 
@@ -76,10 +67,6 @@ Je vous remercie d'avance de votre ponctualité à ces rendez-vous et de prendre
 
 Les inscriptions définitives vous seront confirmées ultérieurement.
 
-\vspace{\stretch{1}}
-
 ::: {.signature data-latex=""}
 _M. Rizzello, Doyen_
 :::
-
-\vspace{\stretch{1}}
