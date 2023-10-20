@@ -7,7 +7,7 @@
 \widowpenalty10000
 \clubpenalty10000
 
-\usepackage[fontsize=15pt]{scrextend}
+\usepackage[fontsize=14pt]{scrextend}
 
 \renewcommand{\arraystretch}{1.5}
 
@@ -26,7 +26,7 @@
 \titleformat{name=\chapter,numberless}[display]{\normalfont\bfseries\centering}{}{0pt}{\Large}
 \titlespacing*{name=\chapter,numberless}{0em}{-4em}{1em}
 
-\titleformat{\section}[display]{\normalfont\bfseries}{}{0pt}{\large}
+\titleformat{\section}[display]{\normalfont\bfseries\centering}{}{0pt}{\large}
 \titlespacing*{\section}{0em}{0em}{1em}
 \titleformat{\subsection}[display]{\normalfont\bfseries}{}{0pt}{\normalsize}
 
@@ -66,4 +66,4 @@
   raggedentrytext
 ]{tocline}{chapter,section,subsection,subsubsection,paragraph,subparagraph}
 
-\newenvironment{signature}{\begin{flushright}}{\end{flushright}}
+\newenvironment{signature}{\vspace{2em}\noindent\begin{minipage}[t]{0.9\textwidth}\flushright}{\end{minipage}}

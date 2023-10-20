@@ -27,14 +27,14 @@ rmd_files:
   - themes/exploration-du-monde-fascinant-des-nombres-remarquables.Rmd
   - themes/dechiffrer-le-livre-de-la-nature.Rmd
 #Biologie
-  - themes/la-nutrition.Rmd
-  - themes/le-sommeil.Rmd
   - themes/l-eau.Rmd
+  - themes/le-sommeil.Rmd
+  - themes/la-nutrition.Rmd
   - themes/ecologie.Rmd
   - themes/evolution-et-biodiversite.Rmd
 #Chimie
-  - themes/les-additifs-en-cosmetiques.Rmd
   - themes/chimie-experimentale.Rmd
+  - themes/les-additifs-en-cosmetiques.Rmd
 #Physique
   - themes/c-est-pas-sorcier.Rmd
 #Psychologie
@@ -47,6 +47,7 @@ rmd_files:
   - themes/arts-visuels-mode.Rmd
 #Hors disciplines
   - themes/de-l-autre-cote-de-la-scene.Rmd
+  - themes/le-comportement-d-achat-des-consommateurs-en-suisse.Rmd
   - themes/le-silence-un-vide-plein.Rmd
   - themes/la-science-face-aux-phenomenes-paranormaux.Rmd
-  - themes/le-comportement-d-achat-des-consommateurs-en-suisse.Rmd
+  - "cadre/prise-notes.Rmd"

@@ -1,7 +1,5 @@
 # Rappel des dispositions règlementaires {-}
 
-\vspace{\stretch{1}}
-
 ### Ordonnance sur la reconnaissance des certificats de maturité gymnasiale (ORM) {-}
 
 **Art. 9** - Disciplines de maturité et autres disciplines obligatoires
@@ -13,27 +11,17 @@
     4.  le travail de maturité.
 2.  (\...)
 
-\vspace{\stretch{1}}
-
 **Art. 10** - Travail de maturité
 
 Chaque élève doit effectuer, seul ou en équipe, un travail autonome
 d'une certaine importance. Ce travail fera l'objet d'un texte ou d'un
 commentaire rédigé et d'une présentation orale.
 
-\vspace{\stretch{1}}
-
 **Art. 15** - Notes de maturité et évaluation du travail de maturité
 
 1.  (\...)
 2.  Le travail de maturité est évalué sur la base des prestations
     écrites et orales.
-
-\vspace{\stretch{1}}
-
-\clearpage
-
-\vspace*{\stretch{1}}
 
 ### Règlement de l'École de maturité (REM) {-}
 
@@ -54,5 +42,3 @@ commentaire rédigé et d'une présentation orale.
     travail de maturité. Dans ce dernier cas, la note attribuée au
     premier travail n'est pas conservée.
 7.  (\...)
-
-\vspace{\stretch{1}}
