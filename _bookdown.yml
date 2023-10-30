@@ -24,8 +24,8 @@ rmd_files:
   - themes/enjeux-sociaux-dans-les-photographies-de-davide-cerullo.Rmd
 #Mathématiques
   - themes/democratie-et-prises-de-decision-sous-l-angle-de-la-theorie-des-jeux.Rmd
-  - themes/exploration-du-monde-fascinant-des-nombres-remarquables.Rmd
   - themes/dechiffrer-le-livre-de-la-nature.Rmd
+  - themes/exploration-du-monde-fascinant-des-nombres-remarquables.Rmd
 #Biologie
   - themes/l-eau.Rmd
   - themes/le-sommeil.Rmd
@@ -33,21 +33,21 @@ rmd_files:
   - themes/ecologie.Rmd
   - themes/evolution-et-biodiversite.Rmd
 #Chimie
-  - themes/chimie-experimentale.Rmd
   - themes/les-additifs-en-cosmetiques.Rmd
+  - themes/chimie-experimentale.Rmd
 #Physique
   - themes/c-est-pas-sorcier.Rmd
-#Psychologie
-  - themes/ecole-inclusive.Rmd
 #Géographie
   - themes/urgences.Rmd
 #Économie et droit
   - themes/creer-votre-entreprise.Rmd
+#Psychologie
+  - themes/ecole-inclusive.Rmd
 #Arts visuels
   - themes/arts-visuels-mode.Rmd
 #Hors disciplines
   - themes/de-l-autre-cote-de-la-scene.Rmd
-  - themes/le-comportement-d-achat-des-consommateurs-en-suisse.Rmd
-  - themes/le-silence-un-vide-plein.Rmd
   - themes/la-science-face-aux-phenomenes-paranormaux.Rmd
-  - "cadre/prise-notes.Rmd"
+  - themes/le-silence-un-vide-plein.Rmd
+  - themes/le-comportement-d-achat-des-consommateurs-en-suisse.Rmd
+  - themes/journalisme-et-societe-a-la-recherche-des-plus-defavorises.Rmd
