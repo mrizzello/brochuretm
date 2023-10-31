@@ -1,7 +1,7 @@
 # Déchiffrer le livre de la nature
 
 ::: {.center data-latex=""}
-![](images/dechiffrer-le-livre-de-la-nature.jpg){height=14em}
+![](images/dechiffrer-le-livre-de-la-nature.jpg){height=16em}
 :::
 
 Dans un de ses citations les plus célèbres, Galilée décrit la nature
@@ -31,7 +31,6 @@ sciences, l'histoire des idées et notre vision de la réalité.
 Le travail peut être rédigé en français ou en anglais.
 
 ::: {.signature data-latex=""}
-_M. Ferrando_  
+_M. Tiziano Ferrando_  
 :::
-
 Répartition des élèves : Binômes conseillés

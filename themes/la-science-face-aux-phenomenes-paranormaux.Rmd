@@ -1,7 +1,7 @@
 # La science face aux phénomènes paranormaux
 
 ::: {.center data-latex=""}
-![](images/la-science-face-aux-phenomenes-paranormaux.jpg){height=14em}
+![](images/la-science-face-aux-phenomenes-paranormaux.jpg){height=16em}
 :::
 
 Objectivité, rationalité, rigueur, vérifiabilité, universalité... Nous
@@ -21,15 +21,15 @@ un objet de recherche scientifique, Thomas Edison rêvait d'ajouter à sa
 liste d'inventions le *nécrophone* afin de pouvoir capter les dernières
 paroles prononcées par les défunts. Qu'est-ce qui les a poussés à croire
 en des phénomènes dont l'existence n'avait pas été démontrée ainsi qu'à
-des systèmes de croyances dépourvus de tout appui empirique ? On a
+des systèmes de croyances dépourvus de tout appui empirique&nbsp;? On a
 souvent tendance à considérer que ce qui échappe à notre perception
 n'existe pas. Pourtant, l'être humain n'a cessé de repousser les limites
 du visible. La Terre n'était-elle pas plate et au centre de l'Univers,
 le Soleil ne tournait-il pas autour de la Terre jusqu'au jour où les
-avancées scientifiques ont démontré le contraire ? Expliquer
-l'inexplicable serait donc une question de temps ? Ou s'agirait-il
+avancées scientifiques ont démontré le contraire&nbsp;? Expliquer
+l'inexplicable serait donc une question de temps&nbsp;? Ou s'agirait-il
 plutôt de permettre à la science de légitimer les croyances avec le
-surnaturel, l'invisible, l'inexpliqué qu'elles comportent ?
+surnaturel, l'invisible, l'inexpliqué qu'elles comportent&nbsp;?
 
 \clearpage
 
@@ -41,10 +41,9 @@ spiritisme, les fantômes ou tout autre phénomène qui résiste pour
 l'instant à la science. 
 
 Picasso, l'artiste, disait : « Tout ce qui peut être imaginé est réel. »
-Qu'en dit (dirait) le scientifique ?
+Qu'en dit (dirait) le scientifique&nbsp;?
 
 ::: {.signature data-latex=""}
-_Mme Terrier_  
+_Mme Anamaria Terrier_  
 :::
-
 Répartition des élèves : Indifférent

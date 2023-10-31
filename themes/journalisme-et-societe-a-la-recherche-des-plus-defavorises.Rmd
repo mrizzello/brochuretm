@@ -8,16 +8,18 @@
 
 La confédération suisse a effectué une enquête afin de savoir quelle est
 l'image de la Suisse vue à l'étranger. Voici deux constats qui
-apparaissent dans cette enquête: 
+apparaissent dans cette enquête:
+
 - "La perception de la Suisse par les médias étrangers a, par ailleurs,
 été fortement tributaire d'événements à récurrence annuelle comme le
 Forum économique mondial (WEF), les exploits des sportifs helvétiques,
-la place financière et la démocratie directe."
+la place financière et la démocratie directe."  
 - "La gouvernance ainsi que l'attractivité et la qualité de vie de la
 Suisse jouissent d'une excellente réputation auprès de la population
 étrangère. La population helvétique, les produits d'exportation et
 l'innovation contribuent également à donner une image positive de la
 Suisse."
+
 Mais la Suisse est-elle réellement comme la perçoivent les médias
 étrangers et les étrangers: un pays constitué d'habitants aisés et
 principalement soutenu par sa politique et son système bancaire? Qui
@@ -25,9 +27,9 @@ sont les personnes dans l'ombre de notre société? Intéressons-nous à
 l'envers du décor et allons à la découverte des plus défavorisés,
 réfugiés ou habitants en difficulté qui vivent dans notre pays ou région
 et analysons leur situation afin, peut-être, de proposer un moyen de les
-aider. 
+aider.
 
 ::: {.signature data-latex=""}
-_M. Atakora_  
+_M. Joel Atakora_  
 :::
 Répartition des élèves : Binômes conseillés

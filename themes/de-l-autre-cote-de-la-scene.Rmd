@@ -1,22 +1,22 @@
 #  De l’autre côté de la scène
 
 ::: {.center data-latex=""}
-![](images/de-l-autre-cote-de-la-scene.jpg){height=14em}
+![](images/de-l-autre-cote-de-la-scene.jpg){height=16em}
 :::
 
 ## À la découverte des coulisses {-}
 
 Vous consommez des films, des séries. Vous allez au théâtre ou vous
-assistez à un concert.  
+assistez à un concert.  
 Quelle est l'ampleur du travail qui se cache derrière les
-représentations ?  
-Quelles étapes sont nécessaires à la réalisation d'un événement ?  
-Quels métiers de l'ombre permettent aux artistes de briller sur scène ?
+représentations&nbsp;?   
+Quelles étapes sont nécessaires à la réalisation d'un événement&nbsp;?   
+Quels métiers de l'ombre permettent aux artistes de briller sur scène&nbsp;?
 
-Vous dévoilerez l'invisible.  
-Vous passerez par l'entrée des artistes et les coulisses.  
+Vous dévoilerez l'invisible.
+Vous passerez par l'entrée des artistes et les coulisses.
 Vous découvrirez l'envers du décor et les enjeux de la création d'un
-événement.  
+événement.
 
 Ce travail de maturité sera l'occasion pour l'élève de prendre
 conscience des différentes perspectives qui existent entre la perception
@@ -25,8 +25,7 @@ s'agira de porter un regard critique sur cet univers en l'analysant sous
 différents points de vue, d'un côté le spectateur, de l'autre la scène.
 
 ::: {.signature data-latex=""}
-_M. Voeffray_  
-_Mme Gaydou_  
+_M. François Voeffray_  
+_Mme Salomé Gaydou_  
 :::
-
 Répartition des élèves : Indifférent

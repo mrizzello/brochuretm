@@ -1,7 +1,7 @@
 # Enjeux sociaux dans les photographies de Davide Cerullo.
 
 ::: {.center data-latex=""}
-![](images/enjeux-sociaux-dans-les-photographies-de-davide-cerullo.png){height=14em}
+![](images/enjeux-sociaux-dans-les-photographies-de-davide-cerullo.png){height=16em}
 :::
 
 De février à avril, le gymnase d'Etoy va accueillir une exposition de
@@ -26,8 +26,7 @@ pour l'interviewer.
 Ce travail peut être réalisé en italien ou français. 
 
 ::: {.signature data-latex=""}
-_Mme Puric_  
-_Mme Sacco_  
+_Mme Esma Puric_  
+_Mme Valentina Sacco_  
 :::
-
 Répartition des élèves : Binômes conseillés

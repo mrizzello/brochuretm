@@ -1,7 +1,7 @@
 # ChatGPT &amp; la création littéraire
 
 ::: {.center data-latex=""}
-![](images/chatgpt-la-creation-litteraire.jpg){height=14em}
+![](images/chatgpt-la-creation-litteraire.jpg){height=16em}
 :::
 
 L'idée de ce thème vient d'une expérience que l'écrivain Eric-Emmanuel
@@ -14,7 +14,7 @@ tirer et que celles-ci ne sont pas seulement formatrices du point de vue
 de connaissances acquises mais qu'elles peuvent également « renforcer
 votre identité ».
 
-A vous de le vérifier et de tester à votre tour ChatGPT ! Vous définirez
+A vous de le vérifier et de tester à votre tour ChatGPT&nbsp;! Vous définirez
 d'abord votre objet d'étude, de quelle façon vous allez éprouver les
 compétences de l'intelligence artificielle, avant de les comparer à
 celles, dans le domaine de la création littéraire, dont peut faire
@@ -27,7 +27,6 @@ et des apports que la collaboration et les regards croisés sur un même
 objet d'étude pourront amener au TM.
 
 ::: {.signature data-latex=""}
-_Mme Steiner_  
+_Mme Samantha Steiner_  
 :::
-
 Répartition des élèves : Binômes conseillés

@@ -1,7 +1,7 @@
 # Attribution des salles {-}
 
 | Thème | Salle n° |
-| :-------------------------------------------------------- | --------: |
+| :------------------------------------------------------- | --------: |
 | ChatGPT &amp; la création littéraire | ### |
 | SCIENCE(S)-FICTION(S) | ### |
 | Se raconter - raconter l&#039;autre? | ### |
@@ -25,8 +25,8 @@
 | Créer votre entreprise | ### |
 | ECOLE INCLUSIVE | ### |
 | ARTS VISUELS_MODE | ### |
+| Journalisme et société: à la recherche des plus défavorisés | ### |
 |  De l’autre côté de la scène | ### |
 | La science face aux phénomènes paranormaux | ### |
 | Le silence: un vide plein? | ### |
 | Le comportement d&#039;achat des consommateurs en Suisse | ### |
-| Journalisme et société: à la recherche des plus défavorisés | ### |

@@ -1,7 +1,7 @@
 # Le silence: un vide plein?
 
 ::: {.center data-latex=""}
-![](images/le-silence-un-vide-plein.jpg){height=14em}
+![](images/le-silence-un-vide-plein.jpg){height=16em}
 :::
 
 À l'heure où les résultats d'une étude scientifique récente suggèrent
@@ -24,6 +24,8 @@ caractéristiques qu'on donne au silence? *Silence pesant, silence
 assourdissant, silence lourd de sens, silence de mort, passer quelque
 chose sous silence, silence radio, silence religieux, etc.*
 
+\clearpage
+
 Afin d'appréhender la notion de silence dans sa complexité, une
 approche pluridisciplinaire (modalité d'aborder le sujet selon le point
 de vue de différentes disciplines, chacune selon sa manière de faire)
@@ -36,7 +38,6 @@ quotidiens oraux et/ou écrits, etc.).
 le découvrir!
 
 ::: {.signature data-latex=""}
-_Mme Terrier_  
+_Mme Anamaria Terrier_  
 :::
-
 Répartition des élèves : Indifférent

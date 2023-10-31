@@ -1,7 +1,7 @@
 # Le sommeil
 
 ::: {.center data-latex=""}
-![](images/le-sommeil.jpg){height=14em}
+![](images/le-sommeil.jpg){height=16em}
 :::
 
 ## Importance et influence sur la santé physique et psychique {-}
@@ -25,7 +25,7 @@ des études indiquent que le manque de sommeil chronique est associé à
 des effets néfastes sur la santé, notamment la prise de poids et
 l'obésité, le diabète, l'hypertension, les maladies cardiaques et les
 accidents vasculaires cérébraux, la dépression et un risque accru de
-décès ^[Watson et al. (2015). Recommended Amount of Sleep for a Healthy
+décès^[Watson et al. (2015). Recommended Amount of Sleep for a Healthy
 Adult: A Joint Consensus Statement of the American Academy of Sleep
 Medicine and Sleep Research Society. Journal of Clinical Sleep
 Medicine : JCSM : Official Publication of the American Academy of Sleep
@@ -36,11 +36,10 @@ Medicine, 38].
 Cette thématique pourrait être abordée de différentes manières lors d'un
 travail de maturité.
 
-*Ce TM peut se faire en français, anglais ou allemand. Travail réalisé
-en binôme.*
+Ce TM peut se faire en français, anglais ou allemand. Travail réalisé
+en binôme.
 
 ::: {.signature data-latex=""}
-_M. Zenger_  
+_M. Manuel Zenger_  
 :::
-
 Répartition des élèves : Binômes obligatoires

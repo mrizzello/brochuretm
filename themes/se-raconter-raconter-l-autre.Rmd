@@ -1,17 +1,17 @@
 # Se raconter - raconter l&#039;autre?
 
 ::: {.center data-latex=""}
-![](images/se-raconter-raconter-l-autre.png){height=14em}^[Image : Yayoi Kusama]
+![](images/se-raconter-raconter-l-autre.png){height=16em}^[Image : Yayoi Kusama]
 :::
 
-«&nbsp;Autobiographie&nbsp;»&nbsp;? Écrire, par soi-même, sa vie. Ce projet -- devenu
+« Autobiographie »&nbsp;? Écrire, par soi-même, sa vie. Ce projet -- devenu
 un véritable genre littéraire, tant il a été pratiqué -- peut parfois
 nous rebuter&nbsp;:
 
-- «&nbsp;S'écrire soi-même&nbsp;: c'est narcissique, nombriliste&nbsp;! »
-- «&nbsp;Que vais-je donc écrire sur ma vie, moi qui n'ai vécu que seize
-ans&nbsp;?&nbsp;»
-- «&nbsp;Ma vie&nbsp;? C'est sans intérêt...&nbsp;»
+- « S'écrire soi-même&nbsp;: c'est narcissique, nombriliste&nbsp;! » 
+- « Que vais-je donc écrire sur ma vie, moi qui n'ai vécu que seize
+ans&nbsp;? »
+- « Ma vie&nbsp;? C'est sans intérêt... »
 
 Or, écrire sa vie, ce n'est jamais s'écrire tout·e seul·e, en excluant
 les autres (ces êtres aimés, chéris ou haïs) du champ de l'écriture, ces
@@ -37,11 +37,10 @@ autobiographique.
 Ce travail de maturité, entre raisonnement quasi-philosophique et
 création d'ordre littéraire, est absolument ouvert à tous·tes, et ne
 demande aucun prérequis&nbsp;; ou, simplement, un goût, une curiosité pour
-l'activité d'écriture, et pour la pensée...
+l'activité d'écriture, et pour la pensée... 
 
 ::: {.signature data-latex=""}
-_Mme Gil_  
-_M. Puentes_  
+_Mme Coralie Gil_  
+_M. Michaël Puentes_  
 :::
-
 Répartition des élèves : Travail individuel

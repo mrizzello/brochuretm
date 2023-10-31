@@ -3,7 +3,9 @@
 \vspace*{\stretch{1}}
 
 ::: {.center data-latex=""}
+::: {.LARGE data-latex=""}
 **LES THEMES**
+:::
 :::
 
 \vspace*{\stretch{1}}

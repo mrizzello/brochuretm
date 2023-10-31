@@ -1,7 +1,7 @@
 # Multiculturalité et language
 
 ::: {.center data-latex=""}
-![](images/multiculturalite-et-language.jpeg){height=14em}
+![](images/multiculturalite-et-language.jpeg){height=16em}
 :::
 
 ## A la rencontre de l&#039;Autre {-}
@@ -57,9 +57,8 @@ la répondant·e.
 -   Susanne Vital Durand (allemand, anglais)
 
 ::: {.signature data-latex=""}
-_Mme Jaquet_  
-_Mme Macrina_  
-_Mme Vital_  
+_Mme Beata Jaquet_  
+_Mme Stéphanie Macrina_  
+_Mme Susanne Vital_  
 :::
-
 Répartition des élèves : Binômes conseillés

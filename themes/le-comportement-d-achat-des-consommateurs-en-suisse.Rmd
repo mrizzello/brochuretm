@@ -1,7 +1,7 @@
 # Le comportement d&#039;achat des consommateurs en Suisse
 
 ::: {.center data-latex=""}
-![](images/le-comportement-d-achat-des-consommateurs-en-suisse.jpg){height=14em}
+![](images/le-comportement-d-achat-des-consommateurs-en-suisse.jpg){height=16em}
 :::
 
 La population mondiale consomme davantage de ressources que ce que les
@@ -12,10 +12,10 @@ planète, il faut établir des modes de consommation et de production plus
 durables.
 
 Est-ce que les consommateurs en Suisse sont prêts à changer leurs
-habitudes de consommation ?
+habitudes de consommation&nbsp;?
 
 Dans quelle mesure les consommateurs en Suisse peuvent jouer un rôle
-pour une consommation durable ?
+pour une consommation durable&nbsp;?
 
 Ce travail de maturité devra déboucher sur des recherches concrètes
 (sondage et interviews) pour découvrir et analyser les comportements
@@ -24,7 +24,6 @@ d'achat susceptibles de favoriser une consommation durable.
 Ce travail de maturité est recommandé pour des groupes de 2 élèves.
 
 ::: {.signature data-latex=""}
-_M. Maternini_  
+_M. Mirko Maternini_  
 :::
-
 Répartition des élèves : Binômes obligatoires

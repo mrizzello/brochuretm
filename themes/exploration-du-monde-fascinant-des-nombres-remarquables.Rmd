@@ -1,17 +1,17 @@
 # Exploration du monde fascinant des nombres remarquables
 
 ::: {.center data-latex=""}
-![](images/exploration-du-monde-fascinant-des-nombres-remarquables.png){height=14em}
+![](images/exploration-du-monde-fascinant-des-nombres-remarquables.png){height=16em}
 :::
 
 En mathématiques, il y a des nombres qui se distinguent des autres par
 leurs propriétés étonnantes ou leur rôle clé dans une ou plusieurs
 branches des mathématiques. On les appelle les nombres remarquables.
 
-Peut-on imaginer de faire les mathématqiues sans le zéro ? Que serait la
-trigonométrie sans la constante d'Archimède π ? Qui ne pense pas
+Peut-on imaginer de faire les mathématqiues sans le zéro&nbsp;? Que serait la
+trigonométrie sans la constante d'Archimède π&nbsp;? Qui ne pense pas
 quand on parle des nombres complexes à ce nombre imaginaire si
-particulier i dont le carré est égal à -1. Les nombres 0 et π sont
+particulier i dont le carré est égal à -1. Les nombres 0 et π sont
 des exemples de nombres remarquables.
 
 Il existe d'autres nombres remarquables. Par exemple le nombre e appelé
@@ -31,7 +31,6 @@ importance en mathématiques ainsi que leurs applications dans différents
 domaines.  
 
 ::: {.signature data-latex=""}
-_Les enseignant·e·s de la file de Mathématiques_
+_File de mathématiques_
 :::
-
 Répartition des élèves : Binômes conseillés

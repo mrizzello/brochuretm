@@ -1,7 +1,7 @@
 # Démocratie et prises de décision sous l&#039;angle de la théorie des jeux
 
 ::: {.center data-latex=""}
-![](images/democratie-et-prises-de-decision-sous-l-angle-de-la-theorie-des-jeux.jpg){height=14em}
+![](images/democratie-et-prises-de-decision-sous-l-angle-de-la-theorie-des-jeux.jpg){height=16em}
 :::
 
 ## Analyse des modes de scrutin et utilitarisme {-}
@@ -30,7 +30,6 @@ prochain·es dirigeant·es politiques, ou le film que vous regarderez ce
 soir.
 
 ::: {.signature data-latex=""}
-_M. Brunschwig_  
+_M. Kilian Brunschwig_  
 :::
-
 Répartition des élèves : Indifférent

@@ -1,9 +1,12 @@
 # Réalité et fiction
 
-> *When we read dystopia, we root for these people to break free because
+> When we read dystopia, we root for these people to break free because
 > we are these people; hoping and fighting against things that are bigger
-> than ourselves.*  
-> *--Ally Condie*
+> than ourselves.
+> 
+> ::: {.flushright data-latex=""}
+> --- _Ally Condie_
+> :::
 
 Utiliser la fiction pour raconter, dénoncer ou encore encenser une
 réalité est un processus littéraire commun, une manière de raconter
@@ -18,19 +21,19 @@ d'habitude ne sont pas entendus.
 
 Autrices et auteurs issu.e.s de la migration ont transmis leurs
 expériences, leurs espoirs, illustrant ainsi, par leur témoignage, une
-nouvelle réalité: celle du déracinement et de l'entre-deux.
+nouvelle réalité&nbsp;: celle du déracinement et de l'entre-deux.
 
 Analyser le rapport entre la fiction et la réalité permet d'explorer les
-liens entre l'individu et le collectif : comment une histoire peut-elle
+liens entre l'individu et le collectif&nbsp;: comment une histoire peut-elle
 raconter des histoires, comment celles-ci peuvent-elles éclairer
-l'Histoire ? Par exemple, l'expérience de la migration est souvent
+l'Histoire&nbsp;? Par exemple, l'expérience de la migration est souvent
 singulière et pourtant il y a un aspect universel à chacun de ces
 récits. Comment leurs histoires, leurs récits, biographiques ou non,
-permettent-ils d'éclairer les pendants de la Grande Histoire ?
+permettent-ils d'éclairer les pendants de la Grande Histoire&nbsp;?
 
 La fiction, dans son ensemble, s'inspire de topoï historiques. Comment
-ces liens sont-ils réalisés ? La fiction peut-elle avoir également un
-impact sur la réalité ? La fiction peut-elle soigner la réalité ? Au
+ces liens sont-ils réalisés&nbsp;? La fiction peut-elle avoir également un
+impact sur la réalité&nbsp;? La fiction peut-elle soigner la réalité&nbsp;? Au
 travers de ce travail de maturité, vous analyserez une œuvre littéraire
 dans le but de mettre en avant les liens qui se jouent entre la réalité
 et la fiction, ce que l'un raconte de l'autre.
@@ -50,8 +53,7 @@ Possibles œuvres à explorer :
     mystérieuse vie d'Oscar Wao)
 
 ::: {.signature data-latex=""}
-_Mme Somanadan_  
-_Mme Meylan_  
+_Mme Swaha Somanadan_  
+_Mme Pauline Meylan_  
 :::
-
 Répartition des élèves : Binômes conseillés

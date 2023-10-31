@@ -1,7 +1,7 @@
 # ARTS VISUELS_MODE
 
 ::: {.center data-latex=""}
-![](images/arts-visuels-mode.jpeg){height=14em}
+![](images/arts-visuels-mode.jpeg){height=16em}
 :::
 
 ## Une fusion des arts, une supernova de beauté {-}
@@ -14,7 +14,7 @@ apprendre tous les jours quelque chose de nouveau.
 Et si, en s'appuyant sur le passé, en se juchant sur les épaules des
 géants du cinéma, de la musique, de la peinture ou de la littérature, la
 mode devenait un moyen de communication, un outil de révolte, une
-tribune à l'hommage ou une supernova de beauté ? 
+tribune à l'hommage ou une supernova de beauté&nbsp;? 
 
 Ce travail de maturité propose d'inventer des tenues et accessoires de
 mode, en prenant appui sur des sources artistiques anciennes ou de
@@ -26,7 +26,6 @@ et à sa façon, de créer des capes de Dark Vador en hommage aux samouraïs
 (Belle de Jour_L.Bunuel).  
 
 ::: {.signature data-latex=""}
-_Mme Fischli_  
+_Mme Nathalie Fischli_  
 :::
-
 Répartition des élèves : Travail individuel

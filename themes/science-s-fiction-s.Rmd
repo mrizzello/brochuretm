@@ -1,18 +1,18 @@
 # SCIENCE(S)-FICTION(S)
 
 ::: {.center data-latex=""}
-![](images/science-s-fiction-s.jpg){height=14em}
+![](images/science-s-fiction-s.jpg){height=16em}
 :::
 
 À quoi ressemblerait un monde dans lequel nous serions tous·tes
 équipé·e·s de puces électroniques permettant de sauvegarder notre
-mémoire dans un disque dur externe ?
+mémoire dans un disque dur externe&nbsp;?
 
 Comment fonctionnerait une société dans laquelle tout le monde serait
-hermaphrodite ?
+hermaphrodite&nbsp;?
 
 Quelles seraient les dérives d'un système dans lequel tous nos faits et
-gestes seraient notés ?
+gestes seraient notés&nbsp;?
 
 Souvent, les récits de science-fiction s'articulent autour de questions.
 
@@ -24,8 +24,7 @@ Nous vous proposons un travail de recherche autour de la science-fiction
 qui pourra se décliner en analyse ou rédaction de votre propre ouvrage. 
 
 ::: {.signature data-latex=""}
-_M. Ferrando_  
-_Mme Gil_  
+_M. Tiziano Ferrando_  
+_Mme Coralie Gil_  
 :::
-
 Répartition des élèves : Indifférent

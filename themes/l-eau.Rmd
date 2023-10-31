@@ -1,7 +1,7 @@
 # L&#039;eau
 
 ::: {.center data-latex=""}
-![](images/l-eau.jpeg){height=14em}
+![](images/l-eau.jpeg){height=16em}
 :::
 
 L'eau est à l'origine de toute source de vie, elle est également le
@@ -19,7 +19,7 @@ la population mondiale vivra dans des pays ou régions touchés par une
 pénurie d'eau complète. 
 
 Cette pénurie d'eau va accroître l'insécurité alimentaire et entraver
-l'appro\-visionnement énergétique, qui sont les deux principaux facteurs
+l'approvision-nement énergétique, qui sont les deux principaux facteurs
 de stabilité sociale. Elle entraînera le déplacement de millions de
 personnes en Afrique. L'accès à l'eau potable de bonne qualité va
 devenir également de plus en plus difficile et sera LE défi mondial dans
@@ -45,7 +45,6 @@ Voici quelques exemples non exhaustifs de champs d'études possibles :
     l'étude des aménagements des cours d'eau.
 
 ::: {.signature data-latex=""}
-_Mme Guernier_  
+_Mme Sophie Guernier_  
 :::
-
 Répartition des élèves : Binômes obligatoires
