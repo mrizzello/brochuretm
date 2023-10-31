@@ -2,31 +2,31 @@
 
 | Thème | Salle n° |
 | :------------------------------------------------------- | --------: |
-| ChatGPT &amp; la création littéraire | ### |
-| SCIENCE(S)-FICTION(S) | ### |
-| Se raconter - raconter l&#039;autre? | ### |
-| Art et esthétique | ### |
-| L&#039;identité en littérature  | ### |
-| Réalité et fiction | ### |
-| Multiculturalité et language | ### |
-| Enjeux sociaux dans les photographies de Davide Cerullo. | ### |
-| Démocratie et prises de décision sous l&#039;angle de la théorie des jeux | ### |
-| Déchiffrer le livre de la nature | ### |
-| Exploration du monde fascinant des nombres remarquables | ### |
-| L&#039;eau | ### |
-| La nutrition | ### |
-| Le sommeil | ### |
-| Ecologie | ### |
-| Evolution et Biodiversité | ### |
-| Les additifs en cosmétiques | ### |
-| Chimie Expérimentale | ### |
-| C’est pas sorcier  | ### |
-| Urgences | ### |
-| Créer votre entreprise | ### |
-| ECOLE INCLUSIVE | ### |
-| ARTS VISUELS_MODE | ### |
-| Journalisme et société: à la recherche des plus défavorisés | ### |
-|  De l’autre côté de la scène | ### |
-| La science face aux phénomènes paranormaux | ### |
-| Le silence: un vide plein? | ### |
-| Le comportement d&#039;achat des consommateurs en Suisse | ### |
+| ChatGPT &amp; la création littéraire | 025 |
+| SCIENCE(S)-FICTION(S) | 027 |
+| Se raconter - raconter l&#039;autre? | 029 |
+| Art et esthétique | 030 |
+| L&#039;identité en littérature  | 035 |
+| Réalité et fiction | 122 |
+| Multiculturalité et language | 130 |
+| Enjeux sociaux dans les photographies de Davide Cerullo. | 131 |
+| Démocratie et prises de décision sous l&#039;angle de la théorie des jeux | 136 |
+| Déchiffrer le livre de la nature | 138 |
+| Exploration du monde fascinant des nombres remarquables | 141 |
+| L&#039;eau | 205 |
+| La nutrition | 217 |
+| Le sommeil | 217 |
+| Ecologie | 212 |
+| Evolution et Biodiversité | 212 |
+| Les additifs en cosmétiques | 105 |
+| Chimie Expérimentale | 105 |
+| C’est pas sorcier  | 145 |
+| Urgences | 146 |
+| Créer votre entreprise | 220 |
+| ECOLE INCLUSIVE | 221 |
+| ARTS VISUELS_MODE | 226 |
+| Journalisme et société: à la recherche des plus défavorisés | 229 |
+|  De l’autre côté de la scène | 237 |
+| La science face aux phénomènes paranormaux | 235 |
+| Le silence: un vide plein? | 235 |
+| Le comportement d&#039;achat des consommateurs en Suisse | 238 |
