@@ -32,5 +32,6 @@ Le travail peut être rédigé en français ou en anglais.
 
 ::: {.signature data-latex=""}
 _M. Tiziano Ferrando_  
+_M. Aymeric Perriard_
 :::
 Répartition des élèves : Binômes conseillés
