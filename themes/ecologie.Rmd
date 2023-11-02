@@ -1,7 +1,7 @@
 # Ecologie
 
 ::: {.center data-latex=""}
-![](images/ecologie.jpeg){height=16em}
+![](images/ecologie.jpeg){height=14em}
 :::
 
 L'écologie est la science qui s'intéresse aux écosystèmes,

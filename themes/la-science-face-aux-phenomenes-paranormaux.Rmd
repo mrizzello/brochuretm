@@ -1,7 +1,7 @@
 # La science face aux phénomènes paranormaux
 
 ::: {.center data-latex=""}
-![](images/la-science-face-aux-phenomenes-paranormaux.jpg){height=16em}
+![](images/la-science-face-aux-phenomenes-paranormaux.jpg){height=14em}
 :::
 
 Objectivité, rationalité, rigueur, vérifiabilité, universalité... Nous

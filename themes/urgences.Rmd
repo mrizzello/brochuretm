@@ -1,7 +1,7 @@
 # Urgences
 
 ::: {.center data-latex=""}
-![](images/urgences.png){height=16em}
+![](images/urgences.png){height=14em}
 :::
 
 ## Comment la géographie peut-elle aborder la thématique des &quot;Urgences&quot;, et d&#039;abord qu&#039;est-ce que l&#039;urgence? {-}

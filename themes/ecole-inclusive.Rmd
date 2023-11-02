@@ -1,7 +1,7 @@
 # ECOLE INCLUSIVE
 
 ::: {.center data-latex=""}
-![](images/ecole-inclusive.jpg){height=16em}
+![](images/ecole-inclusive.jpg){height=14em}
 :::
 
 ## Difficultés scolaires, singularités et besoins éducatifs particuliers {-}

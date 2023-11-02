@@ -1,7 +1,7 @@
 # La nutrition
 
 ::: {.center data-latex=""}
-![](images/la-nutrition.jpg){height=16em}
+![](images/la-nutrition.jpg){height=14em}
 :::
 
 La nutrition, cela concerne les actions et processus qui permettent à un

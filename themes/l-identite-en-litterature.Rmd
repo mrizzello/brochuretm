@@ -1,7 +1,7 @@
 # L&#039;identité en littérature 
 
 ::: {.center data-latex=""}
-![](images/l-identite-en-litterature.jpeg){height=16em}
+![](images/l-identite-en-litterature.jpeg){height=14em}
 :::
 
 > La connaissance de soi est une interprétation, --- l'interprétation de

@@ -1,7 +1,7 @@
 # Les additifs en cosmétiques
 
 ::: {.center data-latex=""}
-![](images/les-additifs-en-cosmetiques.jpg){height=16em}
+![](images/les-additifs-en-cosmetiques.jpg){height=14em}
 :::
 
 Tous les jours, dès notre réveil, nous utilisons de nombreux

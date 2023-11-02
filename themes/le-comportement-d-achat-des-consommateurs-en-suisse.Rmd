@@ -1,7 +1,7 @@
 # Le comportement d&#039;achat des consommateurs en Suisse
 
 ::: {.center data-latex=""}
-![](images/le-comportement-d-achat-des-consommateurs-en-suisse.jpg){height=16em}
+![](images/le-comportement-d-achat-des-consommateurs-en-suisse.jpg){height=14em}
 :::
 
 La population mondiale consomme davantage de ressources que ce que les

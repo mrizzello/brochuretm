@@ -1,7 +1,7 @@
 # Déchiffrer le livre de la nature
 
 ::: {.center data-latex=""}
-![](images/dechiffrer-le-livre-de-la-nature.jpg){height=16em}
+![](images/dechiffrer-le-livre-de-la-nature.jpg){height=14em}
 :::
 
 Dans un de ses citations les plus célèbres, Galilée décrit la nature

@@ -1,7 +1,7 @@
 # Chimie Expérimentale
 
 ::: {.center data-latex=""}
-![](images/chimie-experimentale.png){height=16em}
+![](images/chimie-experimentale.png){height=14em}
 :::
 
 ## Découvrir le monde à l&#039;échelle moléculaire {-}

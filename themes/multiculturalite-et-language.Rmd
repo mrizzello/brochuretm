@@ -1,7 +1,7 @@
 # Multiculturalité et language
 
 ::: {.center data-latex=""}
-![](images/multiculturalite-et-language.jpeg){height=16em}
+![](images/multiculturalite-et-language.jpeg){height=14em}
 :::
 
 ## A la rencontre de l&#039;Autre {-}

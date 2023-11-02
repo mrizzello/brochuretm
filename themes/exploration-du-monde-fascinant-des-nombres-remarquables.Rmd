@@ -1,7 +1,7 @@
 # Exploration du monde fascinant des nombres remarquables
 
 ::: {.center data-latex=""}
-![](images/exploration-du-monde-fascinant-des-nombres-remarquables.png){height=16em}
+![](images/exploration-du-monde-fascinant-des-nombres-remarquables.png){height=14em}
 :::
 
 En mathématiques, il y a des nombres qui se distinguent des autres par

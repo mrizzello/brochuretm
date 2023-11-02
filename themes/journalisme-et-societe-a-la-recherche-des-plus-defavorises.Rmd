@@ -1,7 +1,7 @@
 # Journalisme et société: à la recherche des plus défavorisés
 
 ::: {.center data-latex=""}
-![](images/journalisme-et-societe-a-la-recherche-des-plus-defavorises.png){height=16em}
+![](images/journalisme-et-societe-a-la-recherche-des-plus-defavorises.png){height=14em}
 :::
 
 ## La problématique de la pauvreté en Suisse - L&#039;image de Suisse vue de l&#039;étranger {-}

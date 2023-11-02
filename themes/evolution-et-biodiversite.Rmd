@@ -1,7 +1,7 @@
 # Evolution et Biodiversité
 
 ::: {.center data-latex=""}
-![](images/evolution-et-biodiversite.jpeg){height=16em}
+![](images/evolution-et-biodiversite.jpeg){height=14em}
 :::
 
 En 1859, Charles Darwin publie "L'Origine des espèces", un livre dans

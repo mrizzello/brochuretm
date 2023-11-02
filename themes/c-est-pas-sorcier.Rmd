@@ -1,7 +1,7 @@
 # C’est pas sorcier 
 
 ::: {.center data-latex=""}
-![](images/c-est-pas-sorcier.jpg){height=16em}
+![](images/c-est-pas-sorcier.jpg){height=14em}
 :::
 
 **Mettre en scène un sujet scientifique à la manière de la célèbre

@@ -1,7 +1,7 @@
 # ChatGPT &amp; la création littéraire
 
 ::: {.center data-latex=""}
-![](images/chatgpt-la-creation-litteraire.jpg){height=16em}
+![](images/chatgpt-la-creation-litteraire.jpg){height=14em}
 :::
 
 L'idée de ce thème vient d'une expérience que l'écrivain Eric-Emmanuel

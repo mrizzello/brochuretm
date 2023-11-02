@@ -1,7 +1,7 @@
 # Art et esthétique
 
 ::: {.center data-latex=""}
-![](images/art-et-esthetique.jpg){height=16em}
+![](images/art-et-esthetique.jpg){height=14em}
 :::
 
 > Tout ce que nous voyons, dans la vie courante, subit plus ou moins la

@@ -1,7 +1,7 @@
 # Le silence: un vide plein?
 
 ::: {.center data-latex=""}
-![](images/le-silence-un-vide-plein.jpg){height=16em}
+![](images/le-silence-un-vide-plein.jpg){height=14em}
 :::
 
 À l'heure où les résultats d'une étude scientifique récente suggèrent

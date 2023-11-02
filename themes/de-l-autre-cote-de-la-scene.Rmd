@@ -1,7 +1,7 @@
 #  De l’autre côté de la scène
 
 ::: {.center data-latex=""}
-![](images/de-l-autre-cote-de-la-scene.jpg){height=16em}
+![](images/de-l-autre-cote-de-la-scene.jpg){height=14em}
 :::
 
 ## À la découverte des coulisses {-}

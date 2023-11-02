@@ -1,7 +1,7 @@
 # Créer votre entreprise
 
 ::: {.center data-latex=""}
-![](images/creer-votre-entreprise.jpg){height=16em}
+![](images/creer-votre-entreprise.jpg){height=14em}
 :::
 
 Avez-vous déjà pensé avoir trouvé « la bonne idée » promesse de

@@ -1,7 +1,7 @@
 # Le sommeil
 
 ::: {.center data-latex=""}
-![](images/le-sommeil.jpg){height=16em}
+![](images/le-sommeil.jpg){height=14em}
 :::
 
 ## Importance et influence sur la santé physique et psychique {-}

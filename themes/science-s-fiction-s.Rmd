@@ -1,7 +1,7 @@
 # SCIENCE(S)-FICTION(S)
 
 ::: {.center data-latex=""}
-![](images/science-s-fiction-s.jpg){height=16em}
+![](images/science-s-fiction-s.jpg){height=14em}
 :::
 
 À quoi ressemblerait un monde dans lequel nous serions tous·tes

@@ -1,7 +1,7 @@
 # L&#039;eau
 
 ::: {.center data-latex=""}
-![](images/l-eau.jpeg){height=16em}
+![](images/l-eau.jpeg){height=14em}
 :::
 
 L'eau est à l'origine de toute source de vie, elle est également le

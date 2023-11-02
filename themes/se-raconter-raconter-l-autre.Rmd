@@ -1,7 +1,7 @@
 # Se raconter - raconter l&#039;autre?
 
 ::: {.center data-latex=""}
-![](images/se-raconter-raconter-l-autre.png){height=16em}^[Image : Yayoi Kusama]
+![](images/se-raconter-raconter-l-autre.png){height=14em}^[Image : Yayoi Kusama]
 :::
 
 « Autobiographie »&nbsp;? Écrire, par soi-même, sa vie. Ce projet -- devenu

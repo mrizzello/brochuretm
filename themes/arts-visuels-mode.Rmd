@@ -1,7 +1,7 @@
 # ARTS VISUELS_MODE
 
 ::: {.center data-latex=""}
-![](images/arts-visuels-mode.jpeg){height=16em}
+![](images/arts-visuels-mode.jpeg){height=14em}
 :::
 
 ## Une fusion des arts, une supernova de beauté {-}
