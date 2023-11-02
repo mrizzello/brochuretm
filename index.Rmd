@@ -13,7 +13,7 @@ github-repo: "mrizzello/borchuretm"
 description: "Brochure de présentation des thèmes proposés aux élèves 2M du Gymnase d'Étoy"
 lang: fr
 papersize: a4
-geometry: "left=4em,right=4em,top=4em,bottom=6em"
+geometry: "left=4em,right=4em,top=4em,bottom=8em"
 ---
 \clearpage
 
