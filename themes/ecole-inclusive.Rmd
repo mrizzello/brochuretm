@@ -1,13 +1,10 @@
 # ECOLE INCLUSIVE
 
 ::: {.center data-latex=""}
-![](images/ecole-inclusive.jpg){height=14em}
+![](images/ecole-inclusive.jpg){height=13em}
 :::
 
 ## Difficultés scolaires, singularités et besoins éducatifs particuliers {-}
-
-Tout le monde connaît l'école, tout le monde a passé par l'école
-mais...
 
 Dans ce travail de psychologie/pédagogie, l'école sera à considérer
 comme un facteur d'intégration ou d'exclusion&nbsp;! En effet, les problèmes
@@ -16,25 +13,19 @@ d'exclusion ainsi qu'à sa responsabilité face aux nouvelles exigences
 d'intégration qui traversent notre société sont au cœur de nombreux
 débats aujourd'hui.
 
-"Les enfants/adolescents connaissant ce qu'on appelle des difficultés
+_"Les enfants/adolescents connaissant ce qu'on appelle des difficultés
 scolaires (d'apprentissage et de comportement) peuvent présenter des
 besoins particuliers en matière de formation. Ces besoins, établis par
 les services compétents au moyen de diagnostics et d'analyses,
 permettent aux enfants/adolescents d'accéder aux mesures de pédagogie
-spécialisée."  
-( http://www.integrationundschule.ch/fr)
+spécialisée."_^[http://www.integrationundschule.ch/fr]
 
 Ce travail vous permettra de vous pencher très concrètement sur une
 difficulté/un handicap, de l'évoquer en contexte scolaire et d'en
-décrire les spécificités dans le quotidien des élèves. Vous n'oublierez
-pas non plus d'en développer l'aspect "collaboration et partenariat"
-entre les acteurs concernés (autorités politiques et cantonales, école,
-enfants/adolescents, parents, éducateurs spécialisés, ...). Il s'agira
+décrire les spécificités dans le quotidien des élèves. Il s'agira
 enfin de conclure en portant une réflexion sur le rôle
 "d'intégration" ou "d'exclusion" joué par une école, se voulant
 plus que jamais inclusive.
-
-\clearpage
 
 C'est à partir de cela que je vous propose de conduire un travail basé
 sur une problématique que vous définirez en fonction de vos intérêts.
