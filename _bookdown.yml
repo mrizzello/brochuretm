@@ -51,3 +51,6 @@ rmd_files:
   - themes/le-comportement-d-achat-des-consommateurs-en-suisse.Rmd
   - themes/le-silence-un-vide-plein.Rmd
   - themes/la-science-face-aux-phenomenes-paranormaux.Rmd
+#Musique
+  - themes/composition-et-realisation-d-un-ep-clip-video-musical.Rmd
+  - themes/organisation-d-un-concert-public.Rmd
