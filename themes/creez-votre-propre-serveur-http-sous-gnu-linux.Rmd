@@ -1,0 +1,20 @@
+# Créez votre propre serveur HTTP sous GNU/Linux 
+
+Dans ce projet passionnant, vous aurez l'opportunité de réaliser la mise
+en œuvre complète et documentée d'un serveur HTTP ainsi que d'un site
+web. La première étape comprendra l'installation d'un serveur HTTP
+Apache sous GNU/Linux, ainsi que la gestion des permissions d'accès. Le
+projet vise à développer un site web, en intégrant à la fois le
+front-end (HTML, CSS, JS) et le back-end (PHP et MySQL), tout en
+appliquant le CRUD (Create, Read, Update, Delete) pour la gestion des
+données. Ce projet n'utilisera que des logiciels libres. Une fois le
+développement local terminé et testé, la deuxième phase du projet
+consistera à déployer le serveur sur un Raspberry Pi.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Mourad Ahmane_                              |
+| Répartition des élèves | Indifférent                                |
+| Présentation en salle  | 320                                  |
+:::

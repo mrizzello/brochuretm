@@ -1,0 +1,40 @@
+# L'exploration du monde fascinant de l'analyse multicritère
+
+::: {.center data-latex=""}
+![](images/l-exploration-du-monde-fascinant-de-l-analyse-mu.png){height=14em}
+:::
+
+Dans la vie réelle, le choix entre alternatives se fait souvent sur la
+base de plusieurs critères. Par exemple, pour l'achat d'une voiture il
+n'y a pas que le prix qui compte mais également d'autres critères
+comme le modèle, la consommation du carburant, la vitesse, le nombre de
+places, etc.
+
+Les critères sont souvent conflictuels dans le sens que si une
+alternative est meilleure qu'une autre sur un critère, elle ne l'est
+pas nécessairement sur les autres critères. Ainsi, il est rare de
+trouver une alternative qui soit meilleure que toutes les autres par
+rapport à tous les critères.
+
+Comme il existe rarement une solution qui soit optimale par rapport à
+tous les critères considérés, le but de l'analyse multicritère consiste
+à trouver une solution de compromis qui soit satisfaisante par rapport à
+tous les critères importants.
+
+Il esiste une riche bibliographie sur l'analyse multicritère et
+plusieurs méthodes ont été développées. Ces méthodes sont diverses
+variées et le choix d'une méthode appropriée dépend des
+caractéristiques de la situation considérée. L'analyse d'une de ces
+méthodes, le développement d'un guide pour le choix d'une méthode
+pertinente ou la comparaison de deux ou plusieurs méthodes peut faire
+l'objet d'un travail de maturité au sein de ce thème. D'autres
+problématiques liées à l'analyse multicritère peuvent également être
+abordées.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Ahmed Bufardi_                              |
+| Répartition des élèves | Binômes conseillés                                |
+| Présentation en salle  | 126                                  |
+:::

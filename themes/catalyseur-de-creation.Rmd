@@ -1,0 +1,65 @@
+# Catalyseur de création
+
+## Stimuler les sens pour produire du sens {-}
+
+::: {.center data-latex=""}
+![](images/catalyseur-de-creation.png){height=14em} ^[Image générée par l'auteur, Midjourney 6.1, 2024, (www.midjourney.com)]
+:::
+
+Le 1er septembre 2016, douze mystérieux vaisseaux spatiaux sont apparus
+dans différentes parties du monde, annonçant le début d'une ère de
+communication inédite entre l'humanité et une espèce
+extraterrestre ; soulevant des questions existentielles sur le langage,
+la communication et les lois fondamentales de l'univers.
+
+La communication a été instaurée avec les extraterrestres qui ont
+annoncé et confirmé que leurs intentions sont entièrement pacifiques.
+Ces derniers cherchent à comprendre comment les humains interprètent les
+lois physiques, chimiques et biologiques de l'univers, afin de partager
+leur propre vision de ces connaissances.
+
+On sait que ces êtres ont les mêmes sens que les humains, mais le
+problème est qu'ils ne comprennent pas le langage mathématique comme
+nous le représentons.
+
+La communauté scientifique a besoin de vous pour relever ce nouveau
+défi : expliquer des concepts scientifiques sans utiliser les
+mathématiques. L'objectif est d'envisager de nouvelles manières de
+stimuler les perceptions pour produire du sens en les abordant avec une
+sensibilité et une créativité artistique.
+
+Quelques exemples de concepts qui pourraient être abordés : 
+
+- la gravité,
+- la lumière,
+- la conservation de l'énergie,
+- les liaisons chimiques,
+- les réactions,
+- les équilibres dynamiques,
+- la photosynthèse,
+- les connexions synaptiques,
+- la division cellulaire
+- ...
+
+\clearpage
+
+Les contraintes du travail : 
+
+- Au moins cinq œuvres doivent être créées. Tous les médiums sont
+autorisés.
+- Toutes les œuvres doivent être originales et inédites.
+- Toutes les œuvres doivent être propriété et production exclusive de l'élève.
+- Toutes les œuvres doivent être créées pendant la période du travail de maturité et ne doivent pas avoir été créées précédemment dans un autre cadre.
+- Pas de lettres, pas de nombres, pas de symboles mathématiques dans les œuvres.
+
+Comme pour tous les travaux de création, un commentaire écrit est
+obligatoirement rendu. Il détaille à la fois les principes scientifiques
+et les démarches artistiques suivies.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Michele Rizzello_                              |
+| Répartition des élèves | Travail individuel                                |
+| Présentation en salle  | 105                                  |
+:::

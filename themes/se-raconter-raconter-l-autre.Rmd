@@ -1,24 +1,26 @@
-# Se raconter - raconter l&#039;autre?
+# Se raconter - raconter l'autre ?
+
+## Création d'un texte autobiographique {-}
 
 ::: {.center data-latex=""}
-![](images/se-raconter-raconter-l-autre.png){height=14em}^[Image : Yayoi Kusama]
+![](images/se-raconter-raconter-l-autre.png){height=14em} ^[Image : Yayoi Kusama, Infinity Mirror Room (Phalli's Field) (1965).]
 :::
 
-« Autobiographie »&nbsp;? Écrire, par soi-même, sa vie. Ce projet -- devenu
-un véritable genre littéraire, tant il a été pratiqué -- peut parfois
-nous rebuter&nbsp;:
+<< Autobiographie >> ? Écrire, par soi-même, sa vie. Ce projet --
+devenu un véritable genre littéraire, tant il a été pratiqué -- peut
+parfois nous rebuter : 
 
-- « S'écrire soi-même&nbsp;: c'est narcissique, nombriliste&nbsp;! » 
-- « Que vais-je donc écrire sur ma vie, moi qui n'ai vécu que seize
-ans&nbsp;? »
-- « Ma vie&nbsp;? C'est sans intérêt... »
+-   << S'écrire soi-même : c'est narcissique, nombriliste ! >>
+-   << Que vais-je donc écrire sur ma vie, moi qui n'ai vécu que seize
+    ans ? >>
+-   << Ma vie ? C'est sans intérêt... >>
 
 Or, écrire sa vie, ce n'est jamais s'écrire tout·e seul·e, en excluant
 les autres (ces êtres aimés, chéris ou haïs) du champ de l'écriture, ces
-autres qui bien souvent nous ont fait·e·s&nbsp;; écrire sa vie, c'est tenter
+autres qui bien souvent nous ont fait·e·s ; écrire sa vie, c'est tenter
 de la comprendre mieux, d'en approcher les ressorts inconnus, les
 étranges détours empruntés et d'en retrouver, cheminant, les rêves
-oubliés&nbsp;; écrire sa vie, c'est sortir des ombres de la mémoire ces êtres
+oubliés ; écrire sa vie, c'est sortir des ombres de la mémoire ces êtres
 de chairs, ces lieux que l'on a un jour habités, où l'on a vécu et
 parfois souffert, et même, quelquefois, dépoussiérer ces objets
 spéciaux, ces totems qui auront marqué une tranche de notre existence --
@@ -26,21 +28,21 @@ spéciaux, ces totems qui auront marqué une tranche de notre existence --
 construit·e·s.
 
 À l'occasion de ce travail, nous vous proposons un parcours en trois
-étapes&nbsp;: 1)&nbsp;la découverte d'auteur·ice·s ayant pratiqué
-l'autobiographie, 2)&nbsp;une réflexion -- sous forme de problématique -- sur
+étapes : 1) la découverte d'auteur·ice·s ayant pratiqué
+l'autobiographie, 2) une réflexion -- sous forme de problématique -- sur
 les rapports entre altérité et autobiographie et, enfin, étape
-assurément la plus décisive, 3)&nbsp;la rédaction d'un projet
+assurément la plus décisive, 3) la rédaction d'un projet
 autobiographique.
-
-\clearpage
 
 Ce travail de maturité, entre raisonnement quasi-philosophique et
 création d'ordre littéraire, est absolument ouvert à tous·tes, et ne
-demande aucun prérequis&nbsp;; ou, simplement, un goût, une curiosité pour
-l'activité d'écriture, et pour la pensée... 
+demande aucun prérequis ; ou, simplement, un goût, une curiosité pour
+l'activité d'écriture, et pour la pensée...
 
-::: {.signature data-latex=""}
-_Mme Coralie Gil_  
-_M. Michaël Puentes_  
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Michaël Puentes, M. Julien Besuchet et Mme Elodie Viret_                              |
+| Répartition des élèves | Travail individuel                                |
+| Présentation en salle  | 029                                  |
 :::
-Répartition des élèves : Travail individuel

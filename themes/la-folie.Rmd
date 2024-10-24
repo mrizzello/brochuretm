@@ -1,0 +1,64 @@
+# La folie
+
+::: {.center data-latex=""}
+![](images/la-folie.jpg){height=14em}
+:::
+Comment se comporter face à la folie ? Faut-il adopter le regard du
+scientifique, du psychologue clinicien qui veut fournir une thérapie ?
+Peut-on comprendre la folie grâce au discours rationnel ? La folie qu'on
+enferme par un geste d'internement, qu'on met à l'écart, qu'on délimite
+par rapport au règne de la raison ; la folie qu'on expulse vers
+l'Extérieur et qu'on place à l'hôpital -- n'est-elle pas la figure de la
+limite où se perd le sens, où les repères et les références se
+brouillent et s'échappent vers l'horizon indécis de l'incertitude ?
+Bateau de fous qui erre sans but sur sa trajectoire irrésolue ! Tous ces
+noms nouveaux : fureur, schizophrénie, délire, démence, trouble de la
+personnalité multiple, manie, perversité constitutionnelle, maladie
+mentale, dégénérescence, etc. Mais peut-être que la folie n'est-elle
+rien d'autre qu'une transgression morale -- un vice parmi d'autres ?
+Maladie du corps ou maladie de l'âme ? La folie résiste à nos
+catégories : impunissable, elle exige des circonstances particulières.
+Et si le criminel n'avait pas accompli l'acte ? Est-il responsable de
+son action si c'est une autre personnalité qui a pris possession de son
+esprit ? Et s'il était possible de formuler un éloge de la folie -- de
+cette grande maîtresse du monde ? Les grands génies ne sont-ils pas
+souvent considérés comme fous -- au moment où la raison devient
+excessive jusqu'à la déraison ? Mais aussi : ne devient-on pas tout
+autant fou de rage que d'amour ? Ne sombre-t-on pas tout autant dans la
+folie par désespoir que par passion ? Que d'obscurité entoure la
+présence obsédante de l'irrationalité ! Que d'angoisse et d'inquiétude
+enveloppent le dérangement de la pensée ! Mais il existe aussi des fêtes
+des fous, des fêtes de l'ânerie, de la bêtise, et de l'absurdité, où
+l'organisation de la société est, pour un bref instant, suspendue dans
+le vide.
+
+Voilà quelques questions -- parmi tant d'autres ! -- qu'un Travail de
+Maturité consacré au thème de la folie pourraient aborder. La
+philosophie, la poésie, l'art, la littérature, la science s'interrogent
+en effet depuis leurs débuts sur la figure du fou. C'est que la folie,
+loin de relever seulement d'une exception rapidement disqualifiée par
+manque d'intérêt, nous concerne dans ce que nous avons de propre : ne
+sommes-nous pas seuls parmi les êtres vivants à pouvoir nous démarquer
+par l'exercice de notre raison ?
+
+\clearpage
+
+Qu'il s'agisse du traitement social réservé à la folie dans le monde que
+nous connaissons, du vacillement angoissant qu'éveille en nous la
+présence obsessive du fou dans notre culture, de sa représentation dans
+la peinture ou dans la littérature, de son étude par la science, ou
+encore du doute qu'elle instille dans nos existences, nous nous
+attacherons à montrer que l'ombre de la folie possède une place
+fondamentale dans notre rapport au monde.
+
+Ce Travail de Maturité est ouvert à tou·te·s, et n'exige aucun
+prérequis. Il demande simplement un intérêt pour la question de la
+folie, une envie de penser, et une dose de curiosité.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Jeremy Filthuth et M. Michaël Puentes_                              |
+| Répartition des élèves | Travail individuel                                |
+| Présentation en salle  | 035                                  |
+:::

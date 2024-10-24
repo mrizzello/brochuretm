@@ -1,17 +1,17 @@
 #  De l’autre côté de la scène
 
+## À la découverte des coulisses {-}
+
 ::: {.center data-latex=""}
 ![](images/de-l-autre-cote-de-la-scene.jpg){height=14em}
 :::
 
-## À la découverte des coulisses {-}
-
 Vous consommez des films, des séries. Vous allez au théâtre ou vous
-assistez à un concert.  
+assistez à un concert.
 Quelle est l'ampleur du travail qui se cache derrière les
-représentations&nbsp;?   
-Quelles étapes sont nécessaires à la réalisation d'un événement&nbsp;?   
-Quels métiers de l'ombre permettent aux artistes de briller sur scène&nbsp;?
+représentations ?
+Quelles étapes sont nécessaires à la réalisation d'un événement ?
+Quels métiers de l'ombre permettent aux artistes de briller sur scène ?
 
 Vous dévoilerez l'invisible.
 Vous passerez par l'entrée des artistes et les coulisses.
@@ -24,8 +24,11 @@ du spectateur et la réalité des professionnels du monde artistique. Il
 s'agira de porter un regard critique sur cet univers en l'analysant sous
 différents points de vue, d'un côté le spectateur, de l'autre la scène.
 
-::: {.signature data-latex=""}
-_M. François Voeffray_  
-_Mme Salomé Gaydou_  
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _Mme Salomé Gaydou_                              |
+| Répartition des élèves | Binômes conseillés                                |
+| Langue(s)              | Allemand, Français                                |
+| Présentation en salle  | 244                                  |
 :::
-Répartition des élèves : Indifférent

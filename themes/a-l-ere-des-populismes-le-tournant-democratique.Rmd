@@ -1,0 +1,73 @@
+# À l’ère des populismes : Le tournant démocratique ? 
+
+::: {.center data-latex=""}
+![](images/a-l-ere-des-populismes-le-tournant-democratique.jpeg){height=14em}
+:::
+
+Victoire du FPÖ en Autriche et montée de l'extrême droite en Allemagne
+en septembre 2024, succès électoraux des partis souverainistes dans de
+nombreux pays d'Europe, phénomène Jordan Bardella en France, élections
+de chef·fe·s d'État à l'instar de Giorgia Meloni en Italie, de Robert
+Fico en Slovaquie ou encore montée en puissance de la << démocratie
+illibérale >> de Viktor Orban en Hongrie, sans parler, bien
+évidemment, de la potentielle réélection de Donald Trump aux États-Unis.
+Voici quelques tendances politiques que nous révèle, depuis quelques
+années le paysage médiatique occidental. Le point commun de ces
+différents phénomènes ? Tous sont liés à des partis sortant des clivages
+traditionnels, le plus souvent issus d'une droite radicale (ou d'extrême
+droite), dans lesquels une volonté populaire cherche à marquer une
+rupture avec ce qu'elle qualifie comme une élite, au pouvoir depuis
+plusieurs décennies, parfois corrompue, et surtout déconnectée des
+réalités de la population. C'est selon ce paradigme que certains médias
+qualifient ces partis et mouvements de << populistes >>.
+
+Mais au juste, c'est quoi, le populisme ? Et peut-on affirmer que la
+décennie que nous traversons est bel-et-bien une << ère du
+populisme >>, comme nous le laissent penser les résultats électoraux
+et les médias dans de nombreux pays d'Europe ?
+
+Dans le cadre de ce sujet de TM, vous serez amené·e·s à vous emparer de
+ces deux interrogations. Il s'agira tout d'abord de poser une définition
+du concept de << populisme >>, en étudiant notamment sa composante
+historique, son utilisation, mais aussi ses complexités, ses ambigüités,
+voire ses contradictions. Après avoir posé les quelques jalons
+terminologiques indispensables au traitement de votre sujet, vous
+pourrez vous focaliser sur une étude de cas, en vous centrant par
+exemple sur la situation dans un pays occidental, ou sur un parti/un
+mouvement politique. Une telle recherche devrait, finalement, vous
+amener un questionnement sur le monde qui nous entoure, nos systèmes
+politiques et la valeur de la démocratie. Sommes-nous à un tournant
+démocratique ? Voici une réflexion que pourrait vous apporter la
+réalisation de ce TM.
+
+\clearpage
+
+**Quelques exemples de sujet : **
+
+-   L'évolution de l'UDC en Suisse depuis les années 1990 : Quelles
+    causes ? Quelles conséquences ?
+-   La *<< démocratie illibérale >>* de Viktor Orban : Une étude de
+    cas sur la Hongrie
+-   Aux origines du populisme - L'émergence du concept de
+    << populisme >> au XIXème siècle.
+-   Le populisme de gauche existe-t-il ? Points communs et différences
+    avec le populisme de droite et d'extrême-droite.
+-   Analyse des résultats d'une élection récente et géographie
+    électorale (Européennes de mai 2024, législatives françaises de juin
+    2024, législatives autrichiennes de septembre 2024).
+-   Le *Front National* de Marine le Pen et *Reconquête* d'Eric
+    Zemmour : Même combat ?
+-   Les partis politiques face à l'invasion de l'Ukraine de 2022.
+-   La place des religions dans les discours des partis dits populistes
+-   Et bien d'autres sujets. ...
+
+Ce TM peut être rédigé en français ou en allemand.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Rodolphe Maeusli_                              |
+| Répartition des élèves | Indifférent                                |
+| Langue(s)              | Allemand, Français                                |
+| Présentation en salle  | 203                                  |
+:::

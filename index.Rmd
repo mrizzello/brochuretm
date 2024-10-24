@@ -2,7 +2,7 @@
 title: |
   ![](logo.png){width=50%}  
   \vspace{6em}
-  Travaux de maturité 2024
+  Travaux de maturité 2025
 date: "`r format(Sys.time(), '%d.%m.%Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -10,7 +10,7 @@ documentclass: book
 classoption:
   - openany
 github-repo: "mrizzello/borchuretm"
-description: "Brochure de présentation des thèmes proposés aux élèves 2M du Gymnase d'Étoy"
+description: "Brochure de présentation des thèmes proposés aux élèves 2M du Gymnase d'Etoy"
 lang: fr
 papersize: a4
 geometry: "left=6em,right=6em,top=6em,bottom=8em"
@@ -34,11 +34,13 @@ Distribution à :
 
 Chères élèves et chers élèves de 2^e^ année de l'École de maturité,
 
-Vous recevez cette brochure qui concerne le travail de maturité pour la volée 2023-2024 et qui contient, en particulier, les thèmes des projets qui vous sont proposés. Je vous donne rendez-vous le&nbsp;:
+Vous recevez cette brochure qui concerne le travail de maturité pour la volée 2024-2025 et qui contient, en particulier, les thèmes des projets qui vous sont proposés.
+
+Je vous donne rendez-vous le
 
 ::: {.center data-latex=""}
-**Mardi 21 novembre à 11h05 ;  
-Espace Galerie (prolongement du hall d'entrée)**
+**mardi 19 novembre à 11h05 ;  
+à l'Espace Galerie (prolongement du hall d'entrée)**
 :::
 
 afin d'y recevoir une information générale sur l'organisation du travail de maturité.
@@ -49,19 +51,9 @@ Vous aurez ensuite la possibilité de suivre la présentation de trois projets q
 - la seconde de 12h25 à 12h50 et
 - la troisième de 12h55 à 13h30.
 
-Les cours seront donc interrompus ce jour de 10h50 à 13h30 pour les classes de 2M. Ils reprendront à 13h35 selon l'horaire habituel.
+Les cours seront donc interrompus ce jour de 11h00 à 13h30 pour les classes de 2M. Ils reprendront à 13h35 selon l'horaire habituel.
 
-Suite à ces présentations, vous devrez nous communiquer trois souhaits de thèmes par ordre de préférence. Vous devrez vous inscrire via le site du gymnase en cliquant sur le menu : 
-
-::: {.center data-latex=""}
-Portail des applications > Hermes II > Inscriptions
-:::
-
-La date limite pour nous communiquer vos thèmes est fixée au 
-
-::: {.center data-latex=""}
-**mercredi 29 novembre à 16h00**.
-:::
+Suite à ces présentations, vous devrez nous communiquer trois souhaits de thèmes par ordre de préférence par le biais d'un formulaire en ligne.
 
 Je vous remercie d'avance de votre ponctualité à ces rendez-vous et de prendre note de ces dates dans votre agenda personnel.
 
@@ -70,3 +62,39 @@ Les inscriptions définitives vous seront confirmées ultérieurement.
 ::: {.signature data-latex=""}
 _M. Rizzello, Doyen_
 :::
+
+\clearpage
+
+## Modalités d'inscriptions aux thèmes {-}
+
+Suite aux présentations des thèmes de travaux de maturité, vous devrez nous communiquer trois souhaits de thèmes par ordre de préférence. Vous devrez vous inscrire en passant par le site du gymnase en cliquant sur le menu : 
+
+::: {.center data-latex=""}
+Portail des applications > Hermes II > Inscriptions
+:::
+
+La date limite pour nous communiquer vos thèmes est fixée au 
+
+::: {.center data-latex=""}
+**mercredi 27 novembre à 16h00**.
+:::
+
+Les thèmes seront attribués dans la limite des places disponibles et, dans la mesure du possible, selon l'ordre de préférence indiqué.
+
+\vspace{\stretch{1}}
+
+__Inscription en binôme__
+
+Les élèves qui souhaitent s'inscrire à un thème en binôme peuvent le faire pour les thèmes où la répartition des élèves mentionne les formules "Binômes conseillés" ou "Binômes obligatoires".
+
+Dans ce cas, les trois choix et les ordres de préférence doivent être identiques pour les deux membres du binôme.
+
+Un des deux élèves envoie un courriel à M. Rizzello ([michele.rizzello@eduvaud.ch](mailto:michele.rizzello@eduvaud.ch)) pour demander la formation d'un binôme et met sa ou son camarade en copie du message.
+
+\vspace{\stretch{1}}
+
+__Maturité avec mention bilingue__
+
+Pour les élèves inscrits dans le cursus de maturité avec mention bilingue, le travail de maturité doit être rédigé et présenté dans la langue d'immersion. Ces élèves choisissent leurs trois thèmes parmi ceux dont la langue d'immersion est proposée.
+
+\vspace{\stretch{1}}

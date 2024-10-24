@@ -21,10 +21,17 @@ possibilité serait également d'étudier la nutrition dans un domaine
 particulier, par exemple, la nutrition dans le domaine du sport ou la
 nutrition dans les pays en voie de développement.
 
-Ce TM peut se faire en français, anglais ou allemand. Travail réalisé
-en binôme.
+Pour ce travail de maturité, qui se fera obligatoirement en binôme, vous
+devrez réaliser votre propre expérience que ce soit un sondage, des
+études de cas ou une expérience pratique, afin de recueillir et
+d'analyser des données originales. Il est possible de faire ce travail
+en français, anglais ou allemand.
 
-::: {.signature data-latex=""}
-_M. Manuel Zenger_  
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Manuel Zenger_                              |
+| Répartition des élèves | Binômes obligatoires                                |
+| Langue(s)              | Allemand, Anglais, Français                                |
+| Présentation en salle  | 212                                  |
 :::
-Répartition des élèves : Binômes obligatoires

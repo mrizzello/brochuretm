@@ -1,0 +1,34 @@
+# Les mystères de notre cerveau
+
+::: {.center data-latex=""}
+![](images/les-mysteres-de-notre-cerveau.jpg){height=14em}
+:::
+
+Malgré les avancées de la recherche, le cerveau humain reste un
+incroyable mystère. Notre cerveau a une extraordinaire capacité
+d'analyse et de gestion des informations et il nous permet d'avoir une
+conscience de soi. Cependant, il est aussi très vulnérable tant à des
+impacts physiques que psychiques.
+
+Notre cerveau s'adapte et change en permanence durant toute notre vie.
+Nous savons aujourd'hui que la neuroplasticité est présente même chez
+les personnes les plus âgées. Que ce soit des émotions positives ou
+négatives, des apprentissages, des stress ou des traumatismes, le
+changement est permanent. Le sommeil, l'utilisation des technologies ou
+encore la consommation de produits addictifs a également une influence
+sur notre cerveau.
+
+Pour ce travail de maturité, qui se fera obligatoirement en binôme, vous
+devrez réaliser votre propre expérience que ce soit un sondage, des
+études de cas ou une expérience pratique, afin de recueillir et
+d'analyser des données originales. Il est possible de faire ce travail
+en français, anglais ou allemand.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Manuel Zenger_                              |
+| Répartition des élèves | Binômes obligatoires                                |
+| Langue(s)              | Allemand, Anglais, Français                                |
+| Présentation en salle  | 212                                  |
+:::

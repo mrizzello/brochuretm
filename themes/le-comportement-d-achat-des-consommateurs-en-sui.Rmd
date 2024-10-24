@@ -1,0 +1,32 @@
+# Le comportement d'achat des consommateurs en Suisse
+
+::: {.center data-latex=""}
+![](images/le-comportement-d-achat-des-consommateurs-en-sui.jpg){height=14em}
+:::
+
+La population mondiale consomme davantage de ressources que ce que les
+écosystèmes peuvent offrir. La part de la Suisse est en outre supérieure
+à la moyenne si on la ramène au nombre d'habitants. Pour que la société
+et l'économie puissent se développer sans épuiser les capacités de la
+planète, il faut établir des modes de consommation et de production plus
+durables.
+
+Est-ce que les jeunes consommateurs en Suisse sont prêts à changer leurs
+habitudes de consommation ?
+
+Dans quelle mesure les jeunes consommateurs en Suisse peuvent jouer un
+rôle pour une consommation durable ?
+
+Ce travail de maturité devra déboucher sur des recherches concrètes
+(sondage et interviews) pour découvrir et analyser les comportements
+d'achat susceptibles de favoriser une consommation durable.
+
+Ce travail de maturité est recommandé pour des groupes de 2 élèves.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Mirko Maternini_                              |
+| Répartition des élèves | Binômes obligatoires                                |
+| Présentation en salle  | 023                                  |
+:::

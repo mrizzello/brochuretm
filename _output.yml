@@ -6,7 +6,7 @@ bookdown::gitbook:
       scroll_highlight: yes
       before: |
         <li class="booklogo"><a href="./"><img src="logo.png" alt="GyEtoy" title="GyEtoy" /></a></li>
-        <li class="booktitle"><a href="./">Travaux de maturité 2024</a></li>
+        <li class="booktitle"><a href="./">Travaux de maturité 2025</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Publié à l'aide de bookdown</a></li>
     edit: null

@@ -1,0 +1,44 @@
+# Les sciences et le monde
+
+::: {.center data-latex=""}
+![](images/les-sciences-et-le-monde.jpg){height=14em}
+:::
+
+Dans l'une de ses citations les plus célèbres, Galilée décrit la nature
+comme un livre écrit dans un langage particulier : celui des
+mathématiques.
+
+La relation entre les mathématiques, la physique et notre monde est un
+sujet débattu par les humains depuis l'Antiquité. Cette discussion a
+évolué au fil des nouvelles découvertes scientifiques. Aujourd'hui, avec
+les théories surprenantes de la relativité et de la mécanique quantique,
+la question de ce qu'est réellement l'univers et de la manière dont il
+est structuré reste sans réponse définitive bien que nous disposions de
+quelques indices. Les découvertes scientifiques soulèvent un grand
+nombre de questions qui touchent, entre autres, aux différentes théories
+décrivant l'espace et le temps, à des concepts clés comme la force, la
+matière et l'énergie, ou encore au mystérieux monde quantique.
+
+En parallèle à ces thématiques spécifiques, on peut aussi s'interroger
+sur des questions plus générales, telles que l'efficacité étonnante des
+mathématiques pour nous aider à comprendre le monde physique, ou les
+relations entre anciennes et nouvelles théories ainsi que leurs
+conditions de validation. Dans votre travail de maturité, vous
+explorerez en quoi certaines découvertes scientifiques ont modifié notre
+rapport au monde en tant qu'espèce et civilisation, en vous confrontant
+à des sujets passionnants qui mettront à l'épreuve votre sens commun et
+susciteront votre curiosité. Vous travaillerez ainsi sur une
+problématique située à l'intersection des sciences exactes
+(mathématiques, physique) et de l'histoire des idées et de notre vision
+de la réalité (ce qui relève de la philosophie des sciences).
+
+Le travail peut être rédigé en français ou en anglais.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Tiziano Ferrando et M. Aymeric Perriard_                              |
+| Répartition des élèves | Indifférent                                |
+| Langue(s)              | Anglais                                |
+| Présentation en salle  | 021                                  |
+:::
