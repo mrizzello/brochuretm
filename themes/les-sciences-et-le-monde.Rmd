@@ -39,6 +39,6 @@ Le travail peut être rédigé en français ou en anglais.
 | :------------- | :----------------------------------------- |
 | Référent·e·(s)         | _M. Tiziano Ferrando et M. Aymeric Perriard_                              |
 | Répartition des élèves | Indifférent                                |
-| Langue(s)              | Anglais                                |
+| Langue(s)              | Anglais, Français                                |
 | Présentation en salle  | 021                                  |
 :::
