@@ -30,5 +30,5 @@ pratiques scolaires habituelles.
 | Référent·e·(s)         | _Mme Susanne Vital Durand, M. Rodolphe Maeusli et Mme Salomé Gaydou_                              |
 | Répartition des élèves | Indifférent                                |
 | Langue(s)              | Allemand, Français                                |
-| Présentation en salle  | 203                                  |
+| Présentation en salle  | 226                                  |
 :::
