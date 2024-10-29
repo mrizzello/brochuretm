@@ -1,4 +1,4 @@
-# SPORT ET PSYCHOLOGIE
+# Sport et Psychologie
 
 ::: {.center data-latex=""}
 ![](images/sport-et-psychologie.png){height=14em} ^[Source photo : *LA ROTONDE*, Journal Indépendant de l'Université d'Ottawa (Canada)]
