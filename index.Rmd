@@ -15,7 +15,7 @@ lang: fr
 papersize: a4
 geometry: "left=6em,right=6em,top=6em,bottom=8em"
 ---
-\clearpage
+\newpage
 
 \vspace*{\stretch{1}}
 
@@ -28,7 +28,7 @@ Distribution à :
 - Mmes et MM. les responsables de projets, avec prière d'assister à cette séance d'information et de présenter les propositions de projets dans les salles qui seront attribuées.
 :::
 
-\clearpage
+\newpage
 
 # Le mot du doyen {-}
 
@@ -63,7 +63,7 @@ Les inscriptions définitives vous seront confirmées ultérieurement.
 _M. Rizzello, Doyen_
 :::
 
-\clearpage
+\newpage
 
 ## Modalités d'inscriptions aux thèmes {-}
 

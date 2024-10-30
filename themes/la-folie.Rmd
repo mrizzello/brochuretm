@@ -41,7 +41,7 @@ manque d'intérêt, nous concerne dans ce que nous avons de propre : ne
 sommes-nous pas seuls parmi les êtres vivants à pouvoir nous démarquer
 par l'exercice de notre raison ?
 
-\clearpage
+\newpage
 
 Qu'il s'agisse du traitement social réservé à la folie dans le monde que
 nous connaissons, du vacillement angoissant qu'éveille en nous la

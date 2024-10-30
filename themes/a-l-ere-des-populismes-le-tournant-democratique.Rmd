@@ -8,8 +8,8 @@ Victoire du FPÖ en Autriche et montée de l'extrême droite en Allemagne
 en septembre 2024, succès électoraux des partis souverainistes dans de
 nombreux pays d'Europe, phénomène Jordan Bardella en France, élections
 de chef·fe·s d'État à l'instar de Giorgia Meloni en Italie, de Robert
-Fico en Slovaquie ou encore montée en puissance de la << démocratie
-illibérale >> de Viktor Orban en Hongrie, sans parler, bien
+Fico en Slovaquie ou encore montée en puissance de la "démocratie
+illibérale" de Viktor Orban en Hongrie, sans parler, bien
 évidemment, de la potentielle réélection de Donald Trump aux États-Unis.
 Voici quelques tendances politiques que nous révèle, depuis quelques
 années le paysage médiatique occidental. Le point commun de ces
@@ -19,16 +19,16 @@ droite), dans lesquels une volonté populaire cherche à marquer une
 rupture avec ce qu'elle qualifie comme une élite, au pouvoir depuis
 plusieurs décennies, parfois corrompue, et surtout déconnectée des
 réalités de la population. C'est selon ce paradigme que certains médias
-qualifient ces partis et mouvements de << populistes >>.
+qualifient ces partis et mouvements de "populistes".
 
 Mais au juste, c'est quoi, le populisme ? Et peut-on affirmer que la
-décennie que nous traversons est bel-et-bien une << ère du
-populisme >>, comme nous le laissent penser les résultats électoraux
+décennie que nous traversons est bel-et-bien une "ère du
+populisme", comme nous le laissent penser les résultats électoraux
 et les médias dans de nombreux pays d'Europe ?
 
 Dans le cadre de ce sujet de TM, vous serez amené·e·s à vous emparer de
 ces deux interrogations. Il s'agira tout d'abord de poser une définition
-du concept de << populisme >>, en étudiant notamment sa composante
+du concept de "populisme", en étudiant notamment sa composante
 historique, son utilisation, mais aussi ses complexités, ses ambigüités,
 voire ses contradictions. Après avoir posé les quelques jalons
 terminologiques indispensables au traitement de votre sujet, vous
@@ -40,16 +40,16 @@ politiques et la valeur de la démocratie. Sommes-nous à un tournant
 démocratique ? Voici une réflexion que pourrait vous apporter la
 réalisation de ce TM.
 
-\clearpage
+\newpage
 
 **Quelques exemples de sujet : **
 
 -   L'évolution de l'UDC en Suisse depuis les années 1990 : Quelles
     causes ? Quelles conséquences ?
--   La *<< démocratie illibérale >>* de Viktor Orban : Une étude de
+-   La *"démocratie illibérale"* de Viktor Orban : Une étude de
     cas sur la Hongrie
 -   Aux origines du populisme - L'émergence du concept de
-    << populisme >> au XIXème siècle.
+    "populisme" au XIXème siècle.
 -   Le populisme de gauche existe-t-il ? Points communs et différences
     avec le populisme de droite et d'extrême-droite.
 -   Analyse des résultats d'une élection récente et géographie

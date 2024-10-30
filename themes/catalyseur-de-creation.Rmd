@@ -41,7 +41,7 @@ Quelques exemples de concepts qui pourraient être abordés : 
 - la division cellulaire
 - ...
 
-\clearpage
+\newpage
 
 Les contraintes du travail : 
 

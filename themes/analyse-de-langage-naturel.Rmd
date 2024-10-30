@@ -19,3 +19,11 @@ vues pour implémenter cette solution en un site web.
 | Répartition des élèves | Indifférent                                |
 | Présentation en salle  | 346                                  |
 :::
+
+\vspace{6em}
+\begingroup
+\renewcommand{\cleardoublepage}{}
+\renewcommand{\clearpage}{}
+```{r child="themes/creez-votre-propre-jeu-video-2d-avec-unity-pygam.Rmd"}
+```
+\endgroup

@@ -1,4 +1,4 @@
-\clearpage
+\newpage
 
 ::: {.center data-latex=""}
 _Espace dédié à l'écriture de quelques phrases courtes ou fragmentaires destinées à garder en mémoire de ce qui a été vu, lu ou entendu._

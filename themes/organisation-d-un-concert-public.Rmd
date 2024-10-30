@@ -14,7 +14,7 @@ La partie écrite du TM comportera : 
 -   La gestion des aspects techniques de la régie.
 -   Les difficultés d'Aufführungspraxis (interprétation) suscitées par
     les œuvres.
--   Un << livret >> destiné aux spectateurs présentant succinctement
+-   Un "livret" destiné aux spectateurs présentant succinctement
     chacune des pièces ainsi que les musiciens du concert.
 -   Un feedback du concert.
 

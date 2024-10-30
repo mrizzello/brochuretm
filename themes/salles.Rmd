@@ -3,37 +3,38 @@
 | Thème | Salle n° |
 | :------------------------------------------------------- | --------: |
 | La folie | 035 |
-| &quot;Être, c&#039;est être différent.&quot; | 132 |
+| "Être, c'est être différent." | 132 |
 | Le silence: un vide plein? | 132 |
 | Utopies et Dystopies: du rêve au cauchemar | 136 |
 | Les  lieux de mémoire – La Suisse confrontée à son Histoire | 024 |
 | Les jeux vidéo | 228 |
-| Se raconter - raconter l&#039;autre ? | 029 |
-| Comment traduire... ? | 030 |
+| Se raconter - raconter l'autre ? | 029 |
+| Comment traduire... ? | 201 |
 | Trois décennies après la chute du mur : L’Allemagne est-elle toujours divisée ?  | 203 |
 | De Max Frisch à la BD : Transformer la littérature classique allemande en aventure illustrée | 226 |
 | Aufarbeitung der Nazi-Vergangenheit in den Nürnberger Prozessen? | 226 |
 | Stay away from Gretchen: Das besetzte Nachkriegsdeutschland - Brown Babies und die psychologischen Folgen der Besatzung | 226 |
-| L&#039;exploration du monde fascinant de l&#039;analyse multicritère | 126 |
+| L'exploration du monde fascinant de l'analyse multicritère | 126 |
 | Les sciences et le monde | 021 |
 | Les mystères de notre cerveau | 212 |
-| A l&#039;écoute du vivant | 214 |
+| A l'écoute du vivant | 214 |
 | Catalyseur de création | 105 |
 | La nutrition | 212 |
-| Ecologie &amp; Biodiversité | 205 |
+| Ecologie & Biodiversité | 205 |
 | Chimie alimentaire | 114 |
 | C’est pas sorcier  | 101 |
 | À l’ère des populismes : Le tournant démocratique ?  | 203 |
 | Journalisme et société : à la recherche des plus défavorisés | 240 |
+| Sport und Unternehmen | 321 |
 | Le Droit et les Procès : Exploration des Enjeux Juridiques et Sociaux | 030 |
 | Portfolio Börse | 321 |
-| SPORT ET PSYCHOLOGIE | 235 |
-| Elaboration d&#039;une exposition imaginaire | 128 |
-| Organisation d&#039;un concert public | 310 |
-| Composition et Réalisation d&#039;un EP / Clip vidéo musical | 310 |
+| Sport et Psychologie | 235 |
+| Elaboration d'une exposition imaginaire | 128 |
+| Organisation d'un concert public | 310 |
+| Composition et Réalisation d'un EP / Clip vidéo musical | 310 |
 |  De l’autre côté de la scène | 244 |
 | Création d’un magazine à thème : Sport ou Informatique | 221 |
-| Le comportement d&#039;achat des consommateurs en Suisse | 023 |
+| Le comportement d'achat des consommateurs en Suisse | 023 |
 | Analyse de langage naturel  | 346 |
 | Créez votre propre film d’animation ou votre premier objet 3D avec Blender | 320 |
 | Créez votre propre serveur HTTP sous GNU/Linux  | 320 |

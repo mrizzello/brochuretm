@@ -30,7 +30,7 @@ citoyens sont protégés ou parfois mis en cause.
     moraux qui peuvent surgir dans le cadre des procès, notamment en
     lien avec les évolutions sociales et les droits fondamentaux.
 
-\clearpage
+\newpage
 
 [Approche méthodologique]{.underline}
 

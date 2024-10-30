@@ -42,7 +42,7 @@ par exemple : 
 Et tout ceci dans le but de mieux comprendre, gérer et conserver les
 espèces ou des écosystèmes.
 
-\clearpage
+\newpage
 
 Lors de ce travail de maturité sur le thème de la bioacoustique, il vous
 sera demandé pour illustrer votre problématique d'utiliser des appareils

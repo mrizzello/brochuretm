@@ -1,4 +1,4 @@
-\clearpage
+\newpage
 
 \vspace*{\stretch{1}}
 
@@ -10,4 +10,4 @@
 
 \vspace*{\stretch{1}}
 
-\clearpage
+\newpage

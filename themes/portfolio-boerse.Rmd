@@ -13,3 +13,11 @@ Anschluss warum die Wahl IHres Portfolios erfolgreich war oder nicht.
 | Langue(s)              | Allemand                                |
 | Présentation en salle  | 321                                  |
 :::
+
+\vspace{6em}
+\begingroup
+\renewcommand{\cleardoublepage}{}
+\renewcommand{\clearpage}{}
+```{r child="themes/sport-und-unternehmen.Rmd"}
+```
+\endgroup

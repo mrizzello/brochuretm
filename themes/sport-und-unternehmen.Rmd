@@ -1,0 +1,14 @@
+# Sport und Unternehmen
+
+Die Verbindung zwischen Wirtschaft und Sport. Anhand des Beispiels
+Jürgen Klopp und dem Unternehmen Red Bull analysieren Sie die
+Zusammenhänge.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _Mme Verena Kottmeier_                              |
+| Répartition des élèves | Indifférent                                |
+| Langue(s)              | Allemand                                |
+| Présentation en salle  | 030                                  |
+:::

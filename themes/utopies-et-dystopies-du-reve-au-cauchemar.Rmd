@@ -40,7 +40,7 @@ extraire les enjeux centraux.
 Ce travail de maturité peut être rédigé en français ou en anglais. Il
 peut être réalisé individuellement ou par deux.
 
-\clearpage
+\newpage
 
 Possibles oeuvres à explorer : 
 

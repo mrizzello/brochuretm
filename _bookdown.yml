@@ -44,6 +44,7 @@ rmd_files:
 #Histoire
   - themes/journalisme-et-societe-a-la-recherche-des-plus-d.Rmd
 #Économie et droit
+  # - themes/sport-und-unternehmen.Rmd
   - themes/portfolio-boerse.Rmd
   - themes/le-droit-et-les-proces-exploration-des-enjeux-ju.Rmd
 #Psychologie/Pédagogie
@@ -58,7 +59,7 @@ rmd_files:
   - themes/creation-d-un-magazine-a-theme-sport-ou-informat.Rmd
   - themes/le-comportement-d-achat-des-consommateurs-en-sui.Rmd
 #Informatique
-  - themes/analyse-de-langage-naturel.Rmd
   - themes/creez-votre-propre-film-d-animation-ou-votre-pre.Rmd
-  - themes/creez-votre-propre-serveur-http-sous-gnu-linux.Rmd
-  - themes/creez-votre-propre-jeu-video-2d-avec-unity-pygam.Rmd
+  # - themes/creez-votre-propre-serveur-http-sous-gnu-linux.Rmd
+  - themes/analyse-de-langage-naturel.Rmd
+  # - themes/creez-votre-propre-jeu-video-2d-avec-unity-pygam.Rmd

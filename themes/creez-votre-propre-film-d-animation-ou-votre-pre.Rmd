@@ -14,7 +14,7 @@ personnages se rencontrent et se serrent la main, l'éclosion d'une
 fleur imaginaire, création d'un petit objet de décor, accessoire de
 costumes, etc.). Au fil de ce travail, vous apprendrez les bases de
 l'animation 3D et documenterez chaque étape de la création de votre
-production. << 
+production. "
 
 ::: {.small data-latex=""}
 |                        |                                            |
@@ -23,3 +23,11 @@ production. << 
 | Répartition des élèves | Indifférent                                |
 | Présentation en salle  | 320                                  |
 :::
+
+\vspace{6em}
+\begingroup
+\renewcommand{\clearpage}{}
+\renewcommand{\newpage}{}
+```{r child="themes/creez-votre-propre-serveur-http-sous-gnu-linux.Rmd"}
+```
+\endgroup
