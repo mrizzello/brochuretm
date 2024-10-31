@@ -29,7 +29,7 @@ vidéo.
 
 Dans le travail écrit, vous présenterez vos compositions (accords,
 paroles ou partitions) ainsi que les différentes techniques de
-composition, d'enregistrement, d'édition musicales et vidéos que vous
+composition, d'enregistrement, d'éditions musicales et vidéos que vous
 aurez acquises durant tout le processus.
 
 ::: {.small data-latex=""}
