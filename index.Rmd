@@ -85,7 +85,7 @@ Les thèmes seront attribués dans la limite des places disponibles et, dans la 
 
 __Inscription en binôme__
 
-Les élèves qui souhaitent s'inscrire à un thème en binôme peuvent le faire pour les thèmes où la répartition des élèves mentionne les formules "Binômes conseillés" ou "Binômes obligatoires".
+Les élèves qui souhaitent s'inscrire à un thème en binôme peuvent le faire pour les thèmes où la répartition des élèves mentionne les formules "Binômes conseillés", "Binômes obligatoires" ou "Indifférent".
 
 Dans ce cas, les trois choix et les ordres de préférence doivent être identiques pour les deux membres du binôme.
 
