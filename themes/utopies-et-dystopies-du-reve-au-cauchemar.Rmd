@@ -62,6 +62,6 @@ Possibles oeuvres à explorer : 
 | :------------- | :----------------------------------------- |
 | Référent·e·(s)         | _Mme Swaha Somanadan et Mme Elodie Viret_                              |
 | Répartition des élèves | Indifférent                                |
-| Langue(s)              | Anglais                                |
+| Langue(s)              | Anglais, Français                                |
 | Présentation en salle  | 136                                  |
 :::
