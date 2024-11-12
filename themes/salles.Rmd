@@ -39,3 +39,4 @@
 | Créez votre propre film d’animation ou votre premier objet 3D avec Blender | 320 |
 | Créez votre propre serveur HTTP sous GNU/Linux  | 320 |
 | Créez votre propre jeu vidéo 2D avec Unity, pygame ou autre ! | 347 |
+| Création vidéo : documentaire ou fiction ? | 229 |
