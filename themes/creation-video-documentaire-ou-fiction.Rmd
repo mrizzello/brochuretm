@@ -27,7 +27,7 @@ questionnent.
 ::: {.small data-latex=""}
 |                        |                                            |
 | :------------- | :----------------------------------------- |
-| Référent·e·(s)         | _M. Mael DREZEN_                              |
+| Référent·e·(s)         | _M. Mael Drezen_                              |
 | Répartition des élèves | Binômes obligatoires                                |
 | Langue(s)              | Anglais, Français                                |
 | Présentation en salle  | 229                                  |
