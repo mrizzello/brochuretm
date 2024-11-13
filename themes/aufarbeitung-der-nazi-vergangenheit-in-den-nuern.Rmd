@@ -38,6 +38,6 @@ Experimenten an KZ-Häftlingen beteiligt waren.
 | :------------- | :----------------------------------------- |
 | Référent·e·(s)         | _Mme Susanne Vital Durand_                              |
 | Répartition des élèves | Indifférent                                |
-| Langue(s)              | Allemand                                |
+| Langue(s)              | Allemand, Français                                |
 | Présentation en salle  | 226                                  |
 :::
