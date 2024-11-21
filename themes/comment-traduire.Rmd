@@ -21,6 +21,6 @@ traducteur·trice et de vous mettre à la tâche, selon vos intérêts.
 | :------------- | :----------------------------------------- |
 | Référent·e·(s)         | _Mme Samantha Steiner_                              |
 | Répartition des élèves | Indifférent                                |
-| Langue(s)              | Anglais                                |
+| Langue(s)              | Anglais, Français                                |
 | Présentation en salle  | 201                                  |
 :::
