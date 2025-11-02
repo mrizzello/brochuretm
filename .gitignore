@@ -9,3 +9,5 @@ rsconnect
 *.log
 *.aux
 *.toc
+slide-presentation.key
+.texpadtmp/
