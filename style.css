@@ -1,7 +1,6 @@
 .book .book-header h1 a,
+#header > h1 > p,
 #header > h1 > p > img{display:none}
-
-#header > h1 > p{text-align: left;}
 
 i.fa.fa-file-pdf-o {
   color: red;
