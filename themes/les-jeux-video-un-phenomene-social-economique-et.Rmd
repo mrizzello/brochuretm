@@ -1,6 +1,6 @@
 # Les jeux vidéo : un phénomène social, économique et politique
 
-## Choisissez votre jeu vidéo favoris comme source de recherche {-}
+## Choisissez votre jeu vidéo favori comme source de recherche {-}
 ::: {.center data-latex=""}
 ![](images/les-jeux-video-un-phenomene-social-economique-et.png){height=16em}
 :::
