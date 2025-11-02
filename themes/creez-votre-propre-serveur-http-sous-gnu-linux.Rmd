@@ -9,12 +9,20 @@ front-end (HTML, CSS, JS) et le back-end (PHP et MySQL), tout en
 appliquant le CRUD (Create, Read, Update, Delete) pour la gestion des
 données. Ce projet n'utilisera que des logiciels libres. Une fois le
 développement local terminé et testé, la deuxième phase du projet
-consistera à déployer le serveur sur un Raspberry Pi.
+consistera à déployer le serveur sur un Raspberry Pi. D'autres
+extensions pourraient être envisagées.
 
 ::: {.small data-latex=""}
 |                        |                                            |
 | :------------- | :----------------------------------------- |
-| Référent·e·(s)         | _M. Mourad Ahmane_                              |
-| Répartition des élèves | Indifférent                                |
-| Présentation en salle  | 320                                  |
+| Référent·e·(s)         | _M. Mourad AHMANE_                              |
+| Répartition des élèves | Binômes conseillés                                |
+| Présentation en salle  | 321                                  |
 :::
+
+\vspace{6em}
+\begingroup
+\renewcommand{\clearpage}{}
+```{r child="themes/creez-votre-propre-jeu-video-avec-unity-ou-pygam.Rmd"}
+```
+\endgroup

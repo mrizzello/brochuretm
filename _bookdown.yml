@@ -1,4 +1,4 @@
-book_filename: "brochures-TM-2025"
+book_filename: "brochures-TM-2026"
 output_dir: "_book"
 language:
   ui:
@@ -7,60 +7,57 @@ delete_merged_file: true
 rmd_files:
   - "index.Rmd"
 #- "cadre/illustration.Rmd"
-  - "themes/salles.Rmd"
   - "cadre/rappel.Rmd"
   - "cadre/objectifs.Rmd"
   - "cadre/calendrier.Rmd"
-  - "cadre/title-themes.Rmd"
+  - "themes/salles.Rmd"
+  # - "cadre/title-themes.Rmd"
 #Français
-  - themes/se-raconter-raconter-l-autre.Rmd
+  - themes/il-fallait-bien-etre-juste-en-des-temps-si-obscu.Rmd
+  - themes/utopies-et-dystopies.Rmd
   - themes/la-folie.Rmd
+  - themes/les-jeux-video-un-phenomene-social-economique-et.Rmd
   - themes/etre-c-est-etre-different.Rmd
-  - themes/le-silence-un-vide-plein.Rmd
-  - themes/utopies-et-dystopies-du-reve-au-cauchemar.Rmd
-  - themes/les-lieux-de-memoire-la-suisse-confrontee-a-son-.Rmd
-  - themes/les-jeux-video.Rmd
-  - themes/comment-traduire.Rmd
+  - themes/se-raconter-raconter-l-autre.Rmd
 #Langues vivantes
-  - themes/trois-decennies-apres-la-chute-du-mur-l-allemagn.Rmd
-  - themes/de-max-frisch-a-la-bd-transformer-la-litterature.Rmd
-  - themes/aufarbeitung-der-nazi-vergangenheit-in-den-nuern.Rmd
-  - themes/stay-away-from-gretchen-das-besetzte-nachkriegsd.Rmd
+  - themes/conter-et-transmettre-de-l-histoire-au-spectacle.Rmd
+  - themes/gender-through-the-lens-of-literature.Rmd
+  # - themes/l-art-spolie-durant-la-seconde-guerre-mondiale.Rmd
 #Mathématiques
   - themes/l-exploration-du-monde-fascinant-de-l-analyse-mu.Rmd
   - themes/les-sciences-et-le-monde.Rmd
+  - themes/democratie-et-theorie-des-jeux-experimenter-les-.Rmd
+  - themes/calculer-pi.Rmd
 #Biologie
   - themes/les-mysteres-de-notre-cerveau.Rmd
-  - themes/a-l-ecoute-du-vivant.Rmd
+  - themes/l-eau.Rmd
   - themes/catalyseur-de-creation.Rmd
-  - themes/la-nutrition.Rmd
   - themes/ecologie-biodiversite.Rmd
 #Chimie
-  - themes/chimie-alimentaire.Rmd
+  - themes/liberte-chimique.Rmd
 #Physique
   - themes/c-est-pas-sorcier.Rmd
 #Géographie
-  - themes/a-l-ere-des-populismes-le-tournant-democratique.Rmd
+  - themes/et-si-la-crise-ecologique-en-cours-n-etait-rien-.Rmd
+  - themes/creation-video-documentaire-ou-fiction.Rmd
 #Histoire
   - themes/journalisme-et-societe-a-la-recherche-des-plus-d.Rmd
 #Économie et droit
-  # - themes/sport-und-unternehmen.Rmd
-  - themes/portfolio-boerse.Rmd
-  - themes/le-droit-et-les-proces-exploration-des-enjeux-ju.Rmd
-#Psychologie/Pédagogie
-  - themes/sport-et-psychologie.Rmd
-#Arts visuels
-  - themes/elaboration-d-une-exposition-imaginaire.Rmd
+  - themes/devenir-enseignant-e-concevoir-votre-sequence-de.Rmd
+  - themes/marketing-marke.Rmd
+  # - themes/wirtschaft-und-sport.Rmd
 #Musique
   - themes/organisation-d-un-concert-public.Rmd
   - themes/composition-et-realisation-d-un-ep-clip-video-mu.Rmd
-  - themes/de-l-autre-cote-de-la-scene.Rmd
 #Autre
-  - themes/creation-d-un-magazine-a-theme-sport-ou-informat.Rmd
-  - themes/le-comportement-d-achat-des-consommateurs-en-sui.Rmd
+  - themes/l-enfance-migrante.Rmd
+  - themes/le-monde-a-notre-portee.Rmd
+  - themes/etre-deconnecte-un-reve-une-quete-ou-une-necessi.Rmd
+  - themes/la-science-face-aux-phenomenes-paranormaux.Rmd
+#Education physique et sportive
+  - themes/creation-d-un-magazine-sportif.Rmd
 #Informatique
-  - themes/creez-votre-propre-film-d-animation-ou-votre-pre.Rmd
-  # - themes/creez-votre-propre-serveur-http-sous-gnu-linux.Rmd
-  - themes/analyse-de-langage-naturel.Rmd
-  # - themes/creez-votre-propre-jeu-video-2d-avec-unity-pygam.Rmd
-  - themes/creation-video-documentaire-ou-fiction.Rmd
+  - themes/du-plateau-au-pixel-creer-et-promouvoir-un-jeu-d.Rmd
+  - themes/cybersecurite-et-hacking-ethique-a-l-ere-de-l-in.Rmd
+  - themes/creez-votre-propre-serveur-http-sous-gnu-linux.Rmd
+  # - themes/creez-votre-propre-jeu-video-avec-unity-ou-pygam.Rmd

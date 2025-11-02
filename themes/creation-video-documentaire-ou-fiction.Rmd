@@ -1,22 +1,20 @@
-# Création vidéo : documentaire ou fiction ?
+# Création vidéo, documentaire ou fiction ?
 
-## Prenez la caméra et racontez nous une histoire. {-}
+## Avec votre caméra, racontez-nous une histoire ! {-}
 ::: {.center data-latex=""}
-![](images/creation-video-documentaire-ou-fiction.png){height=14em}
+![](images/creation-video-documentaire-ou-fiction.png){height=16em}
 :::
-**Résumé**
+Créez votre propre projet vidéo. Qu'il s'agisse d'un **reportage sur
+un défi sportif** comme le tour du Mont-Blanc en cinq jours, d'une
+**enquête** sur l'accueil des réfugié·es dans le canton de Vaud ou
+encore d'un **court métrage de fiction**, les options sont multiples et
+variées.
 
-Participez à la création de votre propre projet vidéo. Qu'il s'agisse
-d'un reportage sur un défi sportif comme le tour du Mont-Blanc en cinq
-jours, d'une enquête sur l'accueil des réfugié·es dans le canton de
-Vaud ou encore d'un court métrage de fiction, les options sont
-multiples et variées.
-Vous pouvez même exploiter des formats populaires comme TikTok pour
-maîtriser les codes de la vidéo moderne.
 Choisissez de vous tourner vers le documentaire, la fiction, ou explorez
-des formats plus artistiques et poétiques. Le maître-mot : la vidéo.
-En binôme, plongez dans des sujets qui vous passionnent : actualité,
-sport, société...
+des formats plus artistiques et poétiques. Le maître-mot :  **la
+vidéo**.
+En binôme, plongez dans des sujets qui vous passionnent : cinéma,
+actualité, sport, société...
 Du choix de l'histoire à raconter jusqu'au montage final, vous serez
 accompagné·es à chaque étape : trouver un sujet, définir un scénario,
 choisir la méthodologie, organiser le tournage, et gérer la
@@ -27,8 +25,8 @@ questionnent.
 ::: {.small data-latex=""}
 |                        |                                            |
 | :------------- | :----------------------------------------- |
-| Référent·e·(s)         | _M. Mael Drezen_                              |
-| Répartition des élèves | Binômes obligatoires                                |
+| Référent·e·(s)         | _M. Mael DREZEN_                              |
+| Répartition des élèves | Binômes conseillés                                |
 | Langue(s)              | Anglais, Français                                |
 | Présentation en salle  | 229                                  |
 :::

@@ -1,0 +1,43 @@
+# Liberté chimique
+
+## Sciences expérimentales {-}
+::: {.center data-latex=""}
+![](images/liberte-chimique.jpg){height=16em}
+:::
+Qu'ont en commun un feu d'artifice, une encre invisible ou encore un
+parfum ? Tous sont le fruit de réactions chimiques mises en scène par la
+curiosité et l'imagination humaine. Ce travail de maturité vous propose
+d'explorer la chimie : celle de comprendre, de créer et d'expérimenter
+la matière.
+
+À travers ce thème, vous pourrez laisser libre cours à votre inventivité
+scientifique : 
+
+-   Comment fabrique-t-on un parfum équilibré entre science et art ?
+-   Peut-on créer un "spectacle de magie" avec des réactions sûres mais
+    spectaculaires ?
+-   Comment les solutions changent-elles de couleurs selon leurs
+    propriétés ?
+-   Comment concevoir des expériences originales aux propriétés
+    étonnantes ?
+-   Quelle est le rôle de chaque ingrédient et de chaque étape d'une
+    recette de cuisine ?
+-   ...
+
+La chimie pouvant être résumée par l'étude du changement (W.W.
+20.01.08), ce travail vous invite à comprendre les mécanismes chimiques
+à l'origine de ces phénomènes, à formuler des hypothèses, à concevoir
+vos propres protocoles expérimentaux et à analyser vos résultats avec
+rigueur.
+
+En résumé, vous plongerez dans un sujet ou des expériences de votre
+choix afin d'étudier à l'aide d'une méthodologie scientifique les
+réactions et enjeux présents.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Romain Gippa_                              |
+| Répartition des élèves | Binômes obligatoires                                |
+| Présentation en salle  | 105                                  |
+:::

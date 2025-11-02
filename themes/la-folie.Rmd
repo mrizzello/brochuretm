@@ -1,7 +1,7 @@
 # La folie
 
 ::: {.center data-latex=""}
-![](images/la-folie.jpg){height=14em}
+![](images/la-folie.jpg){height=16em}
 :::
 Comment se comporter face à la folie ? Faut-il adopter le regard du
 scientifique, du psychologue clinicien qui veut fournir une thérapie ?
@@ -14,9 +14,9 @@ brouillent et s'échappent vers l'horizon indécis de l'incertitude ?
 Bateau de fous qui erre sans but sur sa trajectoire irrésolue ! Tous ces
 noms nouveaux : fureur, schizophrénie, délire, démence, trouble de la
 personnalité multiple, manie, perversité constitutionnelle, maladie
-mentale, dégénérescence, etc. Mais peut-être que la folie n'est-elle
-rien d'autre qu'une transgression morale -- un vice parmi d'autres ?
-Maladie du corps ou maladie de l'âme ? La folie résiste à nos
+mentale, dégénérescence, etc. Mais peut-être la folie n'est-elle rien
+d'autre qu'une transgression morale -- un vice parmi d'autres ? Maladie
+du corps ou maladie de l'âme ? La folie résiste à nos
 catégories : impunissable, elle exige des circonstances particulières.
 Et si le criminel n'avait pas accompli l'acte ? Est-il responsable de
 son action si c'est une autre personnalité qui a pris possession de son
@@ -28,7 +28,7 @@ autant fou de rage que d'amour ? Ne sombre-t-on pas tout autant dans la
 folie par désespoir que par passion ? Que d'obscurité entoure la
 présence obsédante de l'irrationalité ! Que d'angoisse et d'inquiétude
 enveloppent le dérangement de la pensée ! Mais il existe aussi des fêtes
-des fous, des fêtes de l'ânerie, de la bêtise, et de l'absurdité, où
+des fous, des fêtes de l'ânerie, de la bêtise et de l'absurdité, où
 l'organisation de la société est, pour un bref instant, suspendue dans
 le vide.
 
@@ -58,7 +58,7 @@ folie, une envie de penser, et une dose de curiosité.
 ::: {.small data-latex=""}
 |                        |                                            |
 | :------------- | :----------------------------------------- |
-| Référent·e·(s)         | _M. Jeremy Filthuth et M. Michaël Puentes_                              |
+| Référent·e·(s)         | _M. Jeremy Filthuth et M. Thomas Tixhon_                              |
 | Répartition des élèves | Travail individuel                                |
-| Présentation en salle  | 035                                  |
+| Présentation en salle  | 032                                  |
 :::

@@ -1,0 +1,42 @@
+# Les jeux vidéo : un phénomène social, économique et politique
+
+## Choisissez votre jeu vidéo favoris comme source de recherche {-}
+::: {.center data-latex=""}
+![](images/les-jeux-video-un-phenomene-social-economique-et.png){height=16em}
+:::
+Depuis une dizaine d'années, la pratique du jeu vidéo s'est répandue à
+une large partie de la population. Bien que de nombreuses personnes
+aient accusé ce divertissement d'être à l'origine de violences ou de
+provoquer l'isolement des gameurs·euses, nous parlons actuellement du
+<< 10^e^ art* >>* pour nommer les jeux vidéo.
+
+La stratégie de cette industrie ne se repose pas uniquement sur le degré
+de divertissement qu'ils procurent, mais également sur leur impact
+visuel comme intellectuel. Ainsi a-t-on réalisé d'impressionnants
+progrès dans le développement réaliste des graphismes, dans la
+complexité des scénarios et dans la diversité du gameplay.
+
+Tout en laissant place à des produits originaux et conceptuels, les
+développeurs·ses tendent donc à mêler le réel à la fiction en ouvrant le
+champ à de nouvelles réflexions : comment représenter la société, le
+genre, la femme ? Comment simuler l'histoire, la gestion, les métiers ?
+Comment vous permettre à vous, gameurs·euses, de vous immerger
+pleinement dans un univers fictif ?
+
+La finalité de ce travail de maturité est d'interroger le *10^e^ art* à
+travers la diversité des thématiques qu'il rend possible, notamment
+économiques, sociales, politiques, philosophiques, psychologiques,
+artistiques, etc. Pour répondre à votre problématique, vous choisirez un
+jeu vidéo que vous analyserez en tant que source primaire.
+
+Ce sujet, vaste, vous laisse donc la liberté de proposer diverses
+problématiques faisant appel à votre pratique, hautement recommandée,
+des jeux vidéo.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Loïc Moser et M. Alan Morier_                              |
+| Répartition des élèves | Binômes conseillés                                |
+| Présentation en salle  | 235                                  |
+:::

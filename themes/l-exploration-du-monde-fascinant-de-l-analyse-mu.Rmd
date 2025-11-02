@@ -1,9 +1,8 @@
 # L'exploration du monde fascinant de l'analyse multicritère
 
 ::: {.center data-latex=""}
-![](images/l-exploration-du-monde-fascinant-de-l-analyse-mu.png){height=14em}
+![](images/l-exploration-du-monde-fascinant-de-l-analyse-mu.png){height=16em}
 :::
-
 Dans la vie réelle, le choix entre alternatives se fait souvent sur la
 base de plusieurs critères. Par exemple, pour l'achat d'une voiture il
 n'y a pas que le prix qui compte mais également d'autres critères
@@ -36,5 +35,5 @@ abordées.
 | :------------- | :----------------------------------------- |
 | Référent·e·(s)         | _M. Ahmed Bufardi_                              |
 | Répartition des élèves | Binômes conseillés                                |
-| Présentation en salle  | 126                                  |
+| Présentation en salle  | 221                                  |
 :::

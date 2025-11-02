@@ -1,12 +1,11 @@
 # "Être, c'est être différent."
 
 ::: {.center data-latex=""}
-![](images/etre-c-est-etre-different.jpg){height=14em}
+![](images/etre-c-est-etre-different.jpg){height=16em}
 :::
-
 La différence, qu'elle soit abordée au niveau de l'identité personnelle,
-de la relation avec l'Autre ou des rapports sociaux, est un sujet "à
-la mode". Si le message contenu dans le titre proposé comme thème
+de la relation avec l'Autre ou des rapports sociaux, est un sujet << à
+la mode >>. Si le message contenu dans le titre proposé comme thème
 pour ce TM est admis communément en théorie, le droit à la différence ne
 semble pas aller de soi.
 
@@ -15,8 +14,8 @@ constant de marginalisation, risque qui se transforme en réalité lorsque
 l'autre se voit identifié à son altérité, autrement dit quand le roux,
 le noir, l'homosexuel, le timide, le handicapé, le malade mental sont
 réduits, dans tout ce qu'ils pensent, disent ou font, à leur différence.
-Les voilà donc devenus "purement l'autre", "le rien que
-l'autre, "le seulement autre." Pourtant, chacun d'entre nous
+Les voilà donc devenus << purement l'autre >>, << le rien que
+l'autre, << le seulement autre. >> Pourtant, chacun d'entre nous
 tend à la différence, à sortir du lot, à faire la différence, par sa
 manière d'être, de s'habiller, par son mode de vie. On a tous besoin
 d'affirmer notre particularité, notre désir de ne pas être confondu(e),
@@ -38,5 +37,5 @@ de production littéraire/artistique.
 | :------------- | :----------------------------------------- |
 | Référent·e·(s)         | _Mme Anamaria Terrier_                              |
 | Répartition des élèves | Indifférent                                |
-| Présentation en salle  | 132                                  |
+| Présentation en salle  | 131                                  |
 :::

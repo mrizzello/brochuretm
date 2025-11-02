@@ -1,0 +1,73 @@
+# Utopies et dystopies
+
+::: {.center data-latex=""}
+![](images/utopies-et-dystopies.png){height=16em}
+:::
+> *When we read dystopia, we root for these people to break free because
+> we are these people ; hoping and fighting against things that are bigger
+> than ourselves.*
+> Ally Condie
+
+Ce sujet invite à une réflexion sur la manière dont la littérature
+propose des mondes alternatifs, utopiques ou dystopiques, pour
+questionner notre réalité. À la lecture d'un texte utopique, nous
+découvrons la société que son auteur·rice a pensé comme idéale et
+pouvons déceler, en filigrane, une critique de la réalité dans laquelle
+il·elle évolue. Quelles sont les caractéristiques récurrentes de ces
+mondes où règnent la perfection sociale et politique ? Quelles solutions
+sont proposées pour pallier aux problèmes rencontrés par nos sociétés ?
+
+Chaque utopie navigue toutefois à travers un certain nombre de paradoxes
+et les règles organisant ces mondes parfaits peuvent les mener à
+l'autoritarisme et à la déshumanisation. Les écrivain·e·s se sont
+saisi·e·s de ce renversement pour réfléchir et mettre en garde face à
+des futurs possibles et effrayants. Comment des œuvres telles que 1984
+de George Orwell, Le Meilleur des mondes d'Aldous Huxley ou encore la
+Servante écarlate de Margaret Atwood reflètent les craintes de leur
+époque et mettent en garde face à de potentielles dérives ?
+
+Ce travail s'articule en deux parties. Dans un premier temps, il s'agira
+de réaliser une recherche approfondie sur les concepts d'utopie et de
+dystopie ainsi que sur leurs caractéristiques. La seconde partie du
+travail de maturité peut prendre deux formes différentes. Vous pourrez
+mettre à profit la recherche que vous avez effectuée en amont en
+produisant un texte créatif où vous proposerez votre propre utopie /
+dystopie. Il est également possible de mobiliser ces connaissances afin
+d'analyser un ou plusieurs récits existants et d'en extraire les enjeux
+tant historiques que littéraires.
+
+Ce travail de maturité peut être rédigé en français ou en anglais. Il
+peut être réalisé individuellement ou par deux.
+
+\newpage
+
+Possibles œuvres à explorer : 
+
+- Aldous Huxley, *Brave New World*
+- George Orwell, *1984*
+- Margaret Atwood, *The Handmaid's Tale*
+- Lois Lowry, *The Giver Quartet*
+- William Golding, *Lord of the Flies*
+- Philip K. Dick, *The Man in the High Castle*
+- Kazuo Ishiguro, *Never Let Me Go*
+- Thomas More, *L'Utopie ou la meilleure forme de gouvernement*
+- Ray Bradbury, *Fahrenheit 451*
+- Scott Westerfield, *Uglies*
+- Georges Perec, *W ou le souvenir d'enfance*
+- Ursula K. Le Guin, *The Dispossessed*
+- Monique Wittig, *Les Guérillères*
+- Marie-Jeanne Urech, *K comme Almanach*
+- René Barjavel, *Ravage*
+
+Illustration : François Schuiten, Autoportrait, encre de Chine, lavis,
+acrylique et crayons de couleur, 46,9 x 36,4 cm, 2003, collection
+particulière.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _Mme Elodie Viret, Mme Samantha Steiner et Mme Pauline Meylan_                              |
+| Répartition des élèves | Binômes conseillés                                |
+| Langue(s)              | Anglais, Français                                |
+| Présentation en salle  | 230                                  |
+:::

@@ -1,0 +1,47 @@
+# L'eau
+
+::: {.center data-latex=""}
+![](images/l-eau.jpeg){height=15em}
+:::
+L'eau est au cœur de la biologie, car elle constitue le milieu de vie
+dans lequel toute forme de vie a émergé. Des premières cellules aux
+organismes multicellulaires, des premiers végétaux aux animaux, l'eau a
+joué un rôle primordial dans l'évolution de la vie sur Terre.
+
+Elle représente environ 60 % de la masse corporelle des organismes,
+soulignant son rôle vital dans tous les processus biologiques. Cela
+explique aussi pourquoi elle est également l'une des premières sources
+de conflits mondiaux présents et futurs.
+
+A travers ce TM, je vous invite à découvrir l'eau à travers le regard
+des biologistes.
+
+Voici quelques exemples non exhaustifs de champs d'études possibles : 
+
+- L'eau comme élément de vie,  
+Exemple : Etude des écosystèmes aquatiques et /ou de la qualité des
+rivières et des lacs.
+- L'eau comme vecteur de maladie,  
+Exemple : Epidémiologie nutritionnelle (étude des maladies
+épidémiologiques en lien avec la nutrition et l'eau).
+- L'eau comme ressource à conserver et à protéger,  
+Exemple : Etudes des ressources d'eau potable en Suisse.
+- Le cycle de l'eau et ses impacts biologiques,  
+Exemple : Etude de l'impact visible du changement climatique sur le
+cycle de l'eau.
+- Les solutions pour une gestion durable de l'eau.  
+Découvrez les recherches sur les technologies de purification de l'eau,
+la gestion des ressources aquatiques et les pratiques visant à utiliser
+l'eau de manière plus responsable.
+
+Les travaux de maturité seront réalisés en binôme, favorisant une
+approche collaborative et une réflexion approfondie sur les enjeux
+biologiques de l'eau.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _Mme Sophie Guernier_                              |
+| Répartition des élèves | Binômes obligatoires                                |
+| Présentation en salle  | 205                                  |
+:::

@@ -1,9 +1,8 @@
 # Ecologie & Biodiversité
 
 ::: {.center data-latex=""}
-![](images/ecologie-biodiversite.jpeg){height=14em}
+![](images/ecologie-biodiversite.jpeg){height=16em}
 :::
-
 L'écologie est la science qui s'intéresse aux écosystèmes,
 c'est-à-dire : aux interactions des organismes vivants entre eux et
 avec leur environnement.
@@ -24,5 +23,5 @@ terrain pour répondre à une question scientifique en lien avec ce thème.
 | :------------- | :----------------------------------------- |
 | Référent·e·(s)         | _M. Arnaud Strubin_                              |
 | Répartition des élèves | Binômes obligatoires                                |
-| Présentation en salle  | 205                                  |
+| Présentation en salle  | 214                                  |
 :::

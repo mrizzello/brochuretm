@@ -1,9 +1,8 @@
 # Les mystères de notre cerveau
 
 ::: {.center data-latex=""}
-![](images/les-mysteres-de-notre-cerveau.jpg){height=14em}
+![](images/les-mysteres-de-notre-cerveau.jpg){height=16em}
 :::
-
 Malgré les avancées de la recherche, le cerveau humain reste un
 incroyable mystère. Notre cerveau a une extraordinaire capacité
 d'analyse et de gestion des informations et il nous permet d'avoir une
@@ -27,8 +26,8 @@ en français, anglais ou allemand.
 ::: {.small data-latex=""}
 |                        |                                            |
 | :------------- | :----------------------------------------- |
-| Référent·e·(s)         | _M. Manuel Zenger_                              |
+| Référent·e·(s)         | _M. Manuel Zenger et Mme Esma Puric_                              |
 | Répartition des élèves | Binômes obligatoires                                |
-| Langue(s)              | Allemand, Anglais, Français                                |
+| Langue(s)              | Allemand, Anglais, Italien, Français                                |
 | Présentation en salle  | 212                                  |
 :::

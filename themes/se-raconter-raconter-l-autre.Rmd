@@ -1,19 +1,16 @@
-# Se raconter - raconter l'autre ?
-
-## Création d'un texte autobiographique {-}
+# Se raconter - raconter l'autre?
 
 ::: {.center data-latex=""}
-![](images/se-raconter-raconter-l-autre.png){height=14em} ^[Image : Yayoi Kusama, Infinity Mirror Room (Phalli's Field) (1965).]
+![](images/se-raconter-raconter-l-autre.png){height=16em}
 :::
-
-"Autobiographie" ? Écrire, par soi-même, sa vie. Ce projet --
+<< Autobiographie >> ? Écrire, par soi-même, sa vie. Ce projet --
 devenu un véritable genre littéraire, tant il a été pratiqué -- peut
 parfois nous rebuter : 
 
--   "S'écrire soi-même : c'est narcissique, nombriliste !"
--   "Que vais-je donc écrire sur ma vie, moi qui n'ai vécu que seize
-    ans ?"
--   "Ma vie ? C'est sans intérêt..."
+- << S'écrire soi-même : c'est narcissique, nombriliste ! >>
+- << Que vais-je donc écrire sur ma vie, moi qui n'ai vécu que seize
+ans ? >>
+- << Ma vie ? C'est sans intérêt... >>
 
 Or, écrire sa vie, ce n'est jamais s'écrire tout·e seul·e, en excluant
 les autres (ces êtres aimés, chéris ou haïs) du champ de l'écriture, ces
@@ -39,10 +36,12 @@ création d'ordre littéraire, est absolument ouvert à tous·tes, et ne
 demande aucun prérequis ; ou, simplement, un goût, une curiosité pour
 l'activité d'écriture, et pour la pensée...
 
+Image : Yayoi Kusama, *Infinity Mirror Room* (Phalli's Field) (1965).
+
 ::: {.small data-latex=""}
 |                        |                                            |
 | :------------- | :----------------------------------------- |
-| Référent·e·(s)         | _M. Michaël Puentes, M. Julien Besuchet et Mme Elodie Viret_                              |
+| Référent·e·(s)         | _Mme Coralie Gil, M. Michaël Puentes et M. Julien Besuchet_                              |
 | Répartition des élèves | Travail individuel                                |
-| Présentation en salle  | 141                                  |
+| Présentation en salle  | 024                                  |
 :::

@@ -1,0 +1,50 @@
+# Cybersécurité et hacking éthique à l’ère de l’intelligence artificielle
+
+::: {.center data-latex=""}
+![](images/cybersecurite-et-hacking-ethique-a-l-ere-de-l-in.jpg){height=16em}
+:::
+À l'ère du numérique, nos vies personnelles, professionnelles et
+économiques dépendent fortement des systèmes informatiques et des
+réseaux connectés, qui peuvent être vulnérables à des attaques comme le
+piratage, le vol de données, les logiciels malveillants ou le phishing.
+
+La cybersécurité étudie ces risques et propose des solutions pour les
+prévenir, tandis que le hacking éthique consiste à comprendre les
+méthodes des attaquants afin de mieux protéger les systèmes.
+
+Ce travail de maturité vous invite à explorer les aspects techniques et
+éthiques de la cybersécurité, en étudiant par exemple comment : 
+
+- identifier et analyser les vulnérabilités d'un système ou d'un réseau
+- protéger les données personnelles et sensibles
+- évaluer les risques liés aux applications et services en ligne
+- utiliser outils et protocoles pour sécuriser communications et
+transactions
+- réfléchir aux dilemmes éthiques du hacking et de la surveillance
+numérique.
+
+L'intelligence artificielle offre de nouvelles possibilités pour
+renforcer la cybersécurité : elle permet de détecter automatiquement des
+comportements suspects, d'analyser des logiciels malveillants,
+d'anticiper des attaques et d'améliorer la protection des données
+sensibles.
+
+\newpage
+
+Votre travail de maturité pourra inclure : 
+
+- la formulation d'hypothèses sur les vulnérabilités ; 
+- la conception de protocoles expérimentaux sécurisés (création de
+réseaux de test, élaboration d'outils de détection assistés par IA,
+analyse de malware, création d'une campagne de sensibilisation avec des
+simulations de phishing ou d'ingénierie sociale...)
+- l'analyse des résultats afin d'expliquer les risques de sécurité et de
+proposer des solutions adaptées.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _Mme Emilie Michaud_                              |
+| Répartition des élèves | Binômes obligatoires                                |
+| Présentation en salle  | 320                                  |
+:::

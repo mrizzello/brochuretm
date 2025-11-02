@@ -1,0 +1,23 @@
+# L'art spolié durant la seconde guerre mondiale
+
+::: {.center data-latex=""}
+![](images/l-art-spolie-durant-la-seconde-guerre-mondiale.jpg){height=16em}
+:::
+Ce thème vous invite à explorer l'histoire souvent méconnue des oeuvres
+d'art volées par le régime nazi entre 1933 et 1945. En choisissant ce
+sujet, vous aurez l'occasion d'étudier le parcours fascinant de ces
+oeuvres mais également l'histoire de vie de leurs propriétaires. Vous
+serez également amené à traiter les enjeux actuels liés au devoir de
+mémoire ainsi qu'à la restitution (ou pas) des oeuvres d'art. Il est
+donc possible de se focaliser sur différents axes autour de cette
+thématique, comme par exemple l'aspect juridique ou le côté historique
+mais aussi sur les questions éthiques.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _Mme Aleksandra Jankovic_                              |
+| Répartition des élèves | Binômes conseillés                                |
+| Langue(s)              | Allemand, Français                                |
+| Présentation en salle  | 224                                  |
+:::

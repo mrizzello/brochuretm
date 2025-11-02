@@ -1,9 +1,8 @@
 # C’est pas sorcier 
 
 ::: {.center data-latex=""}
-![](images/c-est-pas-sorcier.jpg){height=14em}
+![](images/c-est-pas-sorcier.jpg){height=16em}
 :::
-
 **Mettre en scène un sujet scientifique à la manière de la célèbre
 émission de France 3 avec les personnages iconiques de Fred et Jamy.**
 

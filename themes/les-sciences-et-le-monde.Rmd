@@ -1,9 +1,8 @@
 # Les sciences et le monde
 
 ::: {.center data-latex=""}
-![](images/les-sciences-et-le-monde.jpg){height=14em}
+![](images/les-sciences-et-le-monde.jpg){height=16em}
 :::
-
 Dans l'une de ses citations les plus célèbres, Galilée décrit la nature
 comme un livre écrit dans un langage particulier : celui des
 mathématiques.
@@ -40,5 +39,5 @@ Le travail peut être rédigé en français ou en anglais.
 | Référent·e·(s)         | _M. Tiziano Ferrando et M. Aymeric Perriard_                              |
 | Répartition des élèves | Indifférent                                |
 | Langue(s)              | Anglais, Français                                |
-| Présentation en salle  | 021                                  |
+| Présentation en salle  | 023                                  |
 :::

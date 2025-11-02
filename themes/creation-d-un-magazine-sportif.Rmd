@@ -1,0 +1,46 @@
+# Création d’un magazine sportif
+
+::: {.center data-latex=""}
+![](images/creation-d-un-magazine-sportif.png){height=16em}
+:::
+Le projet de Travail de Maturité a pour objectif de créer un magazine
+consacré au sport, combinant recherche journalistique, travail de
+terrain et création graphique. Réalisé en binôme, il comptera environ
+quarante pages et s'appuiera sur une bibliographie détaillée assurant la
+fiabilité des sources.
+
+Le magazine rassemblera au moins six articles originaux (interviews,
+reportages, portraits, analyses, etc.) organisés autour d'une ligne
+éditoriale claire et cohérente.
+
+Une section centrale, appelée << long format >>, constituera le cœur
+du projet. Cet article, plus long et approfondi que les autres,
+s'apparentera à un mini Travail de Maturité. Il développera une
+problématique précise et s'appuiera sur une véritable démarche de
+recherche et d'enquête (entretiens, observations, analyses). Son
+objectif sera d'offrir une réflexion structurée et argumentée, fondée
+sur une recherche académique rigoureuse.
+
+La mise en page, réalisée sur Adobe InDesign, devra présenter un rendu
+professionnel et attrayant. Les illustrations seront majoritairement
+personnelles et conformes aux droits d'auteur. Des pages publicitaires
+ou des partenariats avec des sponsors, réels ou fictifs, pourront être
+intégrés afin de renforcer le réalisme du magazine et de contribuer au
+financement de son impression.
+
+Le contenu pourra traiter d'un sport unique sous différents angles
+(culturel, social, technique, économique, etc.) ou de plusieurs
+disciplines reliées par un thème commun (sport et société, sport et
+santé, sport et innovation, etc.).
+
+La réussite du projet dépendra de la cohérence d'ensemble, de la qualité
+rédactionnelle, de l'originalité du contenu et du soin apporté à la
+présentation visuelle.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Etienne Chabloz, Mme Anne Thiébaud, Mme Floriane Seiler et M. Carlos Fidalgo_                              |
+| Répartition des élèves | Binômes obligatoires                                |
+| Présentation en salle  | 021                                  |
+:::

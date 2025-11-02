@@ -1,0 +1,38 @@
+# Du plateau au pixel : créer et promouvoir un jeu de société
+
+::: {.center data-latex=""}
+![](images/du-plateau-au-pixel-creer-et-promouvoir-un-jeu-d.jpg){height=16em}
+:::
+Ce projet s'adresse à celles et ceux qui veulent combiner créativité,
+stratégie et compétences numériques. En binôme, vous imaginerez de A à Z
+un jeu de société qui n'a pas encore été inventé ou publié à ce jour
+avec toutes ses mécaniques, ses règles, son design et ses objectifs.
+
+Vous construirez également son univers numérique en réalisant un site
+web de promotion avec les technologies de votre choix (HTML/CSS,
+JavaScript, CMS ou framework). Le but ? Présenter le jeu, permettre son
+téléchargement (ou le téléchargement des règles) ou son hypothétique
+future commande, et valoriser vos démarches.
+
+Le projet comporte une dimension concrète : vous contacterez un éditeur
+ou une imprimerie pour envisager une première production, chercherez des
+sponsors pour financer une édition << jouable >>, et organiserez des
+sessions de test avec retour d'expérience (famille, amis ...). Il
+faudra également convaincre un hébergeur de soutenir votre site pour
+qu'il soit publié !
+
+Ce projet met l'accent sur : 
+
+-   Votre créativité
+-   Le développement web (design, contenu, ergonomie)
+-   La communication numérique
+-   La gestion de projet et la collaboration avec des partenaires
+    professionnels
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Aurélien Saudemont_                              |
+| Répartition des élèves | Binômes obligatoires                                |
+| Présentation en salle  | 346                                  |
+:::

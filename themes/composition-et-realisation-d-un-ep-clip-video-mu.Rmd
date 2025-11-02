@@ -7,14 +7,12 @@ clip vidéo pour illustrer l'une de vos compositions.
 Le TM s'effectue en trois étapes : 
 
 **La composition**
-
 Dans un premier temps, vous devrez composer la musique et les paroles
 (s'il y en a) de votre EP. Ces compositions pourront être faites dans
 n'importe quel style musical (chanson française, rap, pop,
 classique,...).
 
 **L'enregistrement**
-
 Vous devrez ensuite vous occuper de l'instrumentation et de
 l'enregistrement de vos compositions en utilisant les logiciels audios
 tels que logic pro X, Ableton, Garageband, Pro Tools et réaliser un mix
@@ -22,7 +20,6 @@ puis un Mastering. Vous pourrez vous entourer d'autres musiciens si vous
 le jugez nécessaire.
 
 **Réalisation du clip**
-
 Enfin, vous devrez présenter un clip vidéo pour illustrer une de vos
 compositions. Pour cela, vous devrez utiliser un logiciel d'édition
 vidéo.

@@ -1,0 +1,30 @@
+# Démocratie et théorie des jeux : expérimenter les modes de scrutin
+
+::: {.center data-latex=""}
+![](images/democratie-et-theorie-des-jeux-experimenter-les-.png){height=16em}
+:::
+Et si le résultat de nos choix ne dépendait pas entièrement de nos
+décisions? Et si la méthode de vote elle-même influençait le résultat
+d'une élection? Une analyse mathématique de nos systèmes démocratiques
+conduit rapidement à ce constat : les systèmes utilisés de nos jours ne
+permettent pas de représenter les préférences réelles de la population.
+Ils ne remplissent donc pas fidèlement leur rôle vis-à-vis de la
+démocratie!
+
+On se demande souvent *quoi* choisir. On mange où à midi? On fait quoi
+ce weekend? Mais on ne se demande presque jamais *comment* faire ces
+choix. Comment peut-on mieux choisir la manière de faire un choix?
+
+Ce travail vous propose d'aller au-delà de la théorie et de mettre en
+place différents modes de scrutin, de les tester sur des choix concrets,
+et d'analyser leurs forces et faiblesses. À travers cette
+expérimentation, vous découvrirez comment la théorie des jeux éclaire
+les dilemmes démocratiques et les paradoxes du vote.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. Yannick Donnet_                              |
+| Répartition des élèves | Binômes obligatoires                                |
+| Présentation en salle  | 126                                  |
+:::

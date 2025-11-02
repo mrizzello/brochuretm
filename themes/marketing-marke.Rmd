@@ -1,0 +1,23 @@
+# Marketing - Marke
+
+## Kreieren Sie Ihre Marke {-}
+Sie kreieren ein neues Produkt und eine neue Marke unter
+Berücksichtigung von wirtschaftlichen und Marketing spezifischen
+Aspekten. Diese Arbeit erfordert Freude an Kreativität verbunden mit der
+Erarbeitung von wirtschaftlichen Aspekten.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _Mme Verena Kottmeier_                              |
+| Répartition des élèves | Indifférent                                |
+| Langue(s)              | Allemand                                |
+| Présentation en salle  | 128                                  |
+:::
+
+\vspace{6em}
+\begingroup
+\renewcommand{\clearpage}{}
+```{r child="themes/wirtschaft-und-sport.Rmd"}
+```
+\endgroup

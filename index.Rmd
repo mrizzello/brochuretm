@@ -2,7 +2,10 @@
 title: |
   ![](logo.png){width=50%}  
   \vspace{6em}
-  Travaux de maturité 2025
+  Travaux de maturité 2026\par
+  \vspace{6em}
+  \small Photographie de couverture de \href{https://unsplash.com/@susan_wilkinson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText}{Susan Wilkinson} depuis \href{https://unsplash.com/photos/a-group-of-different-colored-plants-on-a-white-surface-krzUB0cTpX0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"}{Unsplash}
+      
 date: "`r format(Sys.time(), '%d.%m.%Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -13,7 +16,7 @@ github-repo: "mrizzello/borchuretm"
 description: "Brochure de présentation des thèmes proposés aux élèves 2M du Gymnase d'Etoy"
 lang: fr
 papersize: a4
-geometry: "left=6em,right=6em,top=6em,bottom=8em"
+geometry: "left=6em,right=6em,top=5em,bottom=8em"
 ---
 \newpage
 
@@ -34,12 +37,12 @@ Distribution à :
 
 Chères élèves et chers élèves de 2^e^ année de l'École de maturité,
 
-Vous recevez cette brochure qui concerne le travail de maturité pour la volée 2024-2025 et qui contient, en particulier, les thèmes des projets qui vous sont proposés.
+Vous recevez cette brochure qui concerne le travail de maturité pour la volée 2025-2026 et qui contient, en particulier, les thèmes des projets qui vous sont proposés.
 
 Je vous donne rendez-vous le
 
 ::: {.center data-latex=""}
-**mardi 19 novembre à 11h05 ;  
+**mardi 18 novembre à 11h20 ;  
 à l'Espace Galerie (prolongement du hall d'entrée)**
 :::
 
@@ -47,11 +50,11 @@ afin d'y recevoir une information générale sur l'organisation du travail de ma
 
 Vous aurez ensuite la possibilité de suivre la présentation de trois projets que vous aurez retenus parmi les pages qui suivent. Les présentations se dérouleront comme suit :
 
-- la première de 11h55 à 12h20,
-- la seconde de 12h25 à 12h50 et
-- la troisième de 12h55 à 13h30.
+- la première de 12h10 à 12h35,
+- la deuxième de 12h40 à 13h05 et
+- la troisième de 13h10 à 13h45.
 
-Les cours seront donc interrompus ce jour de 11h00 à 13h30 pour les classes de 2M. Ils reprendront à 13h35 selon l'horaire habituel.
+Les cours seront donc interrompus ce jour de 11h20 à 13h45 pour les classes de 2M. Ils reprendront à 13h50 selon l'horaire habituel.
 
 Suite à ces présentations, vous devrez nous communiquer trois souhaits de thèmes par ordre de préférence par le biais d'un formulaire en ligne.
 
@@ -76,7 +79,7 @@ Portail des applications > Hermes II > Inscriptions
 La date limite pour nous communiquer vos thèmes est fixée au 
 
 ::: {.center data-latex=""}
-**mercredi 27 novembre à 16h00**.
+**mercredi 26 novembre à 16h00**.
 :::
 
 Les thèmes seront attribués dans la limite des places disponibles et, dans la mesure du possible, selon l'ordre de préférence indiqué.
