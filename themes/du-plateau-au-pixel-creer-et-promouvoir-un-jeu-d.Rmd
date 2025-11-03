@@ -16,7 +16,7 @@ future commande, et valoriser vos démarches.
 
 Le projet comporte une dimension concrète : vous contacterez un éditeur
 ou une imprimerie pour envisager une première production, chercherez des
-sponsors pour financer une édition << jouable >>, et organiserez des
+sponsors pour financer une édition "jouable", et organiserez des
 sessions de test avec retour d'expérience (famille, amis ...). Il
 faudra également convaincre un hébergeur de soutenir votre site pour
 qu'il soit publié !

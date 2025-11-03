@@ -13,7 +13,7 @@ Le magazine rassemblera au moins six articles originaux (interviews,
 reportages, portraits, analyses, etc.) organisés autour d'une ligne
 éditoriale claire et cohérente.
 
-Une section centrale, appelée << long format >>, constituera le cœur
+Une section centrale, appelée "long format", constituera le cœur
 du projet. Cet article, plus long et approfondi que les autres,
 s'apparentera à un mini Travail de Maturité. Il développera une
 problématique précise et s'appuiera sur une véritable démarche de
