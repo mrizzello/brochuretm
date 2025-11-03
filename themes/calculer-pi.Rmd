@@ -5,20 +5,20 @@
 :::
 (TM disponible en français et en allemand)
 
-Pi est souvent introduit à l'école comme étant la << constante du
-cercle >>, c-a-d le rapport constant entre le périmètre et le rayon de
+Pi est souvent introduit à l'école comme étant la constante du
+cercle, c-a-d le rapport constant entre le périmètre et le rayon de
 tous les cercles. En fait, Pi inonde aussi toutes les autres branches
 des mathématiques.
 
 - En **analyse**, le quart de Pi est égal à la série infinie  
 1 - 1/3 + 1/5 -1/7 + 1/9 -1/11 ... (formule de LEIBNIZ)
 - En **probabilité**, si on choisit deux nombres entiers naturels au
-hasard, il y a 6/(Pi^2^) << chances >> (environ 60%) que les deux
+hasard, il y a 6/(Pi^2^) chances (environ 60%) que les deux
 nombres choisis soient premiers entre eux (théorème de CESARO).
-- En **théorie des nombres**, on pense que Pi est un << nombre
-univers >>, c-a-d que les décimales de Pi contiennent absolument tous
+- En **théorie des nombres**, on pense que Pi est un nombre
+univers, c-a-d que les décimales de Pi contiennent absolument tous
 les nombres entiers possibles. En particulier la date de votre
-anniversaire serait cachées quelque part dans les décimales de Pi
+anniversaire serait cachée quelque part dans les décimales de Pi
 (mypiday.com), la mienne est cachée à la 320 001 décimale.
 
 Depuis l'avènement de l'informatique, on découvre sans cesse de
@@ -26,7 +26,7 @@ nouvelles formules permettant de calculer Pi plus ou moins efficacement.
 La recherche hallucinante autour de ce nombre permettrait de mieux
 comprendre comment faire calculer une machine plus rapidement, ce
 qu'est véritablement un nombre ou encore ce qu'est le
-<< hasard >>.
+hasard.
 
 En particulier, les formules découvertes ces 30 dernières années sont
 tellement géniales qu'on se demande comment elles n'ont pas pu être
