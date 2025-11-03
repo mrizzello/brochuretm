@@ -25,3 +25,10 @@ La partie écrite du TM comportera : 
 | Répartition des élèves | Indifférent                                |
 | Présentation en salle  | 310                                  |
 :::
+
+\vspace{4em}
+\begingroup
+\renewcommand{\clearpage}{}
+```{r child="themes/composition-et-realisation-d-un-ep-clip-video-mu.Rmd"}
+```
+\endgroup

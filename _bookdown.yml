@@ -48,7 +48,8 @@ rmd_files:
   # - themes/wirtschaft-und-sport.Rmd
 #Musique
   - themes/organisation-d-un-concert-public.Rmd
-  - themes/composition-et-realisation-d-un-ep-clip-video-mu.Rmd
+  # - themes/composition-et-realisation-d-un-ep-clip-video-mu.Rmd
+  - themes/creation-d-une-comedie-musicale-ou-d-une-piece-d.Rmd
 #Autre
   - themes/l-enfance-migrante.Rmd
   - themes/le-monde-a-notre-portee.Rmd

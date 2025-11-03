@@ -1,0 +1,34 @@
+# Création d’une comédie musicale ou d’une pièce de théâtre
+
+::: {.center data-latex=""}
+![](images/creation-d-une-comedie-musicale-ou-d-une-piece-d.png){height=14em}
+:::
+L'objectif de ce TM est de créer une pièce de théâtre ou une comédie
+musicale originale que vous pourrez décider de mettre en scène ou non.
+
+**Écriture et conception du projet**
+
+Dans un premier temps, vous devrez décider du concept dramaturgique de
+votre création. Vous en rédigerez ensuite intégralement le texte. Si
+vous choisissez l'option << comédie musicale >>, vous pourrez soit
+créer vos propres compositions, soit créer une intrigue à partir de
+chants déjà existants.
+
+Dans l'opuscule, vous devrez expliquer vos influences, vos choix
+artistiques et les différentes étapes d'écriture.
+
+**Organisation, mise en scène et répétitions**
+
+Si vous décidez de mettre en scène votre pièce de théâtre ou votre
+comédie musicale, vous devrez vous occuper de son organisation : le
+casting, les répétitions, les décors, les costumes, les lumières, le
+son, la location des lieux de répétition et de représentation, le
+financement etc.
+
+::: {.small data-latex=""}
+|                        |                                            |
+| :------------- | :----------------------------------------- |
+| Référent·e·(s)         | _M. François Voeffray_                              |
+| Répartition des élèves | Indifférent                                |
+| Présentation en salle  | 310                                  |
+:::
