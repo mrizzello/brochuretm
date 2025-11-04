@@ -6,7 +6,7 @@
 Et si le résultat de nos choix ne dépendait pas entièrement de nos
 décisions? Et si la méthode de vote elle-même influençait le résultat
 d'une élection? Une analyse mathématique de nos systèmes démocratiques
-conduit rapidement à ce constat : les systèmes utilisés de nos jours ne
+conduit rapidement à ce constat : les systèmes utilisés de nos jours ne
 permettent pas de représenter les préférences réelles de la population.
 Ils ne remplissent donc pas fidèlement leur rôle vis-à-vis de la
 démocratie!

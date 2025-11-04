@@ -4,7 +4,7 @@
 ![](images/ecologie-biodiversite.jpeg){height=16em}
 :::
 L'écologie est la science qui s'intéresse aux écosystèmes,
-c'est-à-dire : aux interactions des organismes vivants entre eux et
+c'est-à-dire : aux interactions des organismes vivants entre eux et
 avec leur environnement.
 
 Un écosystème est toujours formé d'un certain nombre de facteurs

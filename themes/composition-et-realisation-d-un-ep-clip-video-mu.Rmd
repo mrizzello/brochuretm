@@ -4,7 +4,7 @@ L'objectif de ce TM est de réaliser un EP à partir de compositions
 musicales personnelles. Vous aurez également l'opportunité de créer un
 clip vidéo pour illustrer l'une de vos compositions.
 
-Le TM s'effectue en trois étapes : 
+Le TM s'effectue en trois étapes : 
 
 **La composition**
 Dans un premier temps, vous devrez composer la musique et les paroles

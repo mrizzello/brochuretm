@@ -13,7 +13,7 @@ prévenir, tandis que le hacking éthique consiste à comprendre les
 méthodes des attaquants afin de mieux protéger les systèmes.
 
 Ce travail de maturité vous invite à explorer les aspects techniques et
-éthiques de la cybersécurité, en étudiant par exemple comment : 
+éthiques de la cybersécurité, en étudiant par exemple comment : 
 
 - identifier et analyser les vulnérabilités d'un système ou d'un réseau
 - protéger les données personnelles et sensibles
@@ -24,16 +24,16 @@ transactions
 numérique.
 
 L'intelligence artificielle offre de nouvelles possibilités pour
-renforcer la cybersécurité : elle permet de détecter automatiquement des
+renforcer la cybersécurité : elle permet de détecter automatiquement des
 comportements suspects, d'analyser des logiciels malveillants,
 d'anticiper des attaques et d'améliorer la protection des données
 sensibles.
 
 \newpage
 
-Votre travail de maturité pourra inclure : 
+Votre travail de maturité pourra inclure : 
 
-- la formulation d'hypothèses sur les vulnérabilités ; 
+- la formulation d'hypothèses sur les vulnérabilités ; 
 - la conception de protocoles expérimentaux sécurisés (création de
 réseaux de test, élaboration d'outils de détection assistés par IA,
 analyse de malware, création d'une campagne de sensibilisation avec des
