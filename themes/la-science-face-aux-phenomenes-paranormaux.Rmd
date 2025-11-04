@@ -1,7 +1,7 @@
 # La science face aux phénomènes paranormaux
 
 ::: {.center data-latex=""}
-![](images/la-science-face-aux-phenomenes-paranormaux.jpg){height=13em}
+![](images/la-science-face-aux-phenomenes-paranormaux.jpg){height=12.5em}
 :::
 Objectivité, rationalité, rigueur, vérifiabilité, universalité... Nous
 sommes dans les caractéristiques définitoires de la Science. Il

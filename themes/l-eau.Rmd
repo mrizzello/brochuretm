@@ -1,7 +1,7 @@
 # L'eau
 
 ::: {.center data-latex=""}
-![](images/l-eau.jpeg){height=15em}
+![](images/l-eau.jpeg){height=13.5em}
 :::
 L'eau est au cœur de la biologie, car elle constitue le milieu de vie
 dans lequel toute forme de vie a émergé. Des premières cellules aux
